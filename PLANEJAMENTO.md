@@ -3,18 +3,22 @@
 ## Bibliografia
 
 ##Aulas
-Introdução à Metodologia Científica (cap 3)
-Pesquisa bibliográfica e resumo (cap 2)
-Métodos científicos (cap 4)
-Hipóteses, variáveis (caps 6,7)
-Planejamento (cap 8)
-Desenho experimental (estatístico)
-Projeto I - Projeto e relatório (cap 10)
-Projeto II - Dissertação e artigos (caps 11,12)
-Citações, Referências e Plágio (cap 13)
+1. Introdução à Metodologia Científica (cap 3)
+2. Pesquisa bibliográfica e resumo (cap 2)
+3. Métodos científicos (cap 4)
+4. Hipóteses, variáveis (caps 6,7)
+5. Planejamento (cap 8)
+6. Desenho experimental (estatístico)
+7. Projeto I - Projeto e relatório (cap 10)
+8. Projeto II - Dissertação e artigos (caps 11,12)
+9. Citações, Referências e Plágio (cap 13)
+10. 
+11. Tópicos de escrita científica (Gopen, Swan)
+12. Indicadores em Ciência (Hirsch)
+13. Seminários
+14. Seminários 
+15. Seminários
 
-Tópicos de escrita científica (Gopen, Swan)
-Indicadores em Ciência (Hirsch)
 As aulas 13, 14 e 15 estão reservadas para os seminários. Vejam abaixo a seção Avaliação.
 
 Ainda preciso decidir uma das aulas! Agradeço quaisquer sugestões para esta lacuna, ou quaisquer modificações no roteiro acima. Caso eu não consiga algum tópico relevante, estava pensando em revisar os típos de estudos (caso-controle, transversal, coorte, etc) como a terceira ou quarta aula. Isso seria apropriado?
