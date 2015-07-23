@@ -23,6 +23,10 @@ As aulas 13, 14 e 15 estão reservadas para os seminários. Vejam abaixo a seç�
 
 Ainda preciso decidir uma das aulas! Agradeço quaisquer sugestões para esta lacuna, ou quaisquer modificações no roteiro acima. Caso eu não consiga algum tópico relevante, estava pensando em revisar os típos de estudos (caso-controle, transversal, coorte, etc) como a terceira ou quarta aula. Isso seria apropriado?
 
+Propostas para aula que falta:
+* Tipos de estudos
+* EDA
+
 ##Avaliação
 
 Pretendo providenciar conjuntos de dados simulados para os grupos de alunos (preferencialemnte dupla ou trio, conforme a quantidade de alunos inscritos).
