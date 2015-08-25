@@ -6,7 +6,7 @@
 1. Introdução à Metodologia Científica (cap 3)
 2. Pesquisa bibliográfica e resumo (cap 2)
 3. Métodos científicos (cap 4)
-4. Hipóteses, variáveis (caps 6,7)
+4. Problema, hipóteses, variáveis (caps 6,7)
 5. Planejamento (cap 8)
 6. Desenho experimental (estatístico)
 7. Projeto I - Projeto e relatório (cap 10)
