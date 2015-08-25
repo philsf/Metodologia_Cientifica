@@ -5,7 +5,7 @@
 ##Aulas
 1. Introdução: conhecimento (cap 3)
 2. Métodos científicos (cap 4)
-3. Hipóteses, variáveis (caps 6,7)
+3. Problema, Hipóteses, variáveis (caps 6,7)
 4. Pesquisa bibliográfica e resumo (cap 2)
 5. Planejamento (cap 8)
 6. EDA
