@@ -3,16 +3,16 @@
 ## Bibliografia
 
 ##Aulas
-1. Introdução: conhecimento (cap 3)
-2. Métodos científicos (cap 4)
-3. Problema, Hipóteses, variáveis (caps 6,7)
-4. Pesquisa bibliográfica e resumo (cap 2)
-5. Planejamento (cap 8)
+1. Introdução: conhecimento
+2. Métodos científicos
+3. Problema, Hipóteses, variáveis
+4. Pesquisa bibliográfica e resumo
+5. Planejamento
 6. EDA
-7. Desenho experimental (estatístico)
-8. Projeto I - Projeto e relatório (cap 10)
-9. Projeto II - Dissertação e artigos (caps 11,12)
-10. Citações, Referências e Plágio (cap 13)
+7. Desenho experimental
+8. Projeto I - Projeto e relatório
+9. Projeto II - Dissertação e artigos
+10. Citações, Referências e Plágio
 11. Tópicos de escrita científica (Gopen, Swan)
 12. Indicadores em Ciência (Hirsch)
 13. Seminários
