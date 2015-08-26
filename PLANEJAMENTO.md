@@ -21,6 +21,10 @@
 
 ##Avaliação
 
+Os alunos serão avaliados em duas etapas: ao longo dos encontros, devem elaborar um projeto textual, baseado em dados e resultados que serão providenciados pelo docente.
+
+Ao final da disciplina, devem apresentar um seminário, defendendo este projeto.
+
 Pretendo providenciar conjuntos de dados simulados para os grupos de alunos (preferencialemnte dupla ou trio, conforme a quantidade de alunos inscritos).
 
 Conforme as aulas forem se desenrolando, eles devem formular uma pergunta a ser respondida com esses dados, e escrever um mini-projeto, etapa por etapa.
