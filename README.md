@@ -23,5 +23,11 @@ A digulgação do material para os alunos é feita pelo endereço: https://sites
 
 Os alunos serão avaliados em duas etapas: ao longo dos encontros, devem elaborar um projeto textual, baseado em dados e resultados que serão providenciados pelo docente.
 
+Conforme as aulas forem se desenrolando, eles devem formular uma pergunta a ser respondida com esses dados, e escrever um mini-projeto, etapa por etapa.
+
+Este texto deve ser enviado com antecedência (de preferência no máximo até a aula 12). O objetivo do seminário é "defender" este projeto. Convido outros docentes do programa para formar uma "banca", caso seja possível ou conveniente.
+
+Ao final da disciplina, devem apresentar um seminário, defendendo este projeto.
+
 ## Licensa
 Todo o material contido aqui é distribuído sob a licensa [Creative Commons Atribuição](http://creativecommons.org/licenses/by/4.0/deed.pt_BR)
