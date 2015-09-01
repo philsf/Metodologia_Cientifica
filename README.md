@@ -19,6 +19,11 @@ A digulgação do material para os alunos é feita pelo endereço: https://sites
 * Tópicos de escrita científica (Gopen, Swan)
 * Indicadores em Ciência (Hirsch)
 
+##Bibliografia
+
+* PRODANOV, Cleber Cristiano; de FREITAS, Ernani Cesar. (2013) **Metodologia do Trabalho Científico: Métodos e Técnicas da Pesquisa e do Trabalho Acadêmico**, 2a ed, Novo Hamburgo: Editora Feevale.
+* LAKATOS, Eva Maria; MARCONI, Marina de Andrade. (2003) **Fundamentos de Metodologia Científica**, 5a ed, São Paulo: Editora Atlas
+
 ##Avaliação
 
 Os alunos serão avaliados em duas etapas: ao longo dos encontros, devem elaborar um projeto textual, baseado em dados e resultados que serão providenciados pelo docente.
