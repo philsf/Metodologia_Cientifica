@@ -19,5 +19,9 @@ A digulgação do material para os alunos é feita pelo endereço: https://sites
 * Tópicos de escrita científica (Gopen, Swan)
 * Indicadores em Ciência (Hirsch)
 
+##Avaliação
+
+Os alunos serão avaliados em duas etapas: ao longo dos encontros, devem elaborar um projeto textual, baseado em dados e resultados que serão providenciados pelo docente.
+
 ## Licensa
 Todo o material contido aqui é distribuído sob a licensa [Creative Commons Atribuição](http://creativecommons.org/licenses/by/4.0/deed.pt_BR)
