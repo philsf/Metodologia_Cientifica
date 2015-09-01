@@ -8,8 +8,8 @@ A digulgação do material para os alunos é feita pelo endereço: https://sites
 
 * Introdução: conhecimento
 * Métodos científicos
-* Problema, Hipóteses, variáveis
 * Pesquisa bibliográfica e resumo
+* Problema, Hipóteses, variáveis
 * Planejamento
 * EDA
 * Desenho experimental
