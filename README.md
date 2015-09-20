@@ -22,13 +22,13 @@ A digulgação do material para os alunos é feita pelo endereço: https://sites
 ##Bibliografia
 
 Livro texto:
-* PRODANOV, Cleber Cristiano; de FREITAS, Ernani Cesar. (2013) **Metodologia do Trabalho Científico: Métodos e Técnicas da Pesquisa e do Trabalho Acadêmico**, 2a ed, Novo Hamburgo: Editora Feevale.
-* LAKATOS, Eva Maria; MARCONI, Marina de Andrade. (2003) **Fundamentos de Metodologia Científica**, 5a ed, São Paulo: Editora Atlas
+* PRODANOV, Cleber Cristiano; de FREITAS, Ernani Cesar. (2013) *Metodologia do Trabalho Científico: Métodos e Técnicas da Pesquisa e do Trabalho Acadêmico*, 2a ed, Novo Hamburgo: Editora Feevale.
+* LAKATOS, Eva Maria; MARCONI, Marina de Andrade. (2003) *Fundamentos de Metodologia Científica*, 5a ed, São Paulo: Editora Atlas
 
 Online:
-* GOPEN, George; SWAN, Judith. (1990) The science of scientific writing, American Scientist ([HTML](http://www.americanscientist.org/issues/pub/the-science-of-scientific-writing/99999), PDF)
-* HIRSCH, J.E. (2005) An index to quantify an individual's scientific research output, PNAS ([HTML](http://www.pnas.org/content/102/46/16569), PDF)
-* HIRSCH, J.E. (2007) Does the h index have predictive power?, PNAS ([HTML](http://www.pnas.org/content/104/49/19193.full), PDF)
+* GOPEN, George; SWAN, Judith. (1990) *The science of scientific writing*, **American Scientist** ([HTML](http://www.americanscientist.org/issues/pub/the-science-of-scientific-writing/99999), PDF)
+* HIRSCH, J.E. (2005) *An index to quantify an individual's scientific research output*, **PNAS** ([HTML](http://www.pnas.org/content/102/46/16569), PDF)
+* HIRSCH, J.E. (2007) *Does the h index have predictive power?*, **PNAS** ([HTML](http://www.pnas.org/content/104/49/19193.full), PDF)
 
 ##Avaliação
 
