@@ -36,7 +36,16 @@ Os alunos serão avaliados em duas etapas: ao longo dos encontros, devem elabora
 
 Conforme as aulas forem se desenrolando, eles devem formular uma pergunta a ser respondida com esses dados, e escrever um mini-projeto, etapa por etapa.
 
+
+### Avaliação parcial ###
+
 Este texto deve ser enviado com antecedência (de preferência no máximo até a aula 12). O objetivo do seminário é "defender" este projeto. Convido outros docentes do programa para formar uma "banca", caso seja possível ou conveniente.
+
+* [Texto e orientações](https://github.com/philsf/Metodologia_Cientifica/raw/master/Trabalhos/MC-Avaliacao_parcial.pdf)
+* [Gráfico de dispersão](https://github.com/philsf/Metodologia_Cientifica/raw/master/Trabalhos/dispersao.png)
+* [Histograma](https://github.com/philsf/Metodologia_Cientifica/raw/master/Trabalhos/histograma.png)
+* [Boxplot](https://github.com/philsf/Metodologia_Cientifica/raw/master/Trabalhos/boxplot.png)
+* [Dados brutos (CSV)](https://github.com/philsf/Metodologia_Cientifica/raw/master/Trabalhos/MC-avaliacao_parcial.csv)
 
 Ao final da disciplina, devem apresentar um seminário, defendendo este projeto.
 
