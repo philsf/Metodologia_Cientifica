@@ -12,8 +12,8 @@ A digulgação do material para os alunos é feita pelo endereço: https://sites
 * [Problema, Hipóteses, variáveis](https://github.com/philsf/Metodologia_Cientifica/raw/master/Aulas/MC%20-%20Aula%20Hipoteses_variaveis.pdf)
 * [Etapas, Planejamento, Fracassos](https://github.com/philsf/Metodologia_Cientifica/raw/master/Aulas/MC%20-%20Aula%20Etapas.pdf)
 * [EDA](https://github.com/philsf/Metodologia_Cientifica/raw/master/Aulas/MC%20-%20Aula%20EDA.pdf)
-* Projeto I - Projeto e relatório
-* Projeto II - Dissertação e artigos
+* Projeto I
+* Projeto II
 * Citações, Referências e Plágio
 * Tópicos de busca bibliográfica
 * Tópicos de escrita científica (Gopen, Swan)
