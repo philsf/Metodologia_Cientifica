@@ -14,7 +14,7 @@ A digulgação do material para os alunos é feita pelo endereço: https://sites
 * [EDA](https://github.com/philsf/Metodologia_Cientifica/raw/master/Aulas/MC%20-%20Aula%20EDA.pdf)
 * [Projeto I](https://github.com/philsf/Metodologia_Cientifica/raw/master/Aulas/MC%20-%20Aula%20ProjetoI.pdf)
 * [Projeto II](https://github.com/philsf/Metodologia_Cientifica/raw/master/Aulas/MC%20-%20Aula%20ProjetoII.pdf)
-* Citações, Referências e Plágio
+* [Citações, Referências e Plágio](https://github.com/philsf/Metodologia_Cientifica/raw/master/Aulas/MC%20-%20Aula%20Referencias.pdf)
 * Tópicos de busca bibliográfica
 * Tópicos de escrita científica (Gopen, Swan)
 * Indicadores em Ciência (Hirsch)
