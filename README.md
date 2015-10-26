@@ -27,8 +27,8 @@ Livro texto:
 
 Online:
 * GOPEN, George; SWAN, Judith. (1990) *The science of scientific writing*, **American Scientist** ([HTML](http://www.americanscientist.org/issues/pub/the-science-of-scientific-writing/99999), PDF)
-* HIRSCH, J.E. (2005) *An index to quantify an individual's scientific research output*, **PNAS** ([HTML](http://www.pnas.org/content/102/46/16569), PDF)
-* HIRSCH, J.E. (2007) *Does the h index have predictive power?*, **PNAS** ([HTML](http://www.pnas.org/content/104/49/19193.full), PDF)
+* HIRSCH, J.E. (2005) *An index to quantify an individual's scientific research output*, **PNAS** ([HTML](http://www.pnas.org/content/102/46/16569), [PDF](http://www.pnas.org/content/102/46/16569.full.pdf))
+* HIRSCH, J.E. (2007) *Does the h index have predictive power?*, **PNAS** ([HTML](http://www.pnas.org/content/104/49/19193.full), [PDF](http://www.pnas.org/content/104/49/19193.full.pdf))
 
 ##Avaliação
 
