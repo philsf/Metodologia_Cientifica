@@ -16,8 +16,8 @@ A digulgação do material para os alunos é feita pelo endereço: https://sites
 * [Projeto II](https://github.com/philsf/Metodologia_Cientifica/raw/master/Aulas/MC%20-%20Aula%20ProjetoII.pdf)
 * [Citações, Referências e Plágio](https://github.com/philsf/Metodologia_Cientifica/raw/master/Aulas/MC%20-%20Aula%20Referencias.pdf)
 * [Tópicos de busca bibliográfica](https://github.com/philsf/Metodologia_Cientifica/raw/master/Aulas/MC%20-%20Aula%20Busca.pdf)
-* [Tópicos de escrita científica](https://github.com/philsf/Metodologia_Cientifica/raw/master/Aulas/MC%20-%20Aula%20Escrita.pdf) (Gopen, Swan)
-* [Indicadores em Ciência](https://github.com/philsf/Metodologia_Cientifica/raw/master/Aulas/MC%20-%20Aula%20Indicadores.pdf) (Hirsch)
+* [Tópicos de escrita científica](https://github.com/philsf/Metodologia_Cientifica/raw/master/Aulas/MC%20-%20Aula%20Escrita.pdf) (Gopen, Swan, 1990)
+* [Indicadores em Ciência](https://github.com/philsf/Metodologia_Cientifica/raw/master/Aulas/MC%20-%20Aula%20Indicadores.pdf) (Hirsch 2005; Garfield 2006)
 
 ##Bibliografia
 
@@ -28,8 +28,8 @@ Livro texto:
 Online:
 * GOPEN, George; SWAN, Judith. (1990) *The science of scientific writing*, **American Scientist** ([HTML](http://www.americanscientist.org/issues/pub/the-science-of-scientific-writing/99999), PDF)
 * HIRSCH, J.E. (2005) *An index to quantify an individual's scientific research output*, **PNAS** ([HTML](http://www.pnas.org/content/102/46/16569), [PDF](http://www.pnas.org/content/102/46/16569.full.pdf))
-* HIRSCH, J.E. (2007) *Does the h index have predictive power?*, **PNAS** ([HTML](http://www.pnas.org/content/104/49/19193.full), [PDF](http://www.pnas.org/content/104/49/19193.full.pdf))
-
+<!-- * HIRSCH, J.E. (2007) *Does the h index have predictive power?*, **PNAS** ([HTML](http://www.pnas.org/content/104/49/19193.full), [PDF](http://www.pnas.org/content/104/49/19193.full.pdf)) -->
+* GARFIELD, E. (2006) The History and Meaning of the Journal Impact Factor, **JAMA** (HTML, [PDF](http://garfield.library.upenn.edu/papers/jamajif2006.pdf))
 ##Avaliação
 
 Os alunos serão avaliados em duas etapas: ao longo dos encontros, devem elaborar um projeto textual, baseado em dados e resultados que serão providenciados pelo docente.
