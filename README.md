@@ -49,5 +49,5 @@ Este texto deve ser enviado com antecedência (de preferência no máximo até a
 
 Ao final da disciplina, devem apresentar um seminário, defendendo este projeto.
 
-## Licensa
-Todo o material contido aqui é distribuído sob a licensa [Creative Commons Atribuição](http://creativecommons.org/licenses/by/4.0/deed.pt_BR)
+## Licença
+Todo o material contido aqui é distribuído sob a licença [Creative Commons Atribuição](http://creativecommons.org/licenses/by/4.0/deed.pt_BR)
