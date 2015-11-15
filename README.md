@@ -6,18 +6,31 @@ A digulgação do material para os alunos é feita pelo endereço: https://sites
 
 ##Planejamento de aulas de conteúdo
 
-* [Introdução: conhecimento](https://github.com/philsf/Metodologia_Cientifica/raw/master/Aulas/MC%20-%20Aula%20Intro.pdf)
-* [Métodos científicos](https://github.com/philsf/Metodologia_Cientifica/raw/master/Aulas/MC%20-%20Aula%20Metodos.pdf)
-* [Revisão bibliográfica e resumo](https://github.com/philsf/Metodologia_Cientifica/raw/master/Aulas/MC%20-%20Aula%20Revisao_resumo.pdf)
-* [Problema, Hipóteses, variáveis](https://github.com/philsf/Metodologia_Cientifica/raw/master/Aulas/MC%20-%20Aula%20Hipoteses_variaveis.pdf)
-* [Etapas, Planejamento, Fracassos](https://github.com/philsf/Metodologia_Cientifica/raw/master/Aulas/MC%20-%20Aula%20Etapas.pdf)
-* [EDA](https://github.com/philsf/Metodologia_Cientifica/raw/master/Aulas/MC%20-%20Aula%20EDA.pdf)
-* [Projeto I](https://github.com/philsf/Metodologia_Cientifica/raw/master/Aulas/MC%20-%20Aula%20ProjetoI.pdf)
-* [Projeto II](https://github.com/philsf/Metodologia_Cientifica/raw/master/Aulas/MC%20-%20Aula%20ProjetoII.pdf)
-* [Citações, Referências e Plágio](https://github.com/philsf/Metodologia_Cientifica/raw/master/Aulas/MC%20-%20Aula%20Referencias.pdf)
-* [Tópicos de busca bibliográfica](https://github.com/philsf/Metodologia_Cientifica/raw/master/Aulas/MC%20-%20Aula%20Busca.pdf)
-* [Tópicos de escrita científica](https://github.com/philsf/Metodologia_Cientifica/raw/master/Aulas/MC%20-%20Aula%20Escrita.pdf) (Gopen, Swan, 1990)
-* [Indicadores em Ciência](https://github.com/philsf/Metodologia_Cientifica/raw/master/Aulas/MC%20-%20Aula%20Indicadores.pdf) (Hirsch 2005; Garfield 2006)
+* [Introdução: conhecimento][]
+* [Métodos científicos][]
+* [Revisão bibliográfica e resumo][]
+* [Problema, Hipóteses, variáveis][]
+* [Etapas, Planejamento, Fracassos][]
+* [EDA][]
+* [Projeto I][]
+* [Projeto II][]
+* [Citações, Referências e Plágio][]
+* [Tópicos de busca bibliográfica][]
+* [Tópicos de escrita científica][] (Gopen, Swan, 1990)
+* [Indicadores em Ciência][] (Hirsch 2005; Garfield 2006)
+
+[Introdução: conhecimento]: https://github.com/philsf/Metodologia_Cientifica/raw/master/Aulas/MC%20-%20Aula%20Intro.pdf
+[Métodos científicos]: https://github.com/philsf/Metodologia_Cientifica/raw/master/Aulas/MC%20-%20Aula%20Metodos.pdf
+[Revisão bibliográfica e resumo]: https://github.com/philsf/Metodologia_Cientifica/raw/master/Aulas/MC%20-%20Aula%20Revisao_resumo.pdf
+[Problema, Hipóteses, variáveis]: https://github.com/philsf/Metodologia_Cientifica/raw/master/Aulas/MC%20-%20Aula%20Hipoteses_variaveis.pdf
+[Etapas, Planejamento, Fracassos]: https://github.com/philsf/Metodologia_Cientifica/raw/master/Aulas/MC%20-%20Aula%20Etapas.pdf
+[EDA]: https://github.com/philsf/Metodologia_Cientifica/raw/master/Aulas/MC%20-%20Aula%20EDA.pdf
+[Projeto I]: https://github.com/philsf/Metodologia_Cientifica/raw/master/Aulas/MC%20-%20Aula%20ProjetoI.pdf
+[Projeto II]: https://github.com/philsf/Metodologia_Cientifica/raw/master/Aulas/MC%20-%20Aula%20ProjetoII.pdf
+[Citações, Referências e Plágio]: https://github.com/philsf/Metodologia_Cientifica/raw/master/Aulas/MC%20-%20Aula%20Referencias.pdf
+[Tópicos de busca bibliográfica]: https://github.com/philsf/Metodologia_Cientifica/raw/master/Aulas/MC%20-%20Aula%20Busca.pdf
+[Tópicos de escrita científica]: https://github.com/philsf/Metodologia_Cientifica/raw/master/Aulas/MC%20-%20Aula%20Escrita.pdf
+[Indicadores em Ciência]: https://github.com/philsf/Metodologia_Cientifica/raw/master/Aulas/MC%20-%20Aula%20Indicadores.pdf
 
 ##Bibliografia
 
