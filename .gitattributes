@@ -7,3 +7,4 @@ README.md export-ignore
 *.gif binary export-ignore diff=exif
 *.docx diff=word
 *.doc diff=word
+Aulas/*/ export-ignore
