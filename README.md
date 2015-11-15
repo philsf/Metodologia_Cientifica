@@ -59,13 +59,19 @@ Conforme as aulas forem se desenrolando, eles devem formular uma pergunta a ser 
 
 Este texto deve ser enviado com antecedência (de preferência no máximo até a aula 12). O objetivo do seminário é "defender" este projeto. Convido outros docentes do programa para formar uma "banca", caso seja possível ou conveniente.
 
-* [Texto e orientações](https://github.com/philsf/Metodologia_Cientifica/raw/master/Trabalhos/MC-Avaliacao_parcial.pdf)
-* [Gráfico de dispersão](https://github.com/philsf/Metodologia_Cientifica/raw/master/Trabalhos/dispersao.png)
-* [Histograma](https://github.com/philsf/Metodologia_Cientifica/raw/master/Trabalhos/histograma.png)
-* [Boxplot](https://github.com/philsf/Metodologia_Cientifica/raw/master/Trabalhos/boxplot.png)
-* [Dados brutos (CSV)](https://github.com/philsf/Metodologia_Cientifica/raw/master/Trabalhos/MC-avaliacao_parcial.csv)
+* [Texto e orientações][]
+* [Gráfico de dispersão][]
+* [Histograma][]
+* [Boxplot][]
+* [Dados brutos (CSV)][]
 
 Ao final da disciplina, devem apresentar um seminário, defendendo este projeto.
+
+[Texto e orientações]: https://github.com/philsf/Metodologia_Cientifica/raw/master/Trabalhos/MC-Avaliacao_parcial.pdf
+[Gráfico de dispersão]: https://github.com/philsf/Metodologia_Cientifica/raw/master/Trabalhos/dispersao.png
+[Histograma]: https://github.com/philsf/Metodologia_Cientifica/raw/master/Trabalhos/histograma.png
+[Boxplot]: https://github.com/philsf/Metodologia_Cientifica/raw/master/Trabalhos/boxplot.png
+[Dados brutos (CSV)]: https://github.com/philsf/Metodologia_Cientifica/raw/master/Trabalhos/MC-avaliacao_parcial.csv
 
 ## Licença
 Todo o material contido aqui é distribuído sob a licença [Creative Commons Atribuição](http://creativecommons.org/licenses/by/4.0/deed.pt_BR)
