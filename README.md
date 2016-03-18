@@ -75,5 +75,15 @@ Ao final da disciplina, devem apresentar um seminário, defendendo este projeto.
 [Boxplot]: https://github.com/philsf/Metodologia_Cientifica/raw/master/Trabalhos/boxplot.png
 [Dados brutos (CSV)]: https://github.com/philsf/Metodologia_Cientifica/raw/master/Trabalhos/MC-avaliacao_parcial.csv
 
+## Graduação
+
+- [Trabalho 1][]
+- Trabalho 2
+
+[Trabalho 1]: Trabalhos/Trabalho1.pdf
+
+
+
+
 ## Licença
 Todo o material contido aqui é distribuído sob a licença [Creative Commons Atribuição](http://creativecommons.org/licenses/by/4.0/deed.pt_BR)
