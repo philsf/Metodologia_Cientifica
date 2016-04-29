@@ -19,18 +19,18 @@ A digulgação do material para os alunos é feita pelo endereço: https://sites
 * [Tópicos de escrita científica][] (Gopen, Swan, 1990)
 * [Indicadores em Ciência][] (Hirsch 2005; Garfield 2006)
 
-[Introdução: conhecimento]: https://github.com/philsf/Metodologia_Cientifica/raw/master/Aulas/MC%20-%20Aula%20Intro.pdf
-[Métodos científicos]: https://github.com/philsf/Metodologia_Cientifica/raw/master/Aulas/MC%20-%20Aula%20Metodos.pdf
-[Revisão bibliográfica e resumo]: https://github.com/philsf/Metodologia_Cientifica/raw/master/Aulas/MC%20-%20Aula%20Revisao_resumo.pdf
-[Problema, Hipóteses, variáveis]: https://github.com/philsf/Metodologia_Cientifica/raw/master/Aulas/MC%20-%20Aula%20Hipoteses_variaveis.pdf
-[Etapas, Planejamento, Fracassos]: https://github.com/philsf/Metodologia_Cientifica/raw/master/Aulas/MC%20-%20Aula%20Etapas.pdf
-[EDA]: https://github.com/philsf/Metodologia_Cientifica/raw/master/Aulas/MC%20-%20Aula%20EDA.pdf
-[Projeto I]: https://github.com/philsf/Metodologia_Cientifica/raw/master/Aulas/MC%20-%20Aula%20ProjetoI.pdf
-[Projeto II]: https://github.com/philsf/Metodologia_Cientifica/raw/master/Aulas/MC%20-%20Aula%20ProjetoII.pdf
-[Citações, Referências e Plágio]: https://github.com/philsf/Metodologia_Cientifica/raw/master/Aulas/MC%20-%20Aula%20Referencias.pdf
-[Tópicos de busca bibliográfica]: https://github.com/philsf/Metodologia_Cientifica/raw/master/Aulas/MC%20-%20Aula%20Busca.pdf
-[Tópicos de escrita científica]: https://github.com/philsf/Metodologia_Cientifica/raw/master/Aulas/MC%20-%20Aula%20Escrita.pdf
-[Indicadores em Ciência]: https://github.com/philsf/Metodologia_Cientifica/raw/master/Aulas/MC%20-%20Aula%20Indicadores.pdf
+[Introdução: conhecimento]: Aulas/MC-Intro.pdf
+[Métodos científicos]: Aulas/MC-Metodos.pdf
+[Revisão bibliográfica e resumo]: Aulas/MC-Revisao_resumo.pdf
+[Problema, Hipóteses, variáveis]: Aulas/MC-Hipoteses_variaveis.pdf
+[Etapas, Planejamento, Fracassos]: Aulas/MC-Etapas.pdf
+[EDA]: Aulas/MC-EDA.pdf
+[Projeto I]: Aulas/MC-ProjetoI.pdf
+[Projeto II]: Aulas/MC-ProjetoII.pdf
+[Citações, Referências e Plágio]: Aulas/MC-Referencias.pdf
+[Tópicos de busca bibliográfica]: Aulas/MC-Busca.pdf
+[Tópicos de escrita científica]: Aulas/MC-Escrita.pdf
+[Indicadores em Ciência]: Aulas/MC-Indicadores.pdf
 
 ##Bibliografia
 
@@ -69,18 +69,18 @@ Este texto deve ser enviado com antecedência (de preferência no máximo até a
 
 Ao final da disciplina, devem apresentar um seminário, defendendo este projeto.
 
-[Texto e orientações]: https://github.com/philsf/Metodologia_Cientifica/raw/master/Trabalhos/MC-Avaliacao_parcial.pdf
-[Gráfico de dispersão]: https://github.com/philsf/Metodologia_Cientifica/raw/master/Trabalhos/dispersao.png
-[Histograma]: https://github.com/philsf/Metodologia_Cientifica/raw/master/Trabalhos/histograma.png
-[Boxplot]: https://github.com/philsf/Metodologia_Cientifica/raw/master/Trabalhos/boxplot.png
-[Dados brutos (CSV)]: https://github.com/philsf/Metodologia_Cientifica/raw/master/Trabalhos/MC-avaliacao_parcial.csv
+[Texto e orientações]: INTO/Trabalhos/MC-Avaliacao_parcial.pdf
+[Gráfico de dispersão]: INTO/Trabalhos/dispersao.png
+[Histograma]: INTO/Trabalhos/histograma.png
+[Boxplot]: INTO/Trabalhos/boxplot.png
+[Dados brutos (CSV)]: INTO/Trabalhos/MC-avaliacao_parcial.csv
 
 ## Graduação
 
 - [Trabalho 1][]
 - Trabalho 2
 
-[Trabalho 1]: Trabalhos/Trabalho1.pdf
+[Trabalho 1]: UNIAN/Trabalhos/MC-Trabalho1.pdf
 
 
 
