@@ -19,18 +19,18 @@ A digulgação do material para os alunos é feita pelo endereço: https://sites
 1. [Tópicos de busca bibliográfica][]
 1. [Indicadores em Ciência][] (Hirsch 2005; Garfield 2006)
 
-[Introdução: conhecimento]: Aulas/MC-Intro.pdf
-[Métodos científicos]: Aulas/MC-Metodos.pdf
-[Revisão bibliográfica e resumo]: Aulas/MC-Revisao_resumo.pdf
-[Problema, Hipóteses, variáveis]: Aulas/MC-Hipoteses_variaveis.pdf
-[Etapas, Planejamento, Fracassos]: Aulas/MC-Etapas.pdf
-[EDA]: Aulas/MC-EDA.pdf
-[Projeto I]: Aulas/MC-ProjetoI.pdf
-[Projeto II]: Aulas/MC-ProjetoII.pdf
-[Citações, Referências e Plágio]: Aulas/MC-Referencias.pdf
-[Tópicos de busca bibliográfica]: Aulas/MC-Busca.pdf
-[Tópicos de escrita científica]: Aulas/MC-Escrita.pdf
-[Indicadores em Ciência]: Aulas/MC-Indicadores.pdf
+[Introdução: conhecimento]: Aulas/MC-Intro_4em1.pdf?raw=true
+[Métodos científicos]: Aulas/MC-Metodos_4em1.pdf?raw=true
+[Revisão bibliográfica e resumo]: Aulas/MC-Revisao_resumo_4em1.pdf?raw=true
+[Problema, Hipóteses, variáveis]: Aulas/MC-Hipoteses_variaveis_4em1.pdf?raw=true
+[Etapas, Planejamento, Fracassos]: Aulas/MC-Etapas_4em1.pdf?raw=true
+[EDA]: Aulas/MC-EDA_4em1.pdf?raw=true
+[Projeto I]: Aulas/MC-ProjetoI_4em1.pdf?raw=true
+[Projeto II]: Aulas/MC-ProjetoII_4em1.pdf?raw=true
+[Citações, Referências e Plágio]: Aulas/MC-Referencias_4em1.pdf?raw=true
+[Tópicos de busca bibliográfica]: Aulas/MC-Busca_4em1.pdf?raw=true
+[Tópicos de escrita científica]: Aulas/MC-Escrita_4em1.pdf?raw=true
+[Indicadores em Ciência]: Aulas/MC-Indicadores_4em1.pdf?raw=true
 
 ## Bibliografia ##
 
