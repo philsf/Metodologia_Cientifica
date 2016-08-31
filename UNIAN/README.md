@@ -42,22 +42,16 @@ Online:
 [PDF-hirsch]: http://www.pnas.org/content/102/46/16569.full.pdf
 [PDF-garfield]: http://garfield.library.upenn.edu/papers/jamajif2006.pdf
 
-##Avaliação
+## Avaliação ##
 
 Os alunos serão avaliados em duas etapas: ao longo dos encontros, devem elaborar um projeto textual, baseado em dados e resultados que serão providenciados pelo docente.
 
 Conforme as aulas forem se desenrolando, eles devem formular uma pergunta a ser respondida com esses dados, e escrever um mini-projeto, etapa por etapa.
 
-
-## Graduação
-
 - [Trabalho 1][]
 - Trabalho 2
 
 [Trabalho 1]: UNIAN/Trabalhos/MC-Trabalho1.pdf
-
-
-
 
 ## Licença
 Todo o material contido aqui é distribuído sob a licença [Creative Commons Atribuição](http://creativecommons.org/licenses/by/4.0/deed.pt_BR)
