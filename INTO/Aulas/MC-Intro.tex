@@ -98,7 +98,7 @@
 % If you wish to uncover everything in a step-wise fashion, uncomment
 % the following command: 
 
-\beamerdefaultoverlayspecification{<+->}
+% \beamerdefaultoverlayspecification{<+->}
 
 
 \begin{document}
@@ -156,65 +156,91 @@
 \subsection{Apresentação}
 
 \begin{frame}{Docente}
-Felipe Figueiredo
+\begin{block}{Nome}
+    \href{https://www.linkedin.com/pub/felipe-figueiredo/13/896/979}{Felipe Figueiredo}
+  \end{block}
 
 \bigskip
 
-Email:
-
-\href{mailto:prof.felipefigueiredo@gmail.com}{prof.felipefigueiredo@gmail.com}
+\begin{block}{Email}
+  \href{mailto:prof.felipefigueiredo@gmail.com}{prof.felipefigueiredo@gmail.com}
+\end{block}
 
 \bigskip
 
-Página:
-
-\href{http://sites.google.com/site/proffelipefigueiredo}{http://sites.google.com/site/proffelipefigueiredo}
+\begin{block}{Página}
+  \href{http://sites.google.com/site/proffelipefigueiredo}{http://sites.google.com/site/proffelipefigueiredo}
+\end{block}
 
 \end{frame}
 
 \subsection{Disciplina}
 
 \begin{frame}{Objetivos}
-Oferecer uma introdução suave a
-  \begin{itemize}
-  \item Metodologia científica
-  \item Redação científica
-  \end{itemize}
+
+  \begin{block}{Principal}
+    \begin{itemize}
+    \item Redação de um projeto
+    \end{itemize}
+  \end{block}
+
+  \begin{block}{Secundários}
+    Oferecer uma introdução suave a
+    \begin{itemize}
+    \item Metodologia científica
+    \item Redação científica
+    \end{itemize}
+  \end{block}
+
 \end{frame}
 
 \begin{frame}{Bibliografia}
   \begin{itemize}
-  \item {\bf Fundamentos de Metodologia Científica} (Eva Maria Lakatos
-    e Marina de Andrade Marconi)
+  \item {\bf Metodologia do Trabalho Científico: Métodos e Técnicas da Pesquisa e do Trabalho Acadêmico} (PRODANOV, Cleber Cristiano; de FREITAS, Ernani Cesar, 2013).
   \item Outros materiais online linkados na página da disciplina.
   \end{itemize}
 \end{frame}
 
 \begin{frame}{O que esperar da disciplina}
   \begin{enumerate}
-  \item<2-> \alert<2>{Introdução: conhecimento} (cap 3)
-  \item<2-> \alert<2>{Métodos científicos} (cap 4)
-  \item<2-> \alert<2>{Hipóteses, variáveis} (caps 6,7)
-  \item<2-> \alert<2>{Pesquisa bibliográfica e resumo} (cap 2)
-  \item<3-> \alert<3>{Planejamento} (cap 8)
-  \item<3-> \alert<3>{EDA}
-  \item<3-> \alert<3>{Desenho experimental}
-  \item<4-> \alert<4>{Projeto I - Projeto e relatório} (cap 10)
-  \item<4-> \alert<4>{Projeto II - Dissertação e artigos} (caps 11,12)
-  \item<4-> \alert<4>{Citações, Referências e Plágio} (cap 13)
-  \item<5-> \alert<5>{Tópicos de escrita científica} (Gopen, Swan)
-  \item<6-> \alert<6>{Indicadores em Ciência} (Hirsch)
+  \item<2,7> {Introdução: conhecimento} (cap 3)
+  \item<2,7> {Métodos científicos} (cap 4)
+  \item<3,7> {Problema, Hipóteses, variáveis} (caps 6,7)
+  \item<3,7> {EDA}
+  \item<3,7> {Etapas, Planejamento, Fracassos} (cap 8)
+  \item<4,7> \alert<7>{Tópicos de escrita científica} (Gopen, Swan)
+  \item<5,7> {Projeto I - Projeto e relatório} (cap 10)
+  \item<5,7> {Projeto II - Dissertação e artigos} (caps 11,12)
+  \item<5,7> {Revisão bibliográfica e resumo} (cap 2)
+  \item<5,7> {Citações, Referências e Plágio} (cap 13)
+  \item<6,7> {Tópicos de busca bibliográfica}
+  \item<6,7> \alert<7>{Indicadores em Ciência} (Hirsch)
   \item<1-> Seminários
   \item<1-> Seminários
   \item<1-> Seminários
   \end{enumerate}
+  \uncover<7>{ Os itens em vermelho indicam entregas de avaliação.}
 \end{frame}
 
 \begin{frame}{Avaliação}
-  \begin{itemize}
-  \item Escrita de um projeto {\em ad-hoc}.
-  \item Seminário de defesa do projeto.
-  \end{itemize}
+  \begin{block}{Primeira entrega}
+    Proposta inicial (sumário)
+  \end{block}
+
+  \pause
+
+  \begin{block}{Segunda entrega}
+    \begin{itemize}
+    \item Projeto (padrão ABNT);
+    \item Rascunho da apresentação da defesa.
+    \end{itemize}
+  \end{block}
+
+  % \begin{itemize}
+  % \item Escrita de um projeto {\em ad-hoc}.
+  %       \end{itemize}
+  % \item<3-> Seminário de defesa do projeto.
+  % \end{itemize}
 \end{frame}
 
 \section{Conhecimento}
@@ -246,17 +272,21 @@ Oferecer uma introdução suave a
 % \subsection{Dados, Informação e Conhecimento}
 
 \begin{frame}{Dados, Informação e Conhecimento}
-  \begin{itemize}
   % \item ``Evidence-based medicine (EBM) is the process of
   %   systematically reviewing, appraising and using clinical research
   %   findings to aid the delivery of optimum clinical care to
   %   patients''
-  \item Dados: elementos, códigos ou símbolos quantificáveis que são
+    \begin{block}{Dados}
+      elementos, códigos ou símbolos quantificáveis que são
     coletados em um experimento.
-  \item Informação: agregação e interpretação de dados
-  \item Conhecimento: agregação de um corpo de informações que tem
-    significado e aplicabilidade prática
-  \end{itemize}
+    \end{block}
+    \begin{block}{Informação}
+      agregação e interpretação de dados
+    \end{block}
+    \begin{block}{Conhecimento}
+      agregação de um corpo de informações que tem significado e
+      aplicabilidade prática
+    \end{block}
 \end{frame}
 
 
@@ -277,26 +307,26 @@ Oferecer uma introdução suave a
 
 \subsection{Tipos de conhecimento}
 
-\begin{frame}{Conhecimento Filosófico}
-  \begin{itemize}
-  \item Valorativo (parte de hipóteses que não podem ser observadas)
-  \item Racional (enunciados logicamente correlacionados)
-  \item Sistemático
-  \item Não verificável (conclusões não podem ser confirmadas nem
-    refutadas)
-  \item Infalível e exato (razão pura)
-  \end{itemize}
-\end{frame}
+% \begin{frame}{Conhecimento Filosófico}
+%   \begin{itemize}
+%   \item Valorativo (parte de hipóteses que não podem ser observadas)
+%   \item Racional (enunciados logicamente correlacionados)
+%   \item Sistemático
+%   \item Não verificável (conclusões não podem ser confirmadas nem
+%     refutadas)
+%   \item Infalível e exato (razão pura)
+%   \end{itemize}
+% \end{frame}
 
-\begin{frame}{Conhecimento Teológico}
-  \begin{itemize}
-  \item Valorativo
-  \item Inspiracional
-  \item Sistemático
-  \item Não verificável
-  \item Infalível e exato (divino)
-  \end{itemize}
-\end{frame}
+% \begin{frame}{Conhecimento Teológico}
+%   \begin{itemize}
+%   \item Valorativo
+%   \item Inspiracional
+%   \item Sistemático
+%   \item Não verificável
+%   \item Infalível e exato (divino)
+%   \end{itemize}
+% \end{frame}
 
 \begin{frame}{Conhecimento Popular}
   \begin{itemize}
@@ -362,5 +392,12 @@ Oferecer uma introdução suave a
 https://xkcd.com/242/
 \end{frame}
 
+\begin{frame}{Exercício}
+Escreva um procedimento detalhado para pregar um prego em um sabão
+
+  \begin{center}
+    \includegraphics[width=0.8\textwidth]{Intro/pregomartelo}
+  \end{center}
+\end{frame}
 
 \end{document}
