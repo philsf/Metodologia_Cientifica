@@ -4,6 +4,16 @@ Este é o repositório da disciplina de Metodologia Científica do professor Fel
 
 A digulgação do material para os alunos é feita pelo endereço: https://sites.google.com/site/proffelipefigueiredo/into/metodologia-da-pesquisa-aplicada
 
+## Instituições ##
+
+A disciplina foi adaptada para uso tanto em cursos de graduação como pós-graduação.
+
+  * [INTO][] (mestrado profissional)
+  * [UNIAN][] (graduação)
+  * ~~Fiocruz (mestrado acadêmico)~~
+
+[INTO]: INTO/README.md
+[UNIAN]: UNIAN/README.md
 
 ## Bibliografia ##
 
