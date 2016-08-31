@@ -1,10 +1,10 @@
-# Metodologia Científica
+# Metodologia Científica #
 
 Este é o repositório da disciplina de Metodologia Científica do professor Felipe Figueiredo.
 
 A digulgação do material para os alunos é feita pelo endereço: https://sites.google.com/site/proffelipefigueiredo/into/metodologia-da-pesquisa-aplicada
 
-##Planejamento de aulas de conteúdo
+## Planejamento de aulas de conteúdo ##
 
 * [Introdução: conhecimento][]
 * [Métodos científicos][]
@@ -32,7 +32,7 @@ A digulgação do material para os alunos é feita pelo endereço: https://sites
 [Tópicos de escrita científica]: Aulas/MC-Escrita.pdf
 [Indicadores em Ciência]: Aulas/MC-Indicadores.pdf
 
-##Bibliografia
+## Bibliografia ##
 
 Livro texto:
 
