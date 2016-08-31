@@ -9,13 +9,13 @@ A digulgação do material para os alunos é feita pelo endereço: https://sites
 1. [Introdução: conhecimento][]
 1. [Métodos científicos][]
 1. [Problema, Hipóteses, variáveis][]
+1. [EDA][]
+1. [Etapas, Planejamento, Fracassos][]
+1. [Tópicos de escrita científica][] (Gopen, Swan, 1990)
 1. [Projeto I][]
 1. [Projeto II][]
-1. [Etapas, Planejamento, Fracassos][]
-1. [EDA][]
-1. [Tópicos de escrita científica][] (Gopen, Swan, 1990)
-1. [Citações, Referências e Plágio][]
 1. [Revisão bibliográfica e resumo][]
+1. [Citações, Referências e Plágio][]
 1. [Tópicos de busca bibliográfica][]
 1. [Indicadores em Ciência][] (Hirsch 2005; Garfield 2006)
 
