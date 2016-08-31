@@ -34,14 +34,6 @@ Livro texto:
 * PRODANOV, Cleber Cristiano; de FREITAS, Ernani Cesar. (2013) *Metodologia do Trabalho Científico: Métodos e Técnicas da Pesquisa e do Trabalho Acadêmico*, 2a ed, Novo Hamburgo: Editora Feevale.
 * ~~LAKATOS, Eva Maria; MARCONI, Marina de Andrade. (2003) *Fundamentos de Metodologia Científica*, 5a ed, São Paulo: Editora Atlas~~
 
-Online:
-
-
-[HTML-gopen]: http://www.americanscientist.org/issues/pub/the-science-of-scientific-writing/99999
-[HTML-hirsch]: http://www.pnas.org/content/102/46/16569
-[PDF-hirsch]: http://www.pnas.org/content/102/46/16569.full.pdf
-[PDF-garfield]: http://garfield.library.upenn.edu/papers/jamajif2006.pdf
-
 ## Avaliação ##
 
 Os alunos serão avaliados em duas etapas: ao longo dos encontros, devem elaborar um projeto textual, baseado em dados e resultados que serão providenciados pelo docente.
