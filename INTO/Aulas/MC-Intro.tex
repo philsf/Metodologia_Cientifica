@@ -98,7 +98,7 @@
 % If you wish to uncover everything in a step-wise fashion, uncomment
 % the following command: 
 
-\beamerdefaultoverlayspecification{<+->}
+% \beamerdefaultoverlayspecification{<+->}
 
 
 \begin{document}
@@ -156,19 +156,21 @@
 \subsection{Apresentação}
 
 \begin{frame}{Docente}
-Felipe Figueiredo
+\begin{block}{Nome}
+    \href{https://www.linkedin.com/pub/felipe-figueiredo/13/896/979}{Felipe Figueiredo}
+  \end{block}
 
 \bigskip
 
-Email:
-
-\href{mailto:prof.felipefigueiredo@gmail.com}{prof.felipefigueiredo@gmail.com}
+\begin{block}{Email}
+  \href{mailto:prof.felipefigueiredo@gmail.com}{prof.felipefigueiredo@gmail.com}
+\end{block}
 
 \bigskip
 
-Página:
-
-\href{http://sites.google.com/site/proffelipefigueiredo}{http://sites.google.com/site/proffelipefigueiredo}
+\begin{block}{Página}
+  \href{http://sites.google.com/site/proffelipefigueiredo}{http://sites.google.com/site/proffelipefigueiredo}
+\end{block}
 
 \end{frame}
 
@@ -201,17 +203,17 @@ Página:
 
 \begin{frame}{O que esperar da disciplina}
   \begin{enumerate}
-  \item<2> {Introdução: conhecimento} (cap 3)
-  \item<2> {Métodos científicos} (cap 4)
-  \item<3> {Problema, Hipóteses, variáveis} (caps 6,7)
-  \item<3> {EDA}
-  \item<3> {Etapas, Planejamento, Fracassos} (cap 8)
+  \item<2,7> {Introdução: conhecimento} (cap 3)
+  \item<2,7> {Métodos científicos} (cap 4)
+  \item<3,7> {Problema, Hipóteses, variáveis} (caps 6,7)
+  \item<3,7> {EDA}
+  \item<3,7> {Etapas, Planejamento, Fracassos} (cap 8)
   \item<4,7> \alert<7>{Tópicos de escrita científica} (Gopen, Swan)
-  \item<5> {Projeto I - Projeto e relatório} (cap 10)
-  \item<5> {Projeto II - Dissertação e artigos} (caps 11,12)
-  \item<5> {Revisão bibliográfica e resumo} (cap 2)
-  \item<5> {Citações, Referências e Plágio} (cap 13)
-  \item<6> {Tópicos de busca bibliográfica}
+  \item<5,7> {Projeto I - Projeto e relatório} (cap 10)
+  \item<5,7> {Projeto II - Dissertação e artigos} (caps 11,12)
+  \item<5,7> {Revisão bibliográfica e resumo} (cap 2)
+  \item<5,7> {Citações, Referências e Plágio} (cap 13)
+  \item<6,7> {Tópicos de busca bibliográfica}
   \item<6,7> \alert<7>{Indicadores em Ciência} (Hirsch)
   \item<1-> Seminários
   \item<1-> Seminários
@@ -221,15 +223,24 @@ Página:
 \end{frame}
 
 \begin{frame}{Avaliação}
-  \begin{itemize}
-  \item Escrita de um projeto {\em ad-hoc}.
+  \begin{block}{Primeira entrega}
+    Proposta inicial (sumário)
+  \end{block}
+
+  \pause
+
+  \begin{block}{Segunda entrega}
     \begin{itemize}
-    \item Proposta inicial (sumário)
-    \item Texto final, formatado no padrão ABNT (em PDF).
-    \item Rascunho da apresentação da defesa (em PDF).
+    \item Projeto (padrão ABNT);
+    \item Rascunho da apresentação da defesa.
     \end{itemize}
-  \item Seminário de defesa do projeto.
-  \end{itemize}
+  \end{block}
+
+  % \begin{itemize}
+  % \item Escrita de um projeto {\em ad-hoc}.
+  %       \end{itemize}
+  % \item<3-> Seminário de defesa do projeto.
+  % \end{itemize}
 \end{frame}
 
 \section{Conhecimento}
@@ -261,17 +272,21 @@ Página:
 % \subsection{Dados, Informação e Conhecimento}
 
 \begin{frame}{Dados, Informação e Conhecimento}
-  \begin{itemize}
   % \item ``Evidence-based medicine (EBM) is the process of
   %   systematically reviewing, appraising and using clinical research
   %   findings to aid the delivery of optimum clinical care to
   %   patients''
-  \item Dados: elementos, códigos ou símbolos quantificáveis que são
+    \begin{block}{Dados}
+      elementos, códigos ou símbolos quantificáveis que são
     coletados em um experimento.
-  \item Informação: agregação e interpretação de dados
-  \item Conhecimento: agregação de um corpo de informações que tem
-    significado e aplicabilidade prática
-  \end{itemize}
+    \end{block}
+    \begin{block}{Informação}
+      agregação e interpretação de dados
+    \end{block}
+    \begin{block}{Conhecimento}
+      agregação de um corpo de informações que tem significado e
+      aplicabilidade prática
+    \end{block}
 \end{frame}
 
 
@@ -292,26 +307,26 @@ Página:
 
 \subsection{Tipos de conhecimento}
 
-\begin{frame}{Conhecimento Filosófico}
-  \begin{itemize}
-  \item Valorativo (parte de hipóteses que não podem ser observadas)
-  \item Racional (enunciados logicamente correlacionados)
-  \item Sistemático
-  \item Não verificável (conclusões não podem ser confirmadas nem
-    refutadas)
-  \item Infalível e exato (razão pura)
-  \end{itemize}
-\end{frame}
+% \begin{frame}{Conhecimento Filosófico}
+%   \begin{itemize}
+%   \item Valorativo (parte de hipóteses que não podem ser observadas)
+%   \item Racional (enunciados logicamente correlacionados)
+%   \item Sistemático
+%   \item Não verificável (conclusões não podem ser confirmadas nem
+%     refutadas)
+%   \item Infalível e exato (razão pura)
+%   \end{itemize}
+% \end{frame}
 
-\begin{frame}{Conhecimento Teológico}
-  \begin{itemize}
-  \item Valorativo
-  \item Inspiracional
-  \item Sistemático
-  \item Não verificável
-  \item Infalível e exato (divino)
-  \end{itemize}
-\end{frame}
+% \begin{frame}{Conhecimento Teológico}
+%   \begin{itemize}
+%   \item Valorativo
+%   \item Inspiracional
+%   \item Sistemático
+%   \item Não verificável
+%   \item Infalível e exato (divino)
+%   \end{itemize}
+% \end{frame}
 
 \begin{frame}{Conhecimento Popular}
   \begin{itemize}
@@ -378,7 +393,7 @@ https://xkcd.com/242/
 \end{frame}
 
 \begin{frame}{Exercício}
-Escreva um método detalhado para pregar um prego em um sabão
+Escreva um procedimento detalhado para pregar um prego em um sabão
 
   \begin{center}
     \includegraphics[width=0.8\textwidth]{Intro/pregomartelo}
