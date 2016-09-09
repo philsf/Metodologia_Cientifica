@@ -22,7 +22,7 @@ A digulgação do material para os alunos é feita pelo endereço: https://sites
 [Introdução: conhecimento]: Aulas/MC-Intro_4em1.pdf?raw=true
 [Métodos científicos]: Aulas/MC-Metodos_4em1.pdf?raw=true
 [Revisão bibliográfica e resumo]: Aulas/MC-Revisao_resumo_4em1.pdf?raw=true
-[Problema, Hipóteses, variáveis]: Aulas/MC-Hipoteses_variaveis_4em1.pdf?raw=true
+[Problema, Hipóteses, variáveis]: Aulas/MC-Prob_Hip_Var.pdf?raw=true
 [Etapas, Planejamento, Fracassos]: Aulas/MC-Etapas_4em1.pdf?raw=true
 [EDA]: Aulas/MC-EDA_4em1.pdf?raw=true
 [Projeto I]: Aulas/MC-ProjetoI_4em1.pdf?raw=true
