@@ -98,7 +98,7 @@
 % If you wish to uncover everything in a step-wise fashion, uncomment
 % the following command: 
 
-\beamerdefaultoverlayspecification{<+->}
+% \beamerdefaultoverlayspecification{<+->}
 
 
 \begin{document}
@@ -156,6 +156,7 @@
 \subsection{EDA}
 
 \begin{frame}{Paradigmas de Análises de Dados}
+Estudos quantitativos exigem coleta e análise de dados
   \begin{itemize}
   \item EDA -- Análise Exploratória de Dados
   \item CDA -- Análise Confirmatória de Dados
@@ -164,9 +165,9 @@
 
 \begin{frame}{Análise Exploratória de Dados}
   \begin{itemize}
-  \item Formalizado por John W. Tukey nos anos 1970
-  \item Objetivo: formular perguntas com base nos dados disponíveis
-  \item Perguntas que podem ser respondidas pela análise dos dados
+  \item<1-> Formalizado por John W. Tukey nos anos 1970
+  \item<1-> Objetivo: formular perguntas com base nos dados disponíveis
+  \item<2-> Perguntas que podem ser respondidas pela análise dos dados
   \end{itemize}
 \end{frame}
 
@@ -257,8 +258,8 @@ Tukey sugere que:
   \begin{example}
     \begin{itemize}
     \item Idéia: uma certa droga ajuda em uma doença
-    \item Queremos testar/confirmar isso\ldots
-    \item \ldots com consistência estatística na resposta
+    \item<2-> Queremos testar/confirmar isso\ldots
+    \item<3-> \ldots com consistência estatística na resposta
     \end{itemize}
   \end{example}
   \begin{itemize}
@@ -302,11 +303,56 @@ Desejo: pergunta geral, de amplo espectro e implicações profundas
 
 \begin{frame}{Por onde começar?}
   \begin{itemize}
+  \item tabelas
   \item gráficos dos dados brutos
   \item estatísticas descritivas simples
   \item procurar padrões
   \end{itemize}
 \end{frame}
+
+\subsection{Tabelas}
+
+\begin{frame}{Tabelas}
+  \begin{example}
+    Pacientes que tem uma efermidade grave, podem ser submetidos a um tratamento cirúrgico.
+
+\bigskip
+
+    \begin{tabular}{l|cc|c}
+      &Óbito & não óbito & Total\\
+      \hline
+      Cirurgia & 3 & 1 & 4 \\
+      não cirurgia & 2 & 5 & 7\\
+      \hline
+      Total & 5 & 6 & 11
+    \end{tabular}
+  \end{example}
+
+  \begin{block}{Exercício}
+    Formule uma pergunta sobre este contexto.
+  \end{block}
+\end{frame}
+
+% \begin{frame}{Tabelas 2}
+%   \begin{example}
+%     Pacientes que tem uma efermidade grave, podem ser submetidos a um tratamento cirúrgico.
+
+% \bigskip
+
+%     \begin{tabular}{l|cc|c}
+%       &Óbito & não óbito & Total\\
+%       \hline
+%       Cirurgia & 15 & 5 & 20 \\
+%       não cirurgia & 10 & 24 & 34\\
+%       \hline
+%       Total &  & 6 & 
+%     \end{tabular}
+%   \end{example}
+% % \uncover{  \begin{example}
+% %     Este tratamento reduz a mortalidade?
+% %   \end{example}
+% % }
+% \end{frame}
 
 \subsection{Gráfico de Dispersão}
 
@@ -320,28 +366,28 @@ Gráficos de dispersão (ou scatter-plots):
   \end{itemize}
 \end{frame}
 
-\begin{frame}
+\begin{frame}{Relação linear}
   \begin{center}
     \includegraphics[height=0.7\textheight]{EDA/eda-dispersao1}
   \end{center}
   Fonte: Behrens, Yu (2003)
 \end{frame}
 
-\begin{frame}
+\begin{frame}{Relação não linear}
   \begin{center}
     \includegraphics[height=0.7\textheight]{EDA/eda-dispersao2}
   \end{center}
   Fonte: Behrens, Yu (2003)
 \end{frame}
 
-\begin{frame}
+\begin{frame}{Anomalias}
   \begin{center}
     \includegraphics[height=0.7\textheight]{EDA/eda-dispersao3}
   \end{center}
   Fonte: Behrens, Yu (2003)
 \end{frame}
 
-\begin{frame}
+\begin{frame}{??}
   \begin{center}
     \includegraphics[height=0.7\textheight]{EDA/eda-dispersao4}
   \end{center}
@@ -365,12 +411,12 @@ Gráficos de dispersão (ou scatter-plots):
   Fonte: Behrens, Yu (2003)
 \end{frame}
 
-\begin{frame}
-  \begin{center}
-    \includegraphics[width=1\textwidth]{EDA/eda-histograma2}
-  \end{center}
-  Fonte: Behrens, Yu (2003)
-\end{frame}
+% \begin{frame}
+%   \begin{center}
+%     \includegraphics[width=1\textwidth]{EDA/eda-histograma2}
+%   \end{center}
+%   Fonte: Behrens, Yu (2003)
+% \end{frame}
 
 \subsection{Boxplot}
 
@@ -381,17 +427,18 @@ Gráficos de dispersão (ou scatter-plots):
     dados
   \item elementos fora deste intervalo devem ser investigados como
     possíveis outliers
+  \item Ideal para grandes quantidades de dados
   \end{itemize}
 \end{frame}
 
-\begin{frame}
+\begin{frame}{}
   \begin{center}
     \includegraphics[height=0.7\textheight]{EDA/eda-boxplot1}
   \end{center}
   Fonte: Behrens, Yu (2003)
 \end{frame}
 
-\begin{frame}
+\begin{frame}{O boxplot}
   \begin{center}
     \includegraphics[height=0.7\textheight]{EDA/eda-boxplot2}
   \end{center}
