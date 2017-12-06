@@ -98,7 +98,7 @@
 % If you wish to uncover everything in a step-wise fashion, uncomment
 % the following command: 
 
-\beamerdefaultoverlayspecification{<+->}
+% \beamerdefaultoverlayspecification{<+->}
 
 
 \begin{document}
@@ -155,8 +155,11 @@
 
 \begin{frame}{Bases bibliográficas na Internet}
   \begin{itemize}
-  \item Antigamente localizava-se livros e revistas por fichas nas
-    bibliotecas (papel!)
+  \item Antigamente localizava-se livros e revistas por fichas
+    \begin{center}
+      \includegraphics[height=.45\textheight]{Busca/fichas}
+    \end{center}
+
   \item Hoje podemos fazer buscas profundas em bases bibliográficas
     (conteúdo completo das obras)
   \end{itemize}
@@ -167,10 +170,10 @@
   \item \alert{PUBMED} - \url{www.pubmed.org} (ou .com)
   \item \alert{PubMed Central} - \url{www.ncbi.nlm.nih.gov/pmc/}
   \item \alert{Google Scholar} - \url{scholar.google.com}
-  \item<4-> Web of Science - \url{www.webofknowledge.com}
-  \item<4-> Scielo - \url{www.scielo.br}
-  \item<4-> CrossRef - \url{www.crossref.org}
-  \item<4-> etc\ldots
+  \item Web of Science - \url{www.webofknowledge.com}
+  \item Scielo - \url{www.scielo.br}
+  \item CrossRef - \url{www.crossref.org}
+  \item etc\ldots
   \end{itemize}
 \end{frame}
 
@@ -248,6 +251,7 @@
     Nesse oceano de informações, como encontrar rapidamente uma fonte
     específica?
   \end{block}
+  \pause
   \begin{block}{Resposta}
     Google
   \end{block}
@@ -304,63 +308,6 @@
 
 \begin{frame}{Google Scholar Exportando a Referência}
   \includegraphics[height=.85\textheight]{Busca/scholar-export}
-\end{frame}
-
-\section{Google-fu}
-
-\subsection{O que é}
-
-\begin{frame}{Google-fu}
-  \begin{block}{Google-fu}
-    Habilidade em usar mecanismos de busca (em especial o Google) para
-    localizar rapidamente informação na Internet.
-
-    \bigskip
-    Referência ao termo {\em kung fu}, cujo domínio exige muita
-    dedicação.
-  \end{block}
-  Fonte: \url{http://english.stackexchange.com/questions/19967/what-does-google-fu-mean}
-
-  \begin{block}{Resumindo}
-    Conjunto de técnicas ``avançadas'' usadas quando a informação
-    necessária é difícil de ser localizada.
-  \end{block}
-\end{frame}
-
-\subsection{Opções avançadas de busca}
-
-\begin{frame}{Opções de busca}
-  Podemos ampliar ou reduzir o escopo da busca \ldots
-  \begin{itemize}
-  \item Incluindo obrigatoriamente uma chave de busca (operador +)
-  \item Excluindo uma chave de busca (operador -)
-  \item Buscando uma frase exata (frase entre aspas)
-  \item Combinando todas as opções acima (e outras!)
-  \end{itemize}
-\end{frame}
-
-\begin{frame}{Busca básica}
-  \includegraphics[height=.85\textheight]{Busca/google-fu-basico}
-\end{frame}
-
-\begin{frame}{Operador +}
-  \includegraphics[height=.85\textheight]{Busca/google-fu-plus}
-\end{frame}
-
-\begin{frame}{Operador -}
-  \includegraphics[height=.85\textheight]{Busca/google-fu-plusminus}
-\end{frame}
-
-\begin{frame}{Observações}
-  \begin{itemize}
-  \item Observe que no último exemplo, {\em obesity} foi usada sem
-    aspas
-  \item Isso significa que o Google não vai procurar a palavra
-    \alert{exata}, mas também algumas flexões da mesma
-  \end{itemize}
-  \begin{example}
-    obesity, obese, \ldots
-  \end{example}
 \end{frame}
 
 \subsection{Google Books}
@@ -450,31 +397,107 @@
   \includegraphics[height=.85\textheight]{Busca/gbooks-about2}
 \end{frame}
 
+\section{Google-fu}
+
+\subsection{O que é}
+
+\begin{frame}{Google-fu}
+  \begin{block}{Google-fu}
+    Habilidade em usar mecanismos de busca (em especial o Google) para
+    localizar rapidamente informação na Internet.
+
+    \bigskip
+    Referência ao termo {\em kung fu}, cujo domínio exige muita
+    dedicação.
+  \end{block}
+  Fonte: \url{http://english.stackexchange.com/questions/19967/what-does-google-fu-mean}
+
+  \begin{block}{Resumindo}
+    Conjunto de técnicas ``avançadas'' usadas quando a informação
+    necessária é difícil de ser localizada.
+  \end{block}
+\end{frame}
+
+\subsection{Opções avançadas de busca}
+
+\begin{frame}{Opções de busca}
+  Podemos ampliar ou reduzir o escopo da busca \ldots
+  \begin{itemize}
+  \item Incluindo obrigatoriamente uma chave de busca (operador +)
+  \item Excluindo uma chave de busca (operador -)
+  \item Buscando uma frase exata (frase entre aspas)
+  \item Combinando todas as opções acima (e outras!)
+  \end{itemize}
+\end{frame}
+
+\begin{frame}{Busca básica}
+  \includegraphics[height=.85\textheight]{Busca/google-fu-basico}
+\end{frame}
+
+\begin{frame}{Operador +}
+  \includegraphics[height=.85\textheight]{Busca/google-fu-plus}
+\end{frame}
+
+\begin{frame}{Operador -}
+  \includegraphics[height=.85\textheight]{Busca/google-fu-plusminus}
+\end{frame}
+
+\begin{frame}{Observações}
+  \begin{itemize}
+  \item Observe que no último exemplo, {\em obesity} foi usada sem
+    aspas
+  \item Isso significa que o Google não vai procurar a palavra
+    \alert{exata}, mas também algumas flexões da mesma
+  \end{itemize}
+  \begin{example}
+    obesity, obese, \ldots
+  \end{example}
+\end{frame}
+
 \section{Deep Web}
 
 \subsection{Papers}
 
 \begin{frame}{Como baixar artigos pagos}
+Já vimos as principais maneiras de se obter artigos
   \begin{itemize}
   \item Acessar de uma instituição que assina a revista/editora
   \item Portal CAPES Periódicos
   \item Google Scholar
-  \item Redes sociais acadêmicas (pelos autores)
+  \end{itemize}
+\end{frame}
+
+\begin{frame}{Vejamos outras}
+  \begin{itemize}
+  \item Página profissional do autor/lab
+  \item Redes sociais acadêmicas (autor)
     \begin{itemize}
     \item Research Gate - \url{www.researchgate.net}
     \item Academia.edu - \url{www.academia.edu}
     \end{itemize}
-  \item SCIHUB - \url{http://www.sci-hub.org/}
+  \item Email para o autor correspondente
+  \item etc...
+  % \item SCIHUB - \url{http://sci-hub.cc/}
   \end{itemize}
+  \begin{block}{Obs}
+    \begin{itemize}
+    \item O Scholar indexa PDFs das fontes acima
+    \item ... nem sempre o índice do Google está atualizado
+    \item $\Rightarrow$ procurar manualmente
+    \end{itemize}
+  \end{block}
 \end{frame}
 
-\begin{frame}{Observações}
-  \begin{itemize}
-  \item O Google Scholar indexa PDFs das redes Research Gate, etc. Mas
-    nem sempre o índice do Google está atualizado
-  \item Caso o PDF não apareça no Google, procurar diretamente nas
-    redes sociais acadêmicas acima (e outras)
-  \end{itemize}
+\begin{frame}{Exemplo - artigo}
+  \begin{center}
+    \includegraphics[height=.9\textheight]{Busca/petrov1}
+  \end{center}
+\end{frame}
+
+\begin{frame}{Exemplo - página do autor/lab}
+  \begin{center}
+    \includegraphics[height=.9\textheight]{Busca/petrov2}
+  \end{center}
 \end{frame}
 
 \begin{frame}{O Sci-Hub}
@@ -508,6 +531,10 @@
   \item Cole o endereço na busca do Sci-Hub (e torça para estar
     disponível no acervo)
   \end{itemize}
+  \begin{block}{Endereço (atualizado em 2016)}
+    SCIHUB - \url{http://sci-hub.cc/}
+  \end{block}
+
 \end{frame}
 
 \begin{frame}{Usando o Sci-hub}
