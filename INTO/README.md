@@ -55,7 +55,7 @@ Online:
 [PDF-hirsch]: http://www.pnas.org/content/102/46/16569.full.pdf
 [PDF-garfield]: http://garfield.library.upenn.edu/papers/jamajif2006.pdf
 
-##Avaliação
+## Avaliação
 
 Os alunos serão avaliados em duas etapas: ao longo dos encontros, devem elaborar um projeto textual, baseado em dados e resultados que serão providenciados pelo docente.
 
