@@ -67,10 +67,10 @@ Conforme as aulas forem se desenrolando, eles devem formular uma pergunta a ser 
 Este texto deve ser enviado com antecedência (de preferência no máximo até a aula 12). O objetivo do seminário é "defender" este projeto. Convido outros docentes do programa para formar uma "banca", caso seja possível ou conveniente.
 
 * [Texto e orientações][]
-* [Gráfico de dispersão][]
-* [Histograma][]
-* [Boxplot][]
-* [Dados brutos (CSV)][]
+<!-- * [Gráfico de dispersão][] -->
+<!-- * [Histograma][] -->
+<!-- * [Boxplot][] -->
+<!-- * [Dados brutos (CSV)][] -->
 
 Ao final da disciplina, devem apresentar um seminário, defendendo este projeto.
 
@@ -79,16 +79,6 @@ Ao final da disciplina, devem apresentar um seminário, defendendo este projeto.
 [Histograma]: INTO/Trabalhos/histograma.png
 [Boxplot]: INTO/Trabalhos/boxplot.png
 [Dados brutos (CSV)]: INTO/Trabalhos/MC-avaliacao_parcial.csv
-
-## Graduação
-
-- [Trabalho 1][]
-- Trabalho 2
-
-[Trabalho 1]: UNIAN/Trabalhos/MC-Trabalho1.pdf
-
-
-
 
 ## Licença
 Todo o material contido aqui é distribuído sob a licença [Creative Commons Atribuição](http://creativecommons.org/licenses/by/4.0/deed.pt_BR)
