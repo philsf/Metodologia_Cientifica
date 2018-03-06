@@ -6,31 +6,34 @@ A digulgação do material para os alunos é feita pelo endereço: https://sites
 
 ## Planejamento de aulas de conteúdo ##
 
-1. [Introdução: conhecimento][]
+1. [Reprodutibilidade de estudos, e indicadores na Ciência][]
 1. [Métodos científicos][]
-1. [Problema, Hipóteses, variáveis][]
-1. [EDA][]
-1. [Etapas, Planejamento, Fracassos][]
-1. [Tópicos de escrita científica][] (Gopen, Swan, 1990)
-1. [Projeto I][]
-1. [Projeto II][]
-1. [Revisão bibliográfica e resumo][]
-1. [Citações, Referências e Plágio][]
-1. [Tópicos de busca bibliográfica][]
-1. [Indicadores em Ciência][] (Hirsch 2005; Garfield 2006)
+1. [Tópicos de escrita científica][] (Gopen, Swan, 1990) (+ exercício de redação de legenda de fig.)
+1. [Problema, Hipótese, variável][]
+1. [Tópicos em formulação de hipóteses][] (EDA + exercício de redação de hipótese)
+1. [Etapas da Pesquisa (Planejamento e eventuais fracassos)][] + Entrega 1
+1. [Estrutura do Projeto I - Conteúdo das seções][]
+1. [Estrutura do Projeto II – Forma (tutorial de sumários no Word)][]
+1. [Citações, Referências e Plágio (aula prática de Mendeley)][]
+1. [Revisão bibliográfica para a Introdução e Resumo][]
+1. [Tópicos de busca bibliográfica (Google-fu, *et al*)][]
+1. [Tópicos em Estratégias de Apresentação][] + Entrega 2
 
-[Introdução: conhecimento]: Aulas/MC-Intro_4em1.pdf?raw=true
+<!-- 1. [Indicadores em Ciência][] (Hirsch 2005; Garfield 2006) -->
+
+[Reprodutibilidade de estudos, e indicadores na Ciência]: Aulas/MC-Intro_4em1.pdf?raw=true
 [Métodos científicos]: Aulas/MC-Metodos_4em1.pdf?raw=true
-[Revisão bibliográfica e resumo]: Aulas/MC-Revisao_resumo_4em1.pdf?raw=true
-[Problema, Hipóteses, variáveis]: Aulas/MC-Prob_Hip_Var.pdf?raw=true
-[Etapas, Planejamento, Fracassos]: Aulas/MC-Etapas_4em1.pdf?raw=true
-[EDA]: Aulas/MC-EDA_4em1.pdf?raw=true
-[Projeto I]: Aulas/MC-ProjetoI_4em1.pdf?raw=true
-[Projeto II]: Aulas/MC-ProjetoII_4em1.pdf?raw=true
-[Citações, Referências e Plágio]: Aulas/MC-Referencias_4em1.pdf?raw=true
-[Tópicos de busca bibliográfica]: Aulas/MC-Busca_4em1.pdf?raw=true
+[Revisão bibliográfica para a Introdução e Resumo]: Aulas/MC-Revisao_resumo_4em1.pdf?raw=true
+[Problema, Hipótese, variável]: Aulas/MC-Prob_Hip_Var.pdf?raw=true
+[Etapas da Pesquisa (Planejamento e eventuais fracassos)]: Aulas/MC-Etapas_4em1.pdf?raw=true
+[Tópicos em formulação de hipóteses]: Aulas/MC-EDA_4em1.pdf?raw=true
+[Estrutura do Projeto I - Conteúdo das seções]: Aulas/MC-ProjetoI_4em1.pdf?raw=true
+[Estrutura do Projeto II – Forma (tutorial de sumários no Word)]: Aulas/MC-ProjetoII_4em1.pdf?raw=true
+[Citações, Referências e Plágio (aula prática de Mendeley)]: Aulas/MC-Referencias_4em1.pdf?raw=true
+[Tópicos de busca bibliográfica (Google-fu, *et al*)]: Aulas/MC-Busca_4em1.pdf?raw=true
 [Tópicos de escrita científica]: Aulas/MC-Escrita_4em1.pdf?raw=true
 [Indicadores em Ciência]: Aulas/MC-Indicadores_4em1.pdf?raw=true
+[Tópicos em Estratégias de Apresentação]: Aulas/MC-Apresentacao.pptx
 
 ## Bibliografia ##
 
@@ -52,22 +55,28 @@ Online:
 [PDF-hirsch]: http://www.pnas.org/content/102/46/16569.full.pdf
 [PDF-garfield]: http://garfield.library.upenn.edu/papers/jamajif2006.pdf
 
-##Avaliação
+## Avaliação
 
-Os alunos serão avaliados em duas etapas: ao longo dos encontros, devem elaborar um projeto textual, baseado em dados e resultados que serão providenciados pelo docente.
+A avaliação terá três componentes, representando três entregas:
 
-Conforme as aulas forem se desenrolando, eles devem formular uma pergunta a ser respondida com esses dados, e escrever um mini-projeto, etapa por etapa.
+1. Sumário do projeto (um breve resumo sobre o problema escolhido)
+1. Roteiro da avaliação parcial (versão 20160927)
+1. Apresentação oral
 
+Veja a descrição, instruções e algumas dicas no link acima para redigir seu projeto para esta disciplina.
+[Não deixe de enviar suas perguntas e dúvidas][].
+
+[Não deixe de enviar suas perguntas e dúvidas]: prof.felipefigueiredo@gmail.com
 
 ### Avaliação parcial ###
 
 Este texto deve ser enviado com antecedência (de preferência no máximo até a aula 12). O objetivo do seminário é "defender" este projeto. Convido outros docentes do programa para formar uma "banca", caso seja possível ou conveniente.
 
 * [Texto e orientações][]
-* [Gráfico de dispersão][]
-* [Histograma][]
-* [Boxplot][]
-* [Dados brutos (CSV)][]
+<!-- * [Gráfico de dispersão][] -->
+<!-- * [Histograma][] -->
+<!-- * [Boxplot][] -->
+<!-- * [Dados brutos (CSV)][] -->
 
 Ao final da disciplina, devem apresentar um seminário, defendendo este projeto.
 
@@ -76,16 +85,6 @@ Ao final da disciplina, devem apresentar um seminário, defendendo este projeto.
 [Histograma]: INTO/Trabalhos/histograma.png
 [Boxplot]: INTO/Trabalhos/boxplot.png
 [Dados brutos (CSV)]: INTO/Trabalhos/MC-avaliacao_parcial.csv
-
-## Graduação
-
-- [Trabalho 1][]
-- Trabalho 2
-
-[Trabalho 1]: UNIAN/Trabalhos/MC-Trabalho1.pdf
-
-
-
 
 ## Licença
 Todo o material contido aqui é distribuído sob a licença [Creative Commons Atribuição](http://creativecommons.org/licenses/by/4.0/deed.pt_BR)
