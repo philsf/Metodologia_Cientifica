@@ -7,7 +7,7 @@ A digulgação do material para os alunos é feita pelo endereço: https://sites
 ## Planejamento de aulas de conteúdo ##
 
 1. [Introdução: reprodutibilidade][] (+ tópicos de indicadores)
-1. [Métodos científicos][] (retirar?)
+1. [Métodos científicos][]
 1. [Tópicos de escrita científica][] (Gopen, Swan, 1990) (+ exercício de redação de legenda de fig.)
 1. [Problema, Hipóteses, variáveis][]
 1. [Tópicos de formulação de hipóteses][] (EDA) (+ exercício de redação de hipótese)
