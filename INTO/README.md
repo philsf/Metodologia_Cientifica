@@ -6,34 +6,34 @@ A digulgação do material para os alunos é feita pelo endereço: https://sites
 
 ## Planejamento de aulas de conteúdo ##
 
-1. [Introdução: reprodutibilidade][] (+ tópicos de indicadores)
+1. [Reprodutibilidade de estudos, e indicadores na Ciência][]
 1. [Métodos científicos][]
 1. [Tópicos de escrita científica][] (Gopen, Swan, 1990) (+ exercício de redação de legenda de fig.)
-1. [Problema, Hipóteses, variáveis][]
-1. [Tópicos de formulação de hipóteses][] (EDA) (+ exercício de redação de hipótese)
-1. [Etapas, Planejamento, Fracassos][] + Entrega 1
-1. [Estrutura do Projeto I][]
-1. [Estrutura do Projeto II][]
-1. [Citações, Referências e Plágio][] (+ prática Mendeley)
-1. [Revisão bibliográfica e resumo][]
-1. [Tópicos de busca bibliográfica][]
-1. [Tópicos de apresentação][] + Entrega 2
+1. [Problema, Hipótese, variável][]
+1. [Tópicos em formulação de hipóteses][] (EDA + exercício de redação de hipótese)
+1. [Etapas da Pesquisa (Planejamento e eventuais fracassos)][] + Entrega 1
+1. [Estrutura do Projeto I - Conteúdo das seções][]
+1. [Estrutura do Projeto II – Forma (tutorial de sumários no Word)][]
+1. [Citações, Referências e Plágio (aula prática de Mendeley)][]
+1. [Revisão bibliográfica para a Introdução e Resumo][]
+1. [Tópicos de busca bibliográfica (Google-fu, *et al*)][]
+1. [Tópicos em Estratégias de Apresentação][] + Entrega 2
 
 <!-- 1. [Indicadores em Ciência][] (Hirsch 2005; Garfield 2006) -->
 
-[Introdução: reprodutibilidade]: Aulas/MC-Intro_4em1.pdf?raw=true
+[Reprodutibilidade de estudos, e indicadores na Ciência]: Aulas/MC-Intro_4em1.pdf?raw=true
 [Métodos científicos]: Aulas/MC-Metodos_4em1.pdf?raw=true
-[Revisão bibliográfica e resumo]: Aulas/MC-Revisao_resumo_4em1.pdf?raw=true
-[Problema, Hipóteses, variáveis]: Aulas/MC-Prob_Hip_Var.pdf?raw=true
-[Etapas, Planejamento, Fracassos]: Aulas/MC-Etapas_4em1.pdf?raw=true
-[Tópicos de formulação de hipóteses]: Aulas/MC-EDA_4em1.pdf?raw=true
-[Estrutura do Projeto I]: Aulas/MC-ProjetoI_4em1.pdf?raw=true
-[Estrutura do Projeto II]: Aulas/MC-ProjetoII_4em1.pdf?raw=true
-[Citações, Referências e Plágio]: Aulas/MC-Referencias_4em1.pdf?raw=true
-[Tópicos de busca bibliográfica]: Aulas/MC-Busca_4em1.pdf?raw=true
+[Revisão bibliográfica para a Introdução e Resumo]: Aulas/MC-Revisao_resumo_4em1.pdf?raw=true
+[Problema, Hipótese, variável]: Aulas/MC-Prob_Hip_Var.pdf?raw=true
+[Etapas da Pesquisa (Planejamento e eventuais fracassos)]: Aulas/MC-Etapas_4em1.pdf?raw=true
+[Tópicos em formulação de hipóteses]: Aulas/MC-EDA_4em1.pdf?raw=true
+[Estrutura do Projeto I - Conteúdo das seções]: Aulas/MC-ProjetoI_4em1.pdf?raw=true
+[Estrutura do Projeto II – Forma (tutorial de sumários no Word)]: Aulas/MC-ProjetoII_4em1.pdf?raw=true
+[Citações, Referências e Plágio (aula prática de Mendeley)]: Aulas/MC-Referencias_4em1.pdf?raw=true
+[Tópicos de busca bibliográfica (Google-fu, *et al*)]: Aulas/MC-Busca_4em1.pdf?raw=true
 [Tópicos de escrita científica]: Aulas/MC-Escrita_4em1.pdf?raw=true
 [Indicadores em Ciência]: Aulas/MC-Indicadores_4em1.pdf?raw=true
-[Tópicos de apresentação]: Aulas/MC-Apresentacao.pptx
+[Tópicos em Estratégias de Apresentação]: Aulas/MC-Apresentacao.pptx
 
 ## Bibliografia ##
 
