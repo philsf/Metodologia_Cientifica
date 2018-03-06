@@ -11,13 +11,13 @@ A digulgação do material para os alunos é feita pelo endereço: https://sites
 1. [Tópicos de escrita científica][] (Gopen, Swan, 1990) (+ exercício de redação de legenda de fig.)
 1. [Problema, Hipóteses, variáveis][]
 1. [Tópicos de formulação de hipóteses][] (EDA) (+ exercício de redação de hipótese)
-1. [Etapas, Planejamento, Fracassos][]
+1. [Etapas, Planejamento, Fracassos][] + Entrega 1
 1. [Estrutura do Projeto I][]
 1. [Estrutura do Projeto II][]
 1. [Citações, Referências e Plágio][] (+ prática Mendeley)
 1. [Revisão bibliográfica e resumo][]
 1. [Tópicos de busca bibliográfica][]
-1. [Tópicos de apresentação][]
+1. [Tópicos de apresentação][] + Entrega 2
 
 <!-- 1. [Indicadores em Ciência][] (Hirsch 2005; Garfield 2006) -->
 
