@@ -57,10 +57,16 @@ Online:
 
 ## Avaliação
 
-Os alunos serão avaliados em duas etapas: ao longo dos encontros, devem elaborar um projeto textual, baseado em dados e resultados que serão providenciados pelo docente.
+A avaliação terá três componentes, representando três entregas:
 
-Conforme as aulas forem se desenrolando, eles devem formular uma pergunta a ser respondida com esses dados, e escrever um mini-projeto, etapa por etapa.
+1. Sumário do projeto (um breve resumo sobre o problema escolhido)
+1. Roteiro da avaliação parcial (versão 20160927)
+1. Apresentação oral
 
+Veja a descrição, instruções e algumas dicas no link acima para redigir seu projeto para esta disciplina.
+[Não deixe de enviar suas perguntas e dúvidas][].
+
+[Não deixe de enviar suas perguntas e dúvidas]: prof.felipefigueiredo@gmail.com
 
 ### Avaliação parcial ###
 
