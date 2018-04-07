@@ -80,5 +80,15 @@ Ao final da disciplina, devem apresentar um seminário, defendendo este projeto.
 [Boxplot]: https://github.com/philsf/Metodologia_Cientifica/raw/v2016.2-INTO/INTO/Trabalhos/boxplot.png
 [Dados brutos (CSV)]: https://github.com/philsf/Metodologia_Cientifica/raw/v2016.2-INTO/INTO/Trabalhos/MC-avaliacao_parcial.csv
 
+### Normas
+
+O padrão que define o formato do projeto pode ser obtido na página do INTO. Para sua conveniência, eis os links relevantes:
+
+- [Modelo do Relatório do Seminário de Acompanhamento Discente][]
+
+Usaremos apenas um subconjunto dessas regras, conforme descrito no roteiro da avaliação parcial (acima).
+
+[Modelo do Relatório do Seminário de Acompanhamento Discente]: https://www.into.saude.gov.br/upload/arquivos/ensino/mestrado/form_doc/modelo_relatorio_seminario_acompanhamento_discente2.docx
+
 ## Licença
 Todo o material contido aqui é distribuído sob a licença [Creative Commons Atribuição](http://creativecommons.org/licenses/by/4.0/deed.pt_BR)
