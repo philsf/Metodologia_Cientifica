@@ -52,7 +52,7 @@ Online:
 [PDF-hirsch]: http://www.pnas.org/content/102/46/16569.full.pdf
 [PDF-garfield]: http://garfield.library.upenn.edu/papers/jamajif2006.pdf
 
-##Avaliação
+## Avaliação
 
 Os alunos serão avaliados em duas etapas: ao longo dos encontros, devem elaborar um projeto textual, baseado em dados e resultados que serão providenciados pelo docente.
 
@@ -71,21 +71,11 @@ Este texto deve ser enviado com antecedência (de preferência no máximo até a
 
 Ao final da disciplina, devem apresentar um seminário, defendendo este projeto.
 
-[Texto e orientações]: INTO/Trabalhos/MC-Avaliacao_parcial.pdf
-[Gráfico de dispersão]: INTO/Trabalhos/dispersao.png
-[Histograma]: INTO/Trabalhos/histograma.png
-[Boxplot]: INTO/Trabalhos/boxplot.png
-[Dados brutos (CSV)]: INTO/Trabalhos/MC-avaliacao_parcial.csv
-
-## Graduação
-
-- [Trabalho 1][]
-- Trabalho 2
-
-[Trabalho 1]: UNIAN/Trabalhos/MC-Trabalho1.pdf
-
-
-
+[Texto e orientações]: https://github.com/philsf/Metodologia_Cientifica/raw/v2016.2-INTO/INTO/Trabalhos/MC-Avaliacao_parcial.pdf
+[Gráfico de dispersão]: https://github.com/philsf/Metodologia_Cientifica/raw/v2016.2-INTO/INTO/Trabalhos/dispersao.png
+[Histograma]: https://github.com/philsf/Metodologia_Cientifica/raw/v2016.2-INTO/INTO/Trabalhos/histograma.png
+[Boxplot]: https://github.com/philsf/Metodologia_Cientifica/raw/v2016.2-INTO/INTO/Trabalhos/boxplot.png
+[Dados brutos (CSV)]: https://github.com/philsf/Metodologia_Cientifica/raw/v2016.2-INTO/INTO/Trabalhos/MC-avaliacao_parcial.csv
 
 ## Licença
 Todo o material contido aqui é distribuído sob a licença [Creative Commons Atribuição](http://creativecommons.org/licenses/by/4.0/deed.pt_BR)
