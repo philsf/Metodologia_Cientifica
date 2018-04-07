@@ -58,6 +58,9 @@ Os alunos serão avaliados em duas etapas: ao longo dos encontros, devem elabora
 
 Conforme as aulas forem se desenrolando, eles devem formular uma pergunta a ser respondida com esses dados, e escrever um mini-projeto, etapa por etapa.
 
+- [Ficha de avaliação][]
+
+[Ficha de avaliação]: https://github.com/philsf/Metodologia_Cientifica/raw/v2016.2-INTO/INTO/Trabalhos/MC-Ficha_avaliacao.docx
 
 ### Avaliação parcial ###
 
