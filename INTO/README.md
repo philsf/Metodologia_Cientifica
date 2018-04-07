@@ -24,7 +24,7 @@ A digulgação do material para os alunos é feita pelo endereço: https://sites
 [Reprodutibilidade de estudos, e indicadores na Ciência]: Aulas/MC-Intro_4em1.pdf?raw=true
 [Métodos científicos]: Aulas/MC-Metodos_4em1.pdf?raw=true
 [Revisão bibliográfica para a Introdução e Resumo]: Aulas/MC-Revisao_resumo_4em1.pdf?raw=true
-[Problema, Hipótese, variável]: Aulas/MC-Prob_Hip_Var.pdf?raw=true
+[Problema, Hipótese, variável]: Aulas/MC-Prob_Hip_Var_4em1.pdf?raw=true
 [Etapas da Pesquisa (Planejamento e eventuais fracassos)]: Aulas/MC-Etapas_4em1.pdf?raw=true
 [Tópicos em formulação de hipóteses]: Aulas/MC-EDA_4em1.pdf?raw=true
 [Estrutura do Projeto I - Conteúdo das seções]: Aulas/MC-ProjetoI_4em1.pdf?raw=true
