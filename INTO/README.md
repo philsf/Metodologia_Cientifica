@@ -33,7 +33,7 @@ A digulgação do material para os alunos é feita pelo endereço: https://sites
 [Tópicos de busca bibliográfica (Google-fu, *et al*)]: Aulas/MC-Busca_4em1.pdf?raw=true
 [Tópicos de escrita científica]: Aulas/MC-Escrita_4em1.pdf?raw=true
 [Indicadores em Ciência]: Aulas/MC-Indicadores_4em1.pdf?raw=true
-[Tópicos em Estratégias de Apresentação]: Aulas/MC-Apresentacao.pptx
+[Tópicos em Estratégias de Apresentação]: Aulas/MC-Apresentacao.pptx?raw=true
 
 ## Bibliografia ##
 
