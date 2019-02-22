@@ -98,7 +98,6 @@ Casos excepcionais serão tratados individualmente pelo docente.
 Livro texto:
 
 * PRODANOV, Cleber Cristiano; de FREITAS, Ernani Cesar. (2013) *Metodologia do Trabalho Científico: Métodos e Técnicas da Pesquisa e do Trabalho Acadêmico*, 2a ed, Novo Hamburgo: Editora Feevale. ([PDF][Livro-texto])
-* ~~LAKATOS, Eva Maria; MARCONI, Marina de Andrade. (2003) *Fundamentos de Metodologia Científica*, 5a ed, São Paulo: Editora Atlas~~
 
 [Livro-texto]: http://www.feevale.br/Comum/midias/8807f05a-14d0-4d5b-b1ad-1538f3aef538/E-book%20Metodologia%20do%20Trabalho%20Cientifico.pdf
 
@@ -113,6 +112,10 @@ Online:
 [HTML-hirsch]: http://www.pnas.org/content/102/46/16569
 [PDF-hirsch]: http://www.pnas.org/content/102/46/16569.full.pdf
 [PDF-garfield]: http://garfield.library.upenn.edu/papers/jamajif2006.pdf
+
+Outros livros
+
+* LAKATOS, Eva Maria; MARCONI, Marina de Andrade. (2003) *Fundamentos de Metodologia Científica*, 5a ed, São Paulo: Editora Atlas
 
 ## Licença
 Todo o material contido aqui é distribuído sob a licença [Creative Commons Atribuição](http://creativecommons.org/licenses/by/4.0/deed.pt_BR)
