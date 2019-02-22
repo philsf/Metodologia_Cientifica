@@ -6,43 +6,43 @@ A digulgação do material para os alunos é feita pelo endereço: https://sites
 
 ## Planejamento de aulas de conteúdo ##
 
-1. [Reprodutibilidade de estudos, e indicadores na Ciência][]
-1. [Métodos científicos][]
-1. [Problema, Hipótese, variável][]
-1. [Tópicos de escrita científica][] (Gopen, Swan, 1990) (+ exercício de redação de legenda de fig.)
-1. [Revisão bibliográfica para a Introdução e Resumo][]
-1. [Etapas da Pesquisa (Planejamento e eventuais fracassos)][] + Entrega 1
-1. [Tópicos de busca bibliográfica (Google-fu, *et al*)][]
-1. [Citações, Referências e Plágio (aula prática de Mendeley)][]
-1. [Estrutura do Projeto I - Conteúdo das seções][]
-1. [Estrutura do Projeto II – Forma (tutorial de sumários no Word)][]
-1. [Tópicos em formulação de hipóteses][] (EDA + exercício de redação de hipótese)
-1. [Tópicos em Estratégias de Apresentação][] + Entrega 2
+1. [Reprodutibilidade de estudos, e indicadores na Ciência][Intro]
+1. [Métodos científicos][Métodos]
+1. [Problema, Hipótese, variável][PICO]
+1. [Tópicos de escrita científica][Escrita] (Gopen, Swan, 1990) (+ exercício de redação de legenda de fig.)
+1. [Revisão bibliográfica para a Introdução e Resumo][Revisão]
+1. [Etapas da Pesquisa (Planejamento e eventuais fracassos)][Planejamento] + Entrega 1
+1. [Tópicos de busca bibliográfica (Google-fu, *et al*)][Busca]
+1. [Citações, Referências e Plágio (aula prática de Mendeley)][Referências]
+1. [Estrutura do Projeto I - Conteúdo das seções][Estrutura I]
+1. [Estrutura do Projeto II – Forma (tutorial de sumários no Word)][Estrutura II]
+1. [Tópicos em formulação de hipóteses][EDA] (EDA + exercício de redação de hipótese)
+1. [Tópicos em Estratégias de Apresentação][Apresentação] + Entrega 2
 
 <!-- 1. [Indicadores em Ciência][] (Hirsch 2005; Garfield 2006) -->
 
-[Reprodutibilidade de estudos, e indicadores na Ciência]: Aulas/MC-Intro_4em1.pdf?raw=true
-[Métodos científicos]: Aulas/MC-Metodos_4em1.pdf?raw=true
-[Revisão bibliográfica para a Introdução e Resumo]: Aulas/MC-Revisao_resumo_4em1.pdf?raw=true
-[Problema, Hipótese, variável]: Aulas/MC-Prob_Hip_Var_4em1.pdf?raw=true
-[Etapas da Pesquisa (Planejamento e eventuais fracassos)]: Aulas/MC-Etapas_4em1.pdf?raw=true
-[Tópicos em formulação de hipóteses]: Aulas/MC-EDA_4em1.pdf?raw=true
-[Estrutura do Projeto I - Conteúdo das seções]: Aulas/MC-ProjetoI_4em1.pdf?raw=true
-[Estrutura do Projeto II – Forma (tutorial de sumários no Word)]: Aulas/MC-ProjetoII_4em1.pdf?raw=true
-[Citações, Referências e Plágio (aula prática de Mendeley)]: Aulas/MC-Referencias_4em1.pdf?raw=true
-[Tópicos de busca bibliográfica (Google-fu, *et al*)]: Aulas/MC-Busca_4em1.pdf?raw=true
-[Tópicos de escrita científica]: Aulas/MC-Escrita_4em1.pdf?raw=true
+[Intro]: Aulas/MC-Intro_4em1.pdf?raw=true
+[Métodos]: Aulas/MC-Metodos_4em1.pdf?raw=true
+[Revisão]: Aulas/MC-Revisao_resumo_4em1.pdf?raw=true
+[PICO]: Aulas/MC-Prob_Hip_Var_4em1.pdf?raw=true
+[Planejamento]: Aulas/MC-Etapas_4em1.pdf?raw=true
+[EDA]: Aulas/MC-EDA_4em1.pdf?raw=true
+[Estrutura I]: Aulas/MC-ProjetoI_4em1.pdf?raw=true
+[Estrutura II]: Aulas/MC-ProjetoII_4em1.pdf?raw=true
+[Referências]: Aulas/MC-Referencias_4em1.pdf?raw=true
+[Busca]: Aulas/MC-Busca_4em1.pdf?raw=true
+[Escrita]: Aulas/MC-Escrita_4em1.pdf?raw=true
 [Indicadores em Ciência]: Aulas/MC-Indicadores_4em1.pdf?raw=true
-[Tópicos em Estratégias de Apresentação]: Aulas/MC-Apresentacao.pptx?raw=true
+[Apresentação]: Aulas/MC-Apresentacao.pptx?raw=true
 
 ## Bibliografia ##
 
 Livro texto:
 
-* PRODANOV, Cleber Cristiano; de FREITAS, Ernani Cesar. (2013) *Metodologia do Trabalho Científico: Métodos e Técnicas da Pesquisa e do Trabalho Acadêmico*, 2a ed, Novo Hamburgo: Editora Feevale. ([PDF][])
+* PRODANOV, Cleber Cristiano; de FREITAS, Ernani Cesar. (2013) *Metodologia do Trabalho Científico: Métodos e Técnicas da Pesquisa e do Trabalho Acadêmico*, 2a ed, Novo Hamburgo: Editora Feevale. ([PDF][Livro-texto])
 * ~~LAKATOS, Eva Maria; MARCONI, Marina de Andrade. (2003) *Fundamentos de Metodologia Científica*, 5a ed, São Paulo: Editora Atlas~~
 
-[PDF]: http://www.feevale.br/Comum/midias/8807f05a-14d0-4d5b-b1ad-1538f3aef538/E-book%20Metodologia%20do%20Trabalho%20Cientifico.pdf
+[Livro-texto]: http://www.feevale.br/Comum/midias/8807f05a-14d0-4d5b-b1ad-1538f3aef538/E-book%20Metodologia%20do%20Trabalho%20Cientifico.pdf
 
 Online:
 
