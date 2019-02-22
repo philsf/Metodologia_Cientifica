@@ -38,7 +38,9 @@ A digulgação do material para os alunos é feita pelo endereço: https://sites
 [Indicadores em Ciência]: Aulas/MC-Indicadores_4em1.pdf?raw=true
 [Apresentação]: Aulas/MC-Apresentacao.pptx?raw=true
 
-## Google Sala de Aula ##
+## Avaliação ##
+
+### Google Sala de Aula ###
 
 Este ano temos uma novidade, usaremos a plataforma [Google Sala de Aula][GC] (Google Classroom) para distribuir material didático, conteúdos e tarefas.
 
@@ -53,7 +55,7 @@ Faça isto o quanto antes para não perder as tarefas desta semana!
 
 [GC-entrar]: https://support.google.com/edu/classroom/answer/6020297/?hl=pt-BR
 
-## Avaliação ##
+### Avaliações ###
 
 A avaliação terá três componentes:
 
