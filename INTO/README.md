@@ -6,85 +6,116 @@ A digulgação do material para os alunos é feita pelo endereço: https://sites
 
 ## Planejamento de aulas de conteúdo ##
 
-1. [Reprodutibilidade de estudos, e indicadores na Ciência][]
-1. [Métodos científicos][]
-1. [Tópicos de escrita científica][] (Gopen, Swan, 1990) (+ exercício de redação de legenda de fig.)
-1. [Problema, Hipótese, variável][]
-1. [Tópicos em formulação de hipóteses][] (EDA + exercício de redação de hipótese)
-1. [Etapas da Pesquisa (Planejamento e eventuais fracassos)][] + Entrega 1
-1. [Estrutura do Projeto I - Conteúdo das seções][]
-1. [Estrutura do Projeto II – Forma (tutorial de sumários no Word)][]
-1. [Citações, Referências e Plágio (aula prática de Mendeley)][]
-1. [Revisão bibliográfica para a Introdução e Resumo][]
-1. [Tópicos de busca bibliográfica (Google-fu, *et al*)][]
-1. [Tópicos em Estratégias de Apresentação][] + Entrega 2
+1. [Reprodutibilidade de estudos, e indicadores na Ciência][Intro]
+1. [Métodos científicos][Métodos]
+1. [Problema, Hipótese, variável][PICO]
+1. [Tópicos em escrita científica][Escrita] (Gopen, Swan, 1990) (+ exercício de redação de legenda de fig.)
+1. [Revisão bibliográfica e Resumo][Revisão]
+1. [Planejamento da pesquisa e eventuais fracassos][Planejamento] + Entrega 1
+1. [Tópicos em busca bibliográfica (Google-fu, et al)][Busca]
+1. [Citações, Referências e Plágio (tutorial de Mendeley)][Referências]
+1. [Estrutura do Projeto I - Conteúdo das seções][Estrutura I]
+1. [Estrutura do Projeto II – Forma (tutorial de estilos no Word)][Estrutura II]
+1. [Tópicos em resultados preliminares][EDA] (EDA + exercício de redação de hipótese)
+1. [Tópicos em estratégias de apresentação][Apresentação] + Entrega 2
+1. Seminários individuais
+1. Seminários individuais
+1. Seminários individuais e encerramento da disciplina
 
 <!-- 1. [Indicadores em Ciência][] (Hirsch 2005; Garfield 2006) -->
 
-[Reprodutibilidade de estudos, e indicadores na Ciência]: Aulas/MC-Intro_4em1.pdf?raw=true
-[Métodos científicos]: Aulas/MC-Metodos_4em1.pdf?raw=true
-[Revisão bibliográfica para a Introdução e Resumo]: Aulas/MC-Revisao_resumo_4em1.pdf?raw=true
-[Problema, Hipótese, variável]: Aulas/MC-Prob_Hip_Var_4em1.pdf?raw=true
-[Etapas da Pesquisa (Planejamento e eventuais fracassos)]: Aulas/MC-Etapas_4em1.pdf?raw=true
-[Tópicos em formulação de hipóteses]: Aulas/MC-EDA_4em1.pdf?raw=true
-[Estrutura do Projeto I - Conteúdo das seções]: Aulas/MC-ProjetoI_4em1.pdf?raw=true
-[Estrutura do Projeto II – Forma (tutorial de sumários no Word)]: Aulas/MC-ProjetoII_4em1.pdf?raw=true
-[Citações, Referências e Plágio (aula prática de Mendeley)]: Aulas/MC-Referencias_4em1.pdf?raw=true
-[Tópicos de busca bibliográfica (Google-fu, *et al*)]: Aulas/MC-Busca_4em1.pdf?raw=true
-[Tópicos de escrita científica]: Aulas/MC-Escrita_4em1.pdf?raw=true
+[Intro]: Aulas/MC-Intro_4em1.pdf?raw=true
+[Métodos]: Aulas/MC-Metodos_4em1.pdf?raw=true
+[Revisão]: Aulas/MC-Revisao_resumo_4em1.pdf?raw=true
+[PICO]: Aulas/MC-Prob_Hip_Var_4em1.pdf?raw=true
+[Planejamento]: Aulas/MC-Planejamento_4em1.pdf?raw=true
+[EDA]: Aulas/MC-EDA_4em1.pdf?raw=true
+[Estrutura I]: Aulas/MC-ProjetoI_4em1.pdf?raw=true
+[Estrutura II]: Aulas/MC-ProjetoII_4em1.pdf?raw=true
+[Referências]: Aulas/MC-Referencias_4em1.pdf?raw=true
+[Busca]: Aulas/MC-Busca_4em1.pdf?raw=true
+[Escrita]: Aulas/MC-Escrita_4em1.pdf?raw=true
 [Indicadores em Ciência]: Aulas/MC-Indicadores_4em1.pdf?raw=true
-[Tópicos em Estratégias de Apresentação]: Aulas/MC-Apresentacao.pptx?raw=true
+[Apresentação]: Aulas/MC-Apresentacao.pptx?raw=true
 
-## Bibliografia ##
+## Avaliação ##
 
-Livro texto:
+### Google Sala de Aula ###
 
-* PRODANOV, Cleber Cristiano; de FREITAS, Ernani Cesar. (2013) *Metodologia do Trabalho Científico: Métodos e Técnicas da Pesquisa e do Trabalho Acadêmico*, 2a ed, Novo Hamburgo: Editora Feevale. ([PDF][])
-* ~~LAKATOS, Eva Maria; MARCONI, Marina de Andrade. (2003) *Fundamentos de Metodologia Científica*, 5a ed, São Paulo: Editora Atlas~~
+Este ano temos uma novidade, usaremos a plataforma [Google Sala de Aula][GC] (Google Classroom) para distribuir material didático, conteúdos e tarefas.
 
-[PDF]: http://www.feevale.br/Comum/midias/8807f05a-14d0-4d5b-b1ad-1538f3aef538/E-book%20Metodologia%20do%20Trabalho%20Cientifico.pdf
+Você deve fazer login nesta plataforma com uma conta Google, e clicar em "participar da turma".
+Para isto, você deve digitar o código da turma, e isto é feito uma única vez.
+O código da turma foi distribuído pela secretaria aos alunos inscritos junto com o programa de aulas, e será também divulgado na primeira aula.
 
-Online:
+[Veja as instruções de como participar da turma][GC-entrar], no suporte do Google Sala de Aula.
 
-* GOPEN, George; SWAN, Judith. (1990) *The science of scientific writing*, **American Scientist** ([HTML][HTML-gopen], PDF)
-* HIRSCH, J.E. (2005) *An index to quantify an individual's scientific research output*, **PNAS** ([HTML][HTML-hirsch], [PDF][PDF-hirsch])
-* GARFIELD, E. (2006) The History and Meaning of the Journal Impact Factor, **JAMA** (HTML, [PDF][PDF-garfield])
+Se você não compareceu à primeira aula, [me envie um e-mail][e-mail] para receber este código.
+Faça isto o quanto antes para não perder as tarefas desta semana!
 
-[HTML-gopen]: http://www.americanscientist.org/issues/pub/the-science-of-scientific-writing/99999
-[HTML-hirsch]: http://www.pnas.org/content/102/46/16569
-[PDF-hirsch]: http://www.pnas.org/content/102/46/16569.full.pdf
-[PDF-garfield]: http://garfield.library.upenn.edu/papers/jamajif2006.pdf
+[GC-entrar]: https://support.google.com/edu/classroom/answer/6020297/?hl=pt-BR
 
-## Avaliação
+### Avaliações ###
 
-A avaliação terá três componentes, representando três entregas:
+A avaliação terá três componentes:
 
-1. Sumário do projeto (um breve resumo sobre o problema escolhido)
-1. Roteiro da avaliação parcial (versão 20160927)
+1. Atividades no Google Sala de Aula após cada aula (entrega até a semana seguinte)
+1. Elaboração de Protocolo e Relatório de pesquisa (construídos semanalmente nas atividades acima)
 1. Apresentação oral
 
 Veja a descrição, instruções e algumas dicas no link acima para redigir seu projeto para esta disciplina.
-[Não deixe de enviar suas perguntas e dúvidas][].
+Não deixe de enviar suas perguntas e dúvidas [no Google Sala de Aulas][GC] ou [por e-mail][e-mail].
 
-[Não deixe de enviar suas perguntas e dúvidas]: prof.felipefigueiredo@gmail.com
-
-### Avaliação parcial ###
-
-Este texto deve ser enviado com antecedência (de preferência no máximo até a aula 12). O objetivo do seminário é "defender" este projeto. Convido outros docentes do programa para formar uma "banca", caso seja possível ou conveniente.
-
-* [Texto e orientações][]
-<!-- * [Gráfico de dispersão][] -->
-<!-- * [Histograma][] -->
-<!-- * [Boxplot][] -->
-<!-- * [Dados brutos (CSV)][] -->
-
-Ao final da disciplina, devem apresentar um seminário, defendendo este projeto.
-
+[e-mail]: mailto:prof.felipefigueiredo@gmail.com
+[GC]: https://classroom.google.com/
 [Texto e orientações]: INTO/Trabalhos/MC-Avaliacao_parcial.pdf
 [Gráfico de dispersão]: INTO/Trabalhos/dispersao.png
 [Histograma]: INTO/Trabalhos/histograma.png
 [Boxplot]: INTO/Trabalhos/boxplot.png
 [Dados brutos (CSV)]: INTO/Trabalhos/MC-avaliacao_parcial.csv
+
+### Notas ###
+
+A nota final da disciplina será computada pela média das três avaliações, com os seguintes pesos:
+
+1. Média das atividades do Sala de Aula: 50%
+1. Relatório final: 25%
+1. Apresentação oral: 25%
+
+A nota final será convertida em grau de acordo com o regimento do mestrado.
+
+### Entregas em atraso ###
+
+As atividades semanais serão disponibilizadas com horário programado e prazo de entrega preestabelecido.
+O Sala de Aula identifica automaticamente as entregas feitas com atraso.
+As atividades destacas desta forma serão corrigidas e a nota da atividade sofrerá penalidade de 50% (metade do valor da correção).
+
+Atividades com atraso superior a 48h devem ser justificadas, para que sejam corrigidas.
+Casos excepcionais serão tratados individualmente pelo docente.
+
+## Bibliografia ##
+
+Livro texto:
+
+* PRODANOV, Cleber Cristiano; de FREITAS, Ernani Cesar. (2013) *Metodologia do Trabalho Científico: Métodos e Técnicas da Pesquisa e do Trabalho Acadêmico*, 2a ed, Novo Hamburgo: Editora Feevale. ([PDF][Livro-texto])
+
+[Livro-texto]: http://www.feevale.br/Comum/midias/8807f05a-14d0-4d5b-b1ad-1538f3aef538/E-book%20Metodologia%20do%20Trabalho%20Cientifico.pdf
+
+Online:
+
+* GOPEN, George; SWAN, Judith. (1990) *The science of scientific writing*, **American Scientist** (HTML, [PDF][PDF-gopen])
+* HIRSCH, J.E. (2005) *An index to quantify an individual's scientific research output*, **PNAS** ([HTML][HTML-hirsch], [PDF][PDF-hirsch])
+* GARFIELD, E. (2006) The History and Meaning of the Journal Impact Factor, **JAMA** (HTML, [PDF][PDF-garfield])
+
+[HTML-gopen]: http://www.americanscientist.org/issues/pub/the-science-of-scientific-writing/99999
+[PDF-gopen]: https://www.georgegopen.com/uploads/1/0/9/0/109073507/gopen___swan_sci_of_sci_writing_am_sci_1990_.pdf
+[HTML-hirsch]: http://www.pnas.org/content/102/46/16569
+[PDF-hirsch]: http://www.pnas.org/content/102/46/16569.full.pdf
+[PDF-garfield]: http://garfield.library.upenn.edu/papers/jamajif2006.pdf
+
+Outros livros
+
+* LAKATOS, Eva Maria; MARCONI, Marina de Andrade. (2003) *Fundamentos de Metodologia Científica*, 5a ed, São Paulo: Editora Atlas
 
 ## Licença
 Todo o material contido aqui é distribuído sob a licença [Creative Commons Atribuição](http://creativecommons.org/licenses/by/4.0/deed.pt_BR)
