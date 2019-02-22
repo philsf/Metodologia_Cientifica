@@ -8,15 +8,15 @@ A digulgação do material para os alunos é feita pelo endereço: https://sites
 
 1. [Reprodutibilidade de estudos, e indicadores na Ciência][]
 1. [Métodos científicos][]
-1. [Tópicos de escrita científica][] (Gopen, Swan, 1990) (+ exercício de redação de legenda de fig.)
 1. [Problema, Hipótese, variável][]
-1. [Tópicos em formulação de hipóteses][] (EDA + exercício de redação de hipótese)
+1. [Tópicos de escrita científica][] (Gopen, Swan, 1990) (+ exercício de redação de legenda de fig.)
+1. [Revisão bibliográfica para a Introdução e Resumo][]
 1. [Etapas da Pesquisa (Planejamento e eventuais fracassos)][] + Entrega 1
+1. [Tópicos de busca bibliográfica (Google-fu, *et al*)][]
+1. [Citações, Referências e Plágio (aula prática de Mendeley)][]
 1. [Estrutura do Projeto I - Conteúdo das seções][]
 1. [Estrutura do Projeto II – Forma (tutorial de sumários no Word)][]
-1. [Citações, Referências e Plágio (aula prática de Mendeley)][]
-1. [Revisão bibliográfica para a Introdução e Resumo][]
-1. [Tópicos de busca bibliográfica (Google-fu, *et al*)][]
+1. [Tópicos em formulação de hipóteses][] (EDA + exercício de redação de hipótese)
 1. [Tópicos em Estratégias de Apresentação][] + Entrega 2
 
 <!-- 1. [Indicadores em Ciência][] (Hirsch 2005; Garfield 2006) -->
