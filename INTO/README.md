@@ -18,6 +18,9 @@ A digulgação do material para os alunos é feita pelo endereço: https://sites
 1. [Estrutura do Projeto II – Forma (tutorial de estilos no Word)][Estrutura II]
 1. [Tópicos em resultados preliminares][EDA] (EDA + exercício de redação de hipótese)
 1. [Tópicos em estratégias de apresentação][Apresentação] + Entrega 2
+1. Seminários individuais
+1. Seminários individuais
+1. Seminários individuais e encerramento da disciplina
 
 <!-- 1. [Indicadores em Ciência][] (Hirsch 2005; Garfield 2006) -->
 
