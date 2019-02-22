@@ -35,6 +35,59 @@ A digulgação do material para os alunos é feita pelo endereço: https://sites
 [Indicadores em Ciência]: Aulas/MC-Indicadores_4em1.pdf?raw=true
 [Apresentação]: Aulas/MC-Apresentacao.pptx?raw=true
 
+## Google Sala de Aula ##
+
+Este ano temos uma novidade, usaremos a plataforma [Google Sala de Aula][GC] (Google Classroom) para distribuir material didático, conteúdos e tarefas.
+
+Você deve fazer login nesta plataforma com uma conta Google, e clicar em "participar da turma".
+Para isto, você deve digitar o código da turma, e isto é feito uma única vez.
+O código da turma foi distribuído pela secretaria aos alunos inscritos junto com o programa de aulas, e será também divulgado na primeira aula.
+
+[Veja as instruções de como participar da turma][GC-entrar], no suporte do Google Sala de Aula.
+
+Se você não compareceu à primeira aula, [me envie um e-mail][e-mail] para receber este código.
+Faça isto o quanto antes para não perder as tarefas desta semana!
+
+[GC-entrar]: https://support.google.com/edu/classroom/answer/6020297/?hl=pt-BR
+
+## Avaliação ##
+
+A avaliação terá três componentes:
+
+1. Atividades no Google Sala de Aula após cada aula (entrega até a semana seguinte)
+1. Elaboração de Protocolo e Relatório de pesquisa (construídos semanalmente nas atividades acima)
+1. Apresentação oral
+
+Veja a descrição, instruções e algumas dicas no link acima para redigir seu projeto para esta disciplina.
+Não deixe de enviar suas perguntas e dúvidas [no Google Sala de Aulas][GC] ou [por e-mail][e-mail].
+
+[e-mail]: mailto:prof.felipefigueiredo@gmail.com
+[GC]: https://classroom.google.com/
+[Texto e orientações]: INTO/Trabalhos/MC-Avaliacao_parcial.pdf
+[Gráfico de dispersão]: INTO/Trabalhos/dispersao.png
+[Histograma]: INTO/Trabalhos/histograma.png
+[Boxplot]: INTO/Trabalhos/boxplot.png
+[Dados brutos (CSV)]: INTO/Trabalhos/MC-avaliacao_parcial.csv
+
+### Notas ###
+
+A nota final da disciplina será computada pela média das três avaliações, com os seguintes pesos:
+
+1. Média das atividades do Sala de Aula: 50%
+1. Relatório final: 25%
+1. Apresentação oral: 25%
+
+A nota final será convertida em grau de acordo com o regimento do mestrado.
+
+### Entregas em atraso ###
+
+As atividades semanais serão disponibilizadas com horário programado e prazo de entrega preestabelecido.
+O Sala de Aula identifica automaticamente as entregas feitas com atraso.
+As atividades destacas desta forma serão corrigidas e a nota da atividade sofrerá penalidade de 50% (metade do valor da correção).
+
+Atividades com atraso superior a 48h devem ser justificadas, para que sejam corrigidas.
+Casos excepcionais serão tratados individualmente pelo docente.
+
 ## Bibliografia ##
 
 Livro texto:
@@ -55,25 +108,6 @@ Online:
 [HTML-hirsch]: http://www.pnas.org/content/102/46/16569
 [PDF-hirsch]: http://www.pnas.org/content/102/46/16569.full.pdf
 [PDF-garfield]: http://garfield.library.upenn.edu/papers/jamajif2006.pdf
-
-## Avaliação
-
-A avaliação terá três componentes:
-
-1. Atividades no Google Sala de Aula após cada aula (entrega até a semana seguinte)
-1. Elaboração de Protocolo e Relatório de pesquisa (construídos semanalmente nas atividades acima)
-1. Apresentação oral
-
-Veja a descrição, instruções e algumas dicas no link acima para redigir seu projeto para esta disciplina.
-Não deixe de enviar suas perguntas e dúvidas [no Google Sala de Aulas][GC] ou [por e-mail][e-mail].
-
-[e-mail]: mailto:prof.felipefigueiredo@gmail.com
-[GC]: https://classroom.google.com/
-[Texto e orientações]: INTO/Trabalhos/MC-Avaliacao_parcial.pdf
-[Gráfico de dispersão]: INTO/Trabalhos/dispersao.png
-[Histograma]: INTO/Trabalhos/histograma.png
-[Boxplot]: INTO/Trabalhos/boxplot.png
-[Dados brutos (CSV)]: INTO/Trabalhos/MC-avaliacao_parcial.csv
 
 ## Licença
 Todo o material contido aqui é distribuído sob a licença [Creative Commons Atribuição](http://creativecommons.org/licenses/by/4.0/deed.pt_BR)
