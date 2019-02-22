@@ -9,15 +9,15 @@ A digulgação do material para os alunos é feita pelo endereço: https://sites
 1. [Reprodutibilidade de estudos, e indicadores na Ciência][Intro]
 1. [Métodos científicos][Métodos]
 1. [Problema, Hipótese, variável][PICO]
-1. [Tópicos de escrita científica][Escrita] (Gopen, Swan, 1990) (+ exercício de redação de legenda de fig.)
-1. [Revisão bibliográfica para a Introdução e Resumo][Revisão]
-1. [Etapas da Pesquisa (Planejamento e eventuais fracassos)][Planejamento] + Entrega 1
-1. [Tópicos de busca bibliográfica (Google-fu, *et al*)][Busca]
-1. [Citações, Referências e Plágio (aula prática de Mendeley)][Referências]
+1. [Tópicos em escrita científica][Escrita] (Gopen, Swan, 1990) (+ exercício de redação de legenda de fig.)
+1. [Revisão bibliográfica e Resumo][Revisão]
+1. [Planejamento da pesquisa e eventuais fracassos][Planejamento] + Entrega 1
+1. [Tópicos em busca bibliográfica (Google-fu, et al)][Busca]
+1. [Citações, Referências e Plágio (tutorial de Mendeley)][Referências]
 1. [Estrutura do Projeto I - Conteúdo das seções][Estrutura I]
-1. [Estrutura do Projeto II – Forma (tutorial de sumários no Word)][Estrutura II]
-1. [Tópicos em formulação de hipóteses][EDA] (EDA + exercício de redação de hipótese)
-1. [Tópicos em Estratégias de Apresentação][Apresentação] + Entrega 2
+1. [Estrutura do Projeto II – Forma (tutorial de estilos no Word)][Estrutura II]
+1. [Tópicos em resultados preliminares][EDA] (EDA + exercício de redação de hipótese)
+1. [Tópicos em estratégias de apresentação][Apresentação] + Entrega 2
 
 <!-- 1. [Indicadores em Ciência][] (Hirsch 2005; Garfield 2006) -->
 
