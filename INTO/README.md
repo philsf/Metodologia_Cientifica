@@ -57,29 +57,17 @@ Online:
 
 ## Avaliação
 
-A avaliação terá três componentes, representando três entregas:
+A avaliação terá três componentes:
 
-1. Sumário do projeto (um breve resumo sobre o problema escolhido)
-1. Roteiro da avaliação parcial (versão 20160927)
+1. Atividades no Google Sala de Aula após cada aula (entrega até a semana seguinte)
+1. Elaboração de Protocolo e Relatório de pesquisa (construídos semanalmente nas atividades acima)
 1. Apresentação oral
 
 Veja a descrição, instruções e algumas dicas no link acima para redigir seu projeto para esta disciplina.
-[Não deixe de enviar suas perguntas e dúvidas][].
+Não deixe de enviar suas perguntas e dúvidas [no Google Sala de Aulas][GC] ou [por e-mail][e-mail].
 
-[Não deixe de enviar suas perguntas e dúvidas]: prof.felipefigueiredo@gmail.com
-
-### Avaliação parcial ###
-
-Este texto deve ser enviado com antecedência (de preferência no máximo até a aula 12). O objetivo do seminário é "defender" este projeto. Convido outros docentes do programa para formar uma "banca", caso seja possível ou conveniente.
-
-* [Texto e orientações][]
-<!-- * [Gráfico de dispersão][] -->
-<!-- * [Histograma][] -->
-<!-- * [Boxplot][] -->
-<!-- * [Dados brutos (CSV)][] -->
-
-Ao final da disciplina, devem apresentar um seminário, defendendo este projeto.
-
+[e-mail]: mailto:prof.felipefigueiredo@gmail.com
+[GC]: https://classroom.google.com/
 [Texto e orientações]: INTO/Trabalhos/MC-Avaliacao_parcial.pdf
 [Gráfico de dispersão]: INTO/Trabalhos/dispersao.png
 [Histograma]: INTO/Trabalhos/histograma.png
