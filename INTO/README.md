@@ -25,7 +25,7 @@ A digulgação do material para os alunos é feita pelo endereço: https://sites
 [Métodos]: Aulas/MC-Metodos_4em1.pdf?raw=true
 [Revisão]: Aulas/MC-Revisao_resumo_4em1.pdf?raw=true
 [PICO]: Aulas/MC-Prob_Hip_Var_4em1.pdf?raw=true
-[Planejamento]: Aulas/MC-Etapas_4em1.pdf?raw=true
+[Planejamento]: Aulas/MC-Planejamento_4em1.pdf?raw=true
 [EDA]: Aulas/MC-EDA_4em1.pdf?raw=true
 [Estrutura I]: Aulas/MC-ProjetoI_4em1.pdf?raw=true
 [Estrutura II]: Aulas/MC-ProjetoII_4em1.pdf?raw=true
