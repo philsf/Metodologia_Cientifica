@@ -1,0 +1,5 @@
+Título: Relatório: Resultados
+
+Elaborar a seção de resultados do estudo.
+
+Incluir um fluxograma PRISMA com os estudos incluídos, excluídos e a amostra final obtida.
