@@ -1,0 +1,9 @@
+Título: Relatório: resumo
+
+Elaborar um resumo do estudo.
+
+- Incluir
+  - Introdução e Objetivos (desfecho primário e, se houver, secundários)
+  - Métodos
+  - Resultados
+  - Conclusão

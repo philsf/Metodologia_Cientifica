@@ -1,0 +1,10 @@
+Título: Elaboração de uma pergunta PICO
+
+(1) Identifique
+
+(a) A população de interesse do estudo
+(b) A intervenção a ser estudada (caso haja)
+(c) A comparação a ser avaliada entre os grupos (caso haja)
+(d) O desfecho de interesse do estudo
+
+(2) Junte as informações da questão anterior em uma pergunta de acordo com a abordagem PICO

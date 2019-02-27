@@ -1,0 +1,7 @@
+Título: citações e referências in loco
+
+- Parágrafo com 3 citações
+  - posicionar cada citação após a frase apropriada
+  - espera-se que o aluno busque o contexto adequado nos abstracts das referências
+- Formatar as 3 referências manualmente
+- Oferecer os PMID das referências
