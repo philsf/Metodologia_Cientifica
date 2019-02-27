@@ -2,4 +2,10 @@ Título: Protocolo de pesquisa
 
 Elaborar um protocolo para o projeto de pesquisa.
 
+- Detalhar
+  - Desfechos primário e, se julgar necessário, secundários
+  - Critérios de inclusão
+  - Critérios de exclusão
+  - Informações que serão coletadas nos resumos
+
 Prazo: 2 semanas (entrega junto com a atividade da próxima aula).
