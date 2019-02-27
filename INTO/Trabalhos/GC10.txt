@@ -1,0 +1,4 @@
+Título: Relatório: formatação + sumários
+
+- Formatar o relatório observando as normas ABNT (livro texto)
+- Incluir um sumário, usando os estilos de formatação das seções.
