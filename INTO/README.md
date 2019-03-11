@@ -14,8 +14,8 @@ A digulgação do material para os alunos é feita pelo endereço: https://sites
 1. [Planejamento da pesquisa e eventuais fracassos][Planejamento] + Entrega 1
 1. [Tópicos em busca bibliográfica (Google-fu, et al)][Busca]
 1. [Citações, Referências e Plágio (tutorial de Mendeley)][Referências]
-1. [Estrutura do Projeto I - Conteúdo das seções][Estrutura I]
-1. [Estrutura do Projeto II – Forma (tutorial de estilos no Word)][Estrutura II]
+1. [Estrutura do trabalho acadêmico I - Conteúdo das seções][Estrutura I]
+1. [Estrutura do trabalho acadêmico II – Forma (tutorial de estilos no Word)][Estrutura II]
 1. [Tópicos em resultados preliminares][EDA] (EDA + exercício de redação de hipótese)
 1. [Tópicos em estratégias de apresentação][Apresentação] + Entrega 2
 1. Seminários individuais
