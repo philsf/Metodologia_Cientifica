@@ -10,7 +10,6 @@ A disciplina foi adaptada para uso tanto em cursos de graduação como pós-grad
 
   * [INTO][] (mestrado profissional)
   * [UNIAN][] (graduação)
-  * ~~Fiocruz (mestrado acadêmico)~~
 
 [INTO]: INTO/README.md
 [UNIAN]: UNIAN/README.md
