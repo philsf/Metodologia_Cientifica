@@ -1,7 +1,8 @@
-Título: A pesquisa médica na mídia
+Título: 01 - A pesquisa médica na mídia
 
 Diariamente estudos e pesquisas são mencionados na grande mídia, para informar o público geral dos avanços científicos e médicos.
-O objetivo desta atividade é localizar o estudo mencionado em matérias de jornal, utilizando apenas o que está escrito no texto da matéria.
+O objetivo desta atividade é localizar o estudo mencionado em matérias de jornal, utilizando apenas o que está escrito, isto é, o texto da matéria.
+
 Anotar todos os passos utilizados (com ou sem sucesso) para localizar o estudo.
 Caso seja(m) utilizada(s) outra(s) fonte(s) de informação que não o texto da matéria, destacá-la(s) na resposta, justificando seu uso.
 
