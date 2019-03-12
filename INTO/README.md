@@ -7,7 +7,7 @@ A digulgação do material para os alunos é feita pelo endereço: https://sites
 ## Planejamento de aulas de conteúdo ##
 
 1. [Reprodutibilidade de estudos, e indicadores na Ciência][Intro]
-1. [Métodos científicos][Métodos]
+1. [Métodos Científicos, desenhos de estudo mais comuns e *guidelines*][Métodos]
 1. [Problema, Hipótese, variável][PICO]
 1. [Tópicos em escrita científica][Escrita] (Gopen, Swan, 1990) (+ exercício de redação de legenda de fig.)
 1. [Revisão bibliográfica e Resumo][Revisão]
