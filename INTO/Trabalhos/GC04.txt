@@ -1,5 +1,11 @@
 Título: 04 - Posição de tópico, posição de ênfase
 
+Considere o parágrafo a seguir. É da seção de resultados em um estudo de tratamento cirúrgico parapubalgia em atletas de futebol:
+
+  "A média de idade foi de 24,5 anos (18 a 37 anos). Com relação à
+  posição na equipe, 17 (73,9%) deles atuavam em posição que solicita
+  muito os músculos adutores (pontas e meias)."
+
 - Identificar o que é tópico e o que é ênfase em uma frase confusa
 - Reformular uma frase confusa para clareza
 
