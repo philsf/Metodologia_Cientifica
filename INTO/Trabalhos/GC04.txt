@@ -1,6 +1,6 @@
 Título: 04 - Posição de tópico, posição de ênfase
 
-Considere o parágrafo a seguir. É da seção de resultados em um estudo de tratamento cirúrgico parapubalgia em atletas de futebol:
+(1) Considere o parágrafo a seguir. É da seção de resultados em um estudo sobre "Tratamento cirúrgico da pubalgia em jogadores de futebol profissional":
 
   "Complicações ocorreram em dois (8,7%) pacientes, sendo num deles
   hematoma, que foi drenado; o outro paciente, que evoluiu com
