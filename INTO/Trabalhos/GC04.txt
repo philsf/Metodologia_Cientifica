@@ -1,7 +1,17 @@
 Título: 04 - Posição de tópico, posição de ênfase
 
-- Identificar o que é tópico e o que é ênfase em uma frase confusa
-- Reformular uma frase confusa para clareza
+(1) Considere o parágrafo a seguir. É da seção de resultados em um estudo sobre "Tratamento cirúrgico da pubalgia em jogadores de futebol profissional":
 
-- Troque a voz da frase abaixo para voz ativa
-"As características clínicas e comorbidades observadas nos participantes do estudo foram resumidos na tabela 3."
+  "Complicações ocorreram em dois (8,7%) pacientes, sendo num deles
+  hematoma, que foi drenado; o outro paciente, que evoluiu com
+  ciatalgia, foi tratado com analgésicos e fisioterapia."
+
+(a) Identifique onde é o melhor ponto para quebrar a frase em duas, e reescreva de modo que o parágrafo tenha duas frases. Faça as adaptações necessárias.
+(b) Identifique o tópico e ênfase da primeira frase
+(c) Identifique o tópico e ênfase da segunda frase
+(d) Reformule o parágrafo de modo que a ênfase da primeira frase seja os pacientes e a ênfase da segunda seja os tratamentos
+
+(2) Troque a voz da frase abaixo de voz passiva para voz ativa
+
+  "O desfecho do estudo foi avaliado com o método de regressão linear
+  simples (figura 7)".
