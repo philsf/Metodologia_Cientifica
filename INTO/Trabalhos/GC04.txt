@@ -14,7 +14,7 @@ Título: 04 - Posição de tópico, posição de ênfase
 
 (d) Reformule o parágrafo de modo que a ênfase da primeira frase seja os pacientes e a ênfase da segunda seja os tratamentos
 
-(2) Troque a voz da frase abaixo para voz ativa
+(2) Troque a voz da frase abaixo de voz passiva para voz ativa
 
   "O desfecho do estudo foi avaliado com o método de regressão linear
   simples (figura 7)".
