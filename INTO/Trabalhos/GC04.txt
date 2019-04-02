@@ -6,8 +6,13 @@ Considere o parágrafo a seguir. É da seção de resultados em um estudo de tra
   hematoma, que foi drenado; o outro paciente, que evoluiu com
   ciatalgia, foi tratado com analgésicos e fisioterapia."
 
-- Identificar o que é tópico e o que é ênfase em uma frase confusa
-- Reformular uma frase confusa para clareza
+(a) Identifique onde é o melhor ponto para quebrar a frase em duas, e reescreva de modo que o parágrafo tenha duas frases. Faça as adaptações necessárias.
 
 - Troque a voz da frase abaixo para voz ativa
 "As características clínicas e comorbidades observadas nos participantes do estudo foram resumidos na tabela 3."
+(b) Identifique o tópico e ênfase da primeira frase
+
+(c) Identifique o tópico e ênfase da segunda frase
+
+(d) Reformule o parágrafo de modo que a ênfase da primeira frase seja os pacientes e a ênfase da segunda seja os tratamentos
+
