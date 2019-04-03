@@ -1,5 +1,16 @@
 Título: 05 - Proposta de estudo 2/2
 
+== Contexto ==
+O projeto de pesquisa a ser desenvolvido nesta disciplina deve ser respondido consultando resumos de artigos da literatura.
+O objetivo é identificar as evidências que embasem uma alegação a ser utilizada na introdução do projeto ou da dissertação do mestrado.
+Caso a proposta inicialmente enviada tenha sido muito vaga, a busca retornará um número excessivo de resultados (como veremos nas próximas aulas).
+Se for necessário, reduza o escopo da sua pergunta agora.
+Não é necessário adaptar ou mesmo manter a pergunta original.
+Se julgar apropriado, pode formular uma nova pergunta agora.
+A pergunta que você definirá agora será o problema de pesquisa a ser resolvido até o final do semestre.
+
+== Atividade ==
+
 Incorporar os conhecimentos das últimas aulas na proposta do projeto de pesquisa.
 
 Incluir um título com as informações da pergunta PICO.
