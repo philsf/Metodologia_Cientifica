@@ -25,9 +25,19 @@ Procure manter o contexto curto, visando um ou dois parágrafos no máximo.
 
 O objetivo deve explicitar o problema de pesquisa definido nas atividades anteriores.
 
-== Detalhamento necessário ==
+== Métodos ==
 
-- Detalhar
+Esta é a seção mais importante do protocolo.
+
+Os métodos devem ser minuciosamente detalhados.
+Você descreverá o procedimento que seguirá com este trabalho.
+
+Vamos considerar, para fins didáticos, que a entrega deste protocolo será equivalente à sua publicação ou registro.
+Uma vez publicado, deverá ser seguido em sua forma atual.
+Este protocolo será incluído como apêndice no relatório final da disciplina.
+
+Conteúdos necessário para os MÉTODOS deste protocolo:
+
   - Desfechos primário e, se julgar necessário, secundários
   - Critérios de inclusão
   - Critérios de exclusão
