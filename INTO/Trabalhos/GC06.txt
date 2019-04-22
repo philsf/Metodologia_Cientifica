@@ -4,6 +4,11 @@ Título: 06 - Protocolo de pesquisa
 
 Elaborar um protocolo para o projeto de pesquisa.
 
+A pesquisa a ser executada é do tipo revisão sistemática da literatura, seguindo o padrão PRISMA de relatório.
+Você deve definir um ou mais dados a ser buscados nos RESUMOS de trabalhos da literatura.
+
+A conclusão desta pesquisa deve apresentar evidências clínicas da literatura para embasar uma alegação utilizável na introdução da dissertação.
+
 == Conteúdo ==
 
 Você deve elaborar um breve documento que descreve o problema de pesquisa a ser investigado, o contexto e a metodologia detalhada a ser empregada.
