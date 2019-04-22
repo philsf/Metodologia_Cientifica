@@ -41,12 +41,13 @@ Vamos considerar, para fins didáticos, que a entrega deste protocolo será equi
 Uma vez publicado, deverá ser seguido em sua forma atual.
 Este protocolo será incluído como apêndice no relatório final da disciplina.
 
-Conteúdos necessário para os MÉTODOS deste protocolo:
+Conteúdo requerido para os MÉTODOS deste protocolo:
 
-- Desfechos primário e, se julgar necessário, secundários
+- Desfecho primário (opcionalmente, desfechos secundários)
 - Critérios de inclusão
 - Critérios de exclusão
-- Informações que serão coletadas nos resumos
+- Informações/resultados que serão coletados nos resumos
+- Cronograma
 
 == Cronograma ==
 
