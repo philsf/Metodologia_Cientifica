@@ -48,6 +48,14 @@ Conteúdos necessário para os MÉTODOS deste protocolo:
   - Critérios de exclusão
   - Informações que serão coletadas nos resumos
 
+== Observações e Limitações ==
+
+Uma revisão sistemática da literatura define métodos e critérios para avaliação crítica de estudos.
+Para viabilizar a experiência durante a disciplina vamos nos ater apenas a resultados presentes nos resumos.
+
+Tenha este fato em mente durante o planejamento e redação.
+Como isto impacta as conclusões?
+
 == Prazo ==
 
 Prazo: 2 semanas (entrega junto com a atividade da próxima aula).
