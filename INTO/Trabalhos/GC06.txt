@@ -1,11 +1,17 @@
 Título: 06 - Protocolo de pesquisa
 
+== Objetivo ==
+
 Elaborar um protocolo para o projeto de pesquisa.
+
+== Detalhamento necessário ==
 
 - Detalhar
   - Desfechos primário e, se julgar necessário, secundários
   - Critérios de inclusão
   - Critérios de exclusão
   - Informações que serão coletadas nos resumos
+
+== Prazo ==
 
 Prazo: 2 semanas (entrega junto com a atividade da próxima aula).
