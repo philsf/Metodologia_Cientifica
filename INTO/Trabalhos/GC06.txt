@@ -8,6 +8,15 @@ Elaborar um protocolo para o projeto de pesquisa.
 
 Você deve elaborar um breve documento que descreve o problema de pesquisa a ser investigado, o contexto e a metodologia detalhada a ser empregada.
 
+O documento deve conter, minimamente, as seguintes seções:
+
+- Título
+- Autores (1-você, 2-docente)
+- Contexto
+- Objetivo
+- Métodos
+- Cronograma
+
 == Detalhamento necessário ==
 
 - Detalhar
