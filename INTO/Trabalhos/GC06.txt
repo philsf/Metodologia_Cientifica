@@ -4,6 +4,10 @@ Título: 06 - Protocolo de pesquisa
 
 Elaborar um protocolo para o projeto de pesquisa.
 
+== Conteúdo ==
+
+Você deve elaborar um breve documento que descreve o problema de pesquisa a ser investigado, o contexto e a metodologia detalhada a ser empregada.
+
 == Detalhamento necessário ==
 
 - Detalhar
