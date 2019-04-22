@@ -17,6 +17,14 @@ O documento deve conter, minimamente, as seguintes seções:
 - Métodos
 - Cronograma
 
+== Contexto e objetivo ==
+
+Você pode aproveitar o conteúdo que escreveu nas atividades anteriores para as seções CONTEXTO e OBJETIVO da sua investigação.
+
+Procure manter o contexto curto, visando um ou dois parágrafos no máximo.
+
+O objetivo deve explicitar o problema de pesquisa definido nas atividades anteriores.
+
 == Detalhamento necessário ==
 
 - Detalhar
