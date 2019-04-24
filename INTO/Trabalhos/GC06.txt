@@ -16,11 +16,15 @@ Você deve elaborar um breve documento que descreve o problema de pesquisa a ser
 O documento deve conter, minimamente, as seguintes seções:
 
 - Título
-- Autores (1-você, 2-docente)
+- Autores *
+- Data e versão/revisão do protocolo **
 - Contexto
 - Objetivo
 - Métodos
 - Cronograma
+
+* Autores do estudo: você, docente
+** data da finalização do documento; versão/revisão: 1
 
 == Contexto e objetivo ==
 
