@@ -15,16 +15,21 @@ Você deve elaborar um breve documento que descreve o problema de pesquisa a ser
 
 O documento deve conter, minimamente, as seguintes seções:
 
-- Título
-- Autores *
-- Data e versão/revisão do protocolo **
+- Capa
+    - Título
+    - Autores *
+    - Data e versão/revisão do protocolo **
 - Contexto
-- Objetivo
+    - Objetivo
 - Métodos
+    - Desenho do estudo
+    - Desfecho
 - Cronograma
 
-* Autores do estudo: você, docente
-** data da finalização do documento; versão/revisão: 1
+A capa deve conter o título, que identifique o documento como o protocolo de uma revisão sistemática, os autores (você e o docente) e a data e versão.
+A data é a data em que você finalizar a elaboração do protocolo; use versão 1 para este protocolo.
+
+As seções Contexto e Metodologia são descritas a seguir.
 
 == Contexto e objetivo ==
 
