@@ -38,8 +38,11 @@ As seções Contexto, Metodologia e Cronograma são descritas a seguir.
 Você pode aproveitar o conteúdo que escreveu nas atividades anteriores para as seções CONTEXTO e OBJETIVO da sua investigação.
 
 Procure manter o contexto curto, visando um ou dois parágrafos no máximo.
+Tente expor a informação necessária para o leitor entender a origem da pergunta a ser respondida.
+Qual é a importância dessa resposta para ou seu projeto de mestrado (ou para a sociedade).
 
 O objetivo deve explicitar o problema de pesquisa definido nas atividades anteriores.
+De forma sucinta, é a versão "verbal" da pergunta PICO/PICOS.
 
 == Métodos ==
 
