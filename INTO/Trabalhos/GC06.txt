@@ -1,11 +1,91 @@
-Título: 06 - Protocolo de pesquisa
+# Título: 06 - Protocolo de pesquisa #
+
+## Objetivo da atividade ##
 
 Elaborar um protocolo para o projeto de pesquisa.
 
-- Detalhar
-  - Desfechos primário e, se julgar necessário, secundários
-  - Critérios de inclusão
-  - Critérios de exclusão
-  - Informações que serão coletadas nos resumos
+A pesquisa a ser executada é do tipo revisão sistemática da literatura, seguindo o padrão PRISMA de relatório.
+Você deve definir um ou mais dados a serem buscados nos RESUMOS de trabalhos da literatura.
+
+A conclusão desta pesquisa deve apresentar evidências clínicas da literatura para embasar uma alegação utilizável na introdução da dissertação.
+
+## Conteúdo requerido ##
+
+Você deve elaborar um breve documento que descreva o problema de pesquisa a ser investigado, o contexto e a metodologia detalhada a ser empregada.
+
+O documento deve conter, minimamente, as seguintes seções:
+
+- Capa
+    - Título
+    - Autores
+    - Data e versão/revisão do protocolo
+- Contexto
+    - Objetivo
+- Métodos
+    - Desenho do estudo
+    - Desfecho
+- Cronograma
+
+Crie uma capa contendo o título, os autores (você e o docente), data e versão.
+Não se esqueça que o título deve identificar o documento como o protocolo de uma revisão sistemática.
+A data é a data em que você finalizar a elaboração do protocolo.
+Use versão 1 para este protocolo.
+
+As seções Contexto, Metodologia e Cronograma são descritas a seguir.
+
+## Contexto e objetivo ##
+
+Você pode aproveitar o conteúdo que escreveu nas atividades anteriores para as seções CONTEXTO e OBJETIVO da sua investigação.
+
+Procure manter o contexto curto, visando um ou dois parágrafos no máximo.
+Tente expor a informação necessária para o leitor entender a origem da pergunta a ser respondida.
+Qual é a importância dessa resposta para o seu projeto de mestrado (ou para a sociedade).
+
+O objetivo deve explicitar o problema de pesquisa definido nas atividades anteriores.
+De forma sucinta, é a versão "verbal" da pergunta PICO/PICOS.
+
+## Métodos ##
+
+Esta é a seção mais importante do protocolo.
+
+Os métodos devem ser minuciosamente detalhados.
+Você descreverá o procedimento que seguirá com este trabalho.
+
+Vamos considerar, para fins didáticos, que a entrega deste protocolo será equivalente à sua publicação ou registro.
+Uma vez "registrado" ele deverá ser seguido em sua forma proposta - é um compromisso!
+Este protocolo será incluído como apêndice no relatório final da disciplina.
+
+Conteúdo requerido para os MÉTODOS deste protocolo:
+
+- Desenho do estudo
+- Desfecho primário (opcionalmente, desfechos secundários)
+- Critérios de inclusão
+- Critérios de exclusão
+- Dados/resultados que serão coletados nos resumos
+
+O desenho do estudo é uma revisão sistemática da literatura, seguindo o padrão PRISMA.
+Que tipos de estudos serão incluídos?
+Você deve excluir revisões e outros tipos de artigos que não sejam pesquisa original.
+Os dados secundários que serão coletados nos resumos dos artigos incluídos foram identificados em tarefas anteriores.
+Eles serão descritos como mínimo e máximo, e em caso de estudos clínicos o número de pacientes (N), mínimo, máximo e o N total (soma).
+
+## Cronograma ##
+
+Estabeleça um cronograma para a execução desta pesquisa.
+
+Qual é o prazo final do relatório?
+E da apresentação?
+Quais são as etapas necessárias para a conclusão desta pesquisa?
+Quanto tempo você estima que precisará para concluir cada uma delas?
+
+## Observações finais e Limitações ##
+
+Uma revisão sistemática da literatura define métodos e critérios para avaliação crítica de estudos.
+Para viabilizar a experiência durante a disciplina vamos nos ater apenas a resultados presentes nos resumos.
+
+Tenha este fato em mente durante o planejamento e redação.
+Como isto impacta as conclusões?
+
+## Prazo ##
 
 Prazo: 2 semanas (entrega junto com a atividade da próxima aula).
