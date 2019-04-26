@@ -1,6 +1,6 @@
-Título: 06 - Protocolo de pesquisa
+# Título: 06 - Protocolo de pesquisa #
 
-== Objetivo da atividade ==
+## Objetivo da atividade ##
 
 Elaborar um protocolo para o projeto de pesquisa.
 
@@ -9,7 +9,7 @@ Você deve definir um ou mais dados a serem buscados nos RESUMOS de trabalhos da
 
 A conclusão desta pesquisa deve apresentar evidências clínicas da literatura para embasar uma alegação utilizável na introdução da dissertação.
 
-== Conteúdo requerido ==
+## Conteúdo requerido ##
 
 Você deve elaborar um breve documento que descreva o problema de pesquisa a ser investigado, o contexto e a metodologia detalhada a ser empregada.
 
@@ -33,7 +33,7 @@ Use versão 1 para este protocolo.
 
 As seções Contexto, Metodologia e Cronograma são descritas a seguir.
 
-== Contexto e objetivo ==
+## Contexto e objetivo ##
 
 Você pode aproveitar o conteúdo que escreveu nas atividades anteriores para as seções CONTEXTO e OBJETIVO da sua investigação.
 
@@ -44,7 +44,7 @@ Qual é a importância dessa resposta para o seu projeto de mestrado (ou para a 
 O objetivo deve explicitar o problema de pesquisa definido nas atividades anteriores.
 De forma sucinta, é a versão "verbal" da pergunta PICO/PICOS.
 
-== Métodos ==
+## Métodos ##
 
 Esta é a seção mais importante do protocolo.
 
@@ -69,7 +69,7 @@ Você deve excluir revisões e outros tipos de artigos que não sejam pesquisa o
 Os dados secundários que serão coletados nos resumos dos artigos incluídos foram identificados em tarefas anteriores.
 Eles serão descritos como mínimo e máximo, e em caso de estudos clínicos o número de pacientes (N), mínimo, máximo e o N total (soma).
 
-== Cronograma ==
+## Cronograma ##
 
 Estabeleça um cronograma para a execução desta pesquisa.
 
@@ -78,7 +78,7 @@ E da apresentação?
 Quais são as etapas necessárias para a conclusão desta pesquisa?
 Quanto tempo você estima que precisará para concluir cada uma delas?
 
-== Observações finais e Limitações ==
+## Observações finais e Limitações ##
 
 Uma revisão sistemática da literatura define métodos e critérios para avaliação crítica de estudos.
 Para viabilizar a experiência durante a disciplina vamos nos ater apenas a resultados presentes nos resumos.
@@ -86,6 +86,6 @@ Para viabilizar a experiência durante a disciplina vamos nos ater apenas a resu
 Tenha este fato em mente durante o planejamento e redação.
 Como isto impacta as conclusões?
 
-== Prazo ==
+## Prazo ##
 
 Prazo: 2 semanas (entrega junto com a atividade da próxima aula).
