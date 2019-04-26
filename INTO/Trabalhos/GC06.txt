@@ -49,16 +49,20 @@ Os métodos devem ser minuciosamente detalhados.
 Você descreverá o procedimento que seguirá com este trabalho.
 
 Vamos considerar, para fins didáticos, que a entrega deste protocolo será equivalente à sua publicação ou registro.
-Uma vez publicado, deverá ser seguido em sua forma atual.
+Uma vez "registrado" ele deverá ser seguido em sua forma proposta - é um compromisso!
 Este protocolo será incluído como apêndice no relatório final da disciplina.
 
 Conteúdo requerido para os MÉTODOS deste protocolo:
 
+- Desenho do estudo
 - Desfecho primário (opcionalmente, desfechos secundários)
 - Critérios de inclusão
 - Critérios de exclusão
-- Informações/resultados que serão coletados nos resumos
-- Cronograma
+- Dados/resultados que serão coletados nos resumos
+
+O desenho do estudo é uma revisão sistemática da literatura, seguindo o padrão PRISMA.
+Os dados secundários que serão coletados nos resumos dos artigos incluídos foram identificados em tarefas anteriores.
+Eles serão descritos como mínimo e máximo, e em caso de estudos clínicos o número de pacientes (N), mínimo, máximo e o N total (soma).
 
 == Cronograma ==
 
