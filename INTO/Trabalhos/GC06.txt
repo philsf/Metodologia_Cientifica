@@ -5,13 +5,13 @@ Título: 06 - Protocolo de pesquisa
 Elaborar um protocolo para o projeto de pesquisa.
 
 A pesquisa a ser executada é do tipo revisão sistemática da literatura, seguindo o padrão PRISMA de relatório.
-Você deve definir um ou mais dados a ser buscados nos RESUMOS de trabalhos da literatura.
+Você deve definir um ou mais dados a serem buscados nos RESUMOS de trabalhos da literatura.
 
 A conclusão desta pesquisa deve apresentar evidências clínicas da literatura para embasar uma alegação utilizável na introdução da dissertação.
 
 == Conteúdo requerido ==
 
-Você deve elaborar um breve documento que descreve o problema de pesquisa a ser investigado, o contexto e a metodologia detalhada a ser empregada.
+Você deve elaborar um breve documento que descreva o problema de pesquisa a ser investigado, o contexto e a metodologia detalhada a ser empregada.
 
 O documento deve conter, minimamente, as seguintes seções:
 
@@ -26,7 +26,7 @@ O documento deve conter, minimamente, as seguintes seções:
     - Desfecho
 - Cronograma
 
-Crie uma capa contendo o título, os autores (você e o docente) e a data e versão.
+Crie uma capa contendo o título, os autores (você e o docente), data e versão.
 Não se esqueça que o título deve identificar o documento como o protocolo de uma revisão sistemática.
 A data é a data em que você finalizar a elaboração do protocolo.
 Use versão 1 para este protocolo.
@@ -39,7 +39,7 @@ Você pode aproveitar o conteúdo que escreveu nas atividades anteriores para as
 
 Procure manter o contexto curto, visando um ou dois parágrafos no máximo.
 Tente expor a informação necessária para o leitor entender a origem da pergunta a ser respondida.
-Qual é a importância dessa resposta para ou seu projeto de mestrado (ou para a sociedade).
+Qual é a importância dessa resposta para o seu projeto de mestrado (ou para a sociedade).
 
 O objetivo deve explicitar o problema de pesquisa definido nas atividades anteriores.
 De forma sucinta, é a versão "verbal" da pergunta PICO/PICOS.
