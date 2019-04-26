@@ -1,6 +1,6 @@
 Título: 06 - Protocolo de pesquisa
 
-== Objetivo ==
+== Objetivo da atividade ==
 
 Elaborar um protocolo para o projeto de pesquisa.
 
@@ -9,7 +9,7 @@ Você deve definir um ou mais dados a ser buscados nos RESUMOS de trabalhos da l
 
 A conclusão desta pesquisa deve apresentar evidências clínicas da literatura para embasar uma alegação utilizável na introdução da dissertação.
 
-== Conteúdo ==
+== Conteúdo requerido ==
 
 Você deve elaborar um breve documento que descreve o problema de pesquisa a ser investigado, o contexto e a metodologia detalhada a ser empregada.
 
@@ -17,8 +17,8 @@ O documento deve conter, minimamente, as seguintes seções:
 
 - Capa
     - Título
-    - Autores *
-    - Data e versão/revisão do protocolo **
+    - Autores
+    - Data e versão/revisão do protocolo
 - Contexto
     - Objetivo
 - Métodos
@@ -76,7 +76,7 @@ E da apresentação?
 Quais são as etapas necessárias para a conclusão desta pesquisa?
 Quanto tempo você estima que precisará para concluir cada uma delas?
 
-== Observações e Limitações ==
+== Observações finais e Limitações ==
 
 Uma revisão sistemática da literatura define métodos e critérios para avaliação crítica de estudos.
 Para viabilizar a experiência durante a disciplina vamos nos ater apenas a resultados presentes nos resumos.
