@@ -64,6 +64,8 @@ Conteúdo requerido para os MÉTODOS deste protocolo:
 - Dados/resultados que serão coletados nos resumos
 
 O desenho do estudo é uma revisão sistemática da literatura, seguindo o padrão PRISMA.
+Que tipos de estudos serão incluídos?
+Você deve excluir revisões e outros tipos de artigos que não sejam pesquisa original.
 Os dados secundários que serão coletados nos resumos dos artigos incluídos foram identificados em tarefas anteriores.
 Eles serão descritos como mínimo e máximo, e em caso de estudos clínicos o número de pacientes (N), mínimo, máximo e o N total (soma).
 
