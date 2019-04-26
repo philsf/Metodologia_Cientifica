@@ -26,10 +26,12 @@ O documento deve conter, minimamente, as seguintes seções:
     - Desfecho
 - Cronograma
 
-A capa deve conter o título, que identifique o documento como o protocolo de uma revisão sistemática, os autores (você e o docente) e a data e versão.
-A data é a data em que você finalizar a elaboração do protocolo; use versão 1 para este protocolo.
+Crie uma capa contendo o título, os autores (você e o docente) e a data e versão.
+Não se esqueça que o título deve identificar o documento como o protocolo de uma revisão sistemática.
+A data é a data em que você finalizar a elaboração do protocolo.
+Use versão 1 para este protocolo.
 
-As seções Contexto e Metodologia são descritas a seguir.
+As seções Contexto, Metodologia e Cronograma são descritas a seguir.
 
 == Contexto e objetivo ==
 
