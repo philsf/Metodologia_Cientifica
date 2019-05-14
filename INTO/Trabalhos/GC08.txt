@@ -4,7 +4,7 @@ Crie um documento novo, para iniciarmos a elaboração do relatório.
 Enquanto você levanta e cataloga os trabalhos selecionados no screening, vamos popular o rascunho com os conteúdos que você já tem mais ou menos prontos.
 
 Adapte o conteúdo do CONTEXTO do protocolo para a INTRODUÇÃO do relatório.
-Atenção ao tempo verbal.
+Atenção ao tempo verbal - agora você está relatando o que foi feito.
 
 Na capa, o título deve identificar que é uma revisão sistemática.
 Se o tamanho do título permitir, é desejável especificar que este estudo foi feito em resumos (para tornar claro ao leitor que não é uma revisão sistemática "completa").
