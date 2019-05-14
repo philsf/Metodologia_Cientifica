@@ -27,3 +27,5 @@ Se o tamanho do título permitir, é desejável especificar que este estudo foi 
 
 Além da INTRODUÇÃO, crie também uma seção REFERÊNCIAS.
 Inclua nesta lista os trabalhos citados na INTRODUÇÃO.
+
+As seções não contempladas nesta atividade devem ficar vazias: métodos, resultados, discussão e conclusão.
