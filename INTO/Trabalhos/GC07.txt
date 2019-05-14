@@ -14,7 +14,7 @@ Identifique qual é a citação que embasa cada alegação mencionada no texto, 
 == Texto ==
 
 A lombalgia crônica (LBC) é uma condição comum que afeta muitos indivíduos em algum estágio da vida.
-Na maior parte dos países onde foi avaliada estima-se que de 5% a 10% das pessoas desenvolverá LBC.
+Na maior parte dos países onde foi avaliada estima-se que de 5% a 10% das pessoas desenvolverá LBC, por exemplo 7% na população chinesa.
 A LBC é uma das principais responsáveis pela busca de atendimento médico, além de ter impacto econômico relevante, considerando custos de tratamento e dispensas médicas (ANDERSSON, 1999; LOISEL, 2002; LIAO, 2009).
 
 == Referências ==
