@@ -10,19 +10,16 @@ A lombalgia crônica (LBC) é uma condição comum que afeta muitos indivíduos 
 Na maior parte dos países onde foi avaliada estima-se que de 5% a 10% das pessoas desenvolverá LBC.
 A LBC é uma das principais responsáveis pela busca de atendimento médico, além de ter impacto econômico relevante, considerando custos de tratamento e dispensas médicas.
 
-Andersson GB. Epidemiological features of chronic
-low-back pain. Lancet. 1999;354(9178):581-5.
-DOI:10.1016/S0140-6736(99)01312-4
+Referências
 
-Liao ZT, Pan YF, Huang JL, Huang F, Chi WJ, Zhang
-KX, et al. An epidemiological survey of low back
-pain and axial spondyloarthritis in a Chinese Han
-population. Scand J Rheumatol. 2009;38(6):455-9.
-DOI:10.3109/03009740902978085
+ANDERSSON, Gunnar BJ. Epidemiological features of chronic low-back pain. The lancet, v. 354, n. 9178, p. 581-585, 1999.DOI:10.1016/S0140-6736(99)01312-4
+PMID: 10470716
+DOI: https://doi.org/10.1016/S0140-6736(99)01312-4
 
-Melloh M, Röder C, Elfering A, Theis JC, Müller
-U, Staub LP, et al. Differences across health care
-systems in outcome and cost-utility of surgical and
-conservative treatment of chronic low back pain: a
-study protocol. BMC Musculoskelet Disord. 2008;9:81.
-DOI:10.1186/1471-2474-9-81
+LIAO, Z. T. et al. An epidemiological survey of low back pain and axial spondyloarthritis in a Chinese Han population. Scandinavian journal of rheumatology, v. 38, n. 6, p. 455-459, 2009.
+PMID: 19922021
+DOI: https://doi.org/10.3109/03009740902978085
+
+LOISEL, Patrick et al. Cost-benefit and cost-effectiveness analysis of a disability prevention model for back pain management: a six year follow up study. Occupational and Environmental Medicine, v. 59, n. 12, p. 807-815, 2002.
+PMID: 12468746
+DOI: https://doi.org/10.1136/oem.59.12.807
