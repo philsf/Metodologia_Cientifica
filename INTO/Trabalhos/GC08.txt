@@ -2,9 +2,10 @@ Título: 08 - Relatório: Introdução + Métodos + Referências
 
 == Objetivo da atividade ==
 
-Criar um documento novo, para iniciarmos a elaboração do relatório.
+Criar um documento novo e iniciar a elaboração do relatório do estudo.
 
-Enquanto você levanta e cataloga os trabalhos selecionados no screening, vamos popular o rascunho com os conteúdos que você já tem mais ou menos prontos.
+Você já pode começar o screening do trabalhos da literatura de acordo com seu PROTOCOLO, para a próxima atividade.
+Agora vamos apenas criar um rascunho do relatório e começar a populá-lo com os conteúdos que você já tem mais ou menos prontos.
 
 Este relatório seguirá o padrão PRISMA.
 
