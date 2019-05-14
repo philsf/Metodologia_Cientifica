@@ -1,4 +1,4 @@
-Título: 08 - Relatório: Métodos + Referências
+Título: 08 - Relatório: Introdução + Métodos + Referências
 
 == Objetivo da atividade ==
 
@@ -29,11 +29,12 @@ Todo o material acima pode ser obtido no site do PRISMA statement.
 
 Adapte o conteúdo do CONTEXTO do protocolo para a INTRODUÇÃO do relatório.
 Atenção ao tempo verbal - agora você está relatando o que foi feito.
+Faça o mesmo com a seção MÉTODOS.
 
 Na capa, o TÍTULO deve identificar que é uma revisão sistemática.
 Se o tamanho do título permitir, é desejável especificar que este estudo foi feito em resumos (para tornar claro ao leitor que não é uma revisão sistemática "completa").
 
-Além da INTRODUÇÃO, crie também uma seção REFERÊNCIAS.
-Inclua nesta lista os trabalhos citados na INTRODUÇÃO.
+Além da INTRODUÇÃO e MÉTODOS, crie também uma seção REFERÊNCIAS.
+Inclua nesta lista os trabalhos citados na INTRODUÇÃO e MÉTODOS.
 
-As seções não contempladas nesta atividade devem ficar vazias: métodos, resultados, discussão e conclusão.
+As seções não contempladas nesta atividade devem ficar vazias: resultados, discussão e conclusão.
