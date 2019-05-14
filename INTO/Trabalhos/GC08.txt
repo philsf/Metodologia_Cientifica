@@ -6,9 +6,8 @@ Enquanto você levanta e cataloga os trabalhos selecionados no screening, vamos 
 Adapte o conteúdo do CONTEXTO do protocolo para a INTRODUÇÃO do relatório.
 Atenção ao tempo verbal - agora você está relatando o que foi feito.
 
-Na capa, o título deve identificar que é uma revisão sistemática.
+Na capa, o TÍTULO deve identificar que é uma revisão sistemática.
 Se o tamanho do título permitir, é desejável especificar que este estudo foi feito em resumos (para tornar claro ao leitor que não é uma revisão sistemática "completa").
 
 Além da INTRODUÇÃO, crie também uma seção REFERÊNCIAS.
-Inclua nesta lista os trabalhos citados na Introdução.
-
+Inclua nesta lista os trabalhos citados na INTRODUÇÃO.
