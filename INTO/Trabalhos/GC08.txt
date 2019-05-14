@@ -8,6 +8,17 @@ Enquanto você levanta e cataloga os trabalhos selecionados no screening, vamos 
 
 == Seções a criar ==
 
+- Capa
+    - Título
+    - Autores
+    - Data e versão do relatório
+- Introdução
+- Métodos
+- Resultados
+- Discussão
+- Conclusão
+- Referências
+
 Adapte o conteúdo do CONTEXTO do protocolo para a INTRODUÇÃO do relatório.
 Atenção ao tempo verbal - agora você está relatando o que foi feito.
 
