@@ -8,3 +8,7 @@ Atenção ao tempo verbal.
 
 Na capa, o título deve identificar que é uma revisão sistemática.
 Se o tamanho do título permitir, é desejável especificar que este estudo foi feito em resumos (para tornar claro ao leitor que não é uma revisão sistemática "completa").
+
+Além da INTRODUÇÃO, crie também uma seção REFERÊNCIAS.
+Inclua nesta lista os trabalhos citados na Introdução.
+
