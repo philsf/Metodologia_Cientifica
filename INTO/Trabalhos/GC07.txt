@@ -1,11 +1,15 @@
 Título: 07 - Citações e referências in loco
 
 == Objetivo da atividade ==
-- Parágrafo com 3 citações
-  - posicionar cada citação após a frase apropriada
-  - espera-se que o aluno busque o contexto adequado nos abstracts das referências
-- Formatar as 3 referências manualmente
-- Oferecer os PMID das referências
+
+Identificar a posição ideal de uma citação no texto.
+
+O texto a seguir é um parágrafo com informações obtidas da literatura.
+As fontes destas informações, no entanto, estão no final do parágrafo, obrigando o leitor a tentar identificar a fonte específica de cada informação.
+As citações estão em ordem cronológica.
+
+("Associar as colunas")
+Identifique qual é a citação que embasa cada alegação mencionada no texto, e mova a citação apropriada para cada frase.
 
 == Texto ==
 
