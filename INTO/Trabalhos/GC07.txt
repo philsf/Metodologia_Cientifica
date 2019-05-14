@@ -1,16 +1,19 @@
 Título: 07 - Citações e referências in loco
 
+== Objetivo da atividade ==
 - Parágrafo com 3 citações
   - posicionar cada citação após a frase apropriada
   - espera-se que o aluno busque o contexto adequado nos abstracts das referências
 - Formatar as 3 referências manualmente
 - Oferecer os PMID das referências
 
+== Texto ==
+
 A lombalgia crônica (LBC) é uma condição comum que afeta muitos indivíduos em algum estágio da vida.
 Na maior parte dos países onde foi avaliada estima-se que de 5% a 10% das pessoas desenvolverá LBC.
 A LBC é uma das principais responsáveis pela busca de atendimento médico, além de ter impacto econômico relevante, considerando custos de tratamento e dispensas médicas (ANDERSSON, 1999; LOISEL, 2002; LIAO, 2009).
 
-Referências
+== Referências ==
 
 ANDERSSON, Gunnar BJ. Epidemiological features of chronic low-back pain. The lancet, v. 354, n. 9178, p. 581-585, 1999.DOI:10.1016/S0140-6736(99)01312-4
 PMID: 10470716
