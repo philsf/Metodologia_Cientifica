@@ -1,4 +1,42 @@
-Título: 08 - Relatório: Métodos + Referências
+Título: 08 - Relatório: Introdução + Métodos + Referências
 
-Iniciar a elaboração do relatório pelos métodos e referências.
-Usar a sinopse como Introdução?
+== Objetivo da atividade ==
+
+Criar um documento novo e iniciar a elaboração do relatório do estudo.
+
+Você já pode começar o screening do trabalhos da literatura de acordo com seu PROTOCOLO, para a próxima atividade.
+Agora vamos apenas criar um rascunho do relatório e começar a populá-lo com os conteúdos que você já tem mais ou menos prontos.
+
+Este relatório seguirá o padrão PRISMA.
+
+- Itens PRISMA: 1, 2, 3, 4, 6, 7, 8, 9, 11, 17, 18, 20, 25 e 26.
+- Descrição e exemplos interpretativos dos itens no "PRISMA Elaboration & Explanation"
+- Fluxo de inclusão e exclusão PRISMA
+
+Todo o material acima pode ser obtido no site do PRISMA statement.
+
+== Seções a criar ==
+
+- Capa
+    - Título
+    - Autores
+    - Data e versão do relatório
+- Introdução
+- Métodos
+- Resultados
+- Discussão
+- Conclusão
+- Referências
+
+Na capa, o TÍTULO deve identificar que é uma revisão sistemática.
+Se o tamanho do título permitir, é desejável especificar que este estudo foi feito em resumos (para tornar claro ao leitor que não é uma revisão sistemática "completa").
+
+Adapte o conteúdo do CONTEXTO do protocolo para a INTRODUÇÃO do relatório.
+Atenção ao tempo verbal - agora você está relatando o que foi feito.
+
+Faça o mesmo com a seção MÉTODOS.
+
+Além da INTRODUÇÃO e MÉTODOS, crie também uma seção REFERÊNCIAS.
+Inclua nesta lista os trabalhos citados na INTRODUÇÃO e MÉTODOS.
+
+As seções não contempladas nesta atividade devem ficar vazias: resultados, discussão e conclusão.
