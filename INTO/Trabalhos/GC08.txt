@@ -6,6 +6,14 @@ Criar um documento novo, para iniciarmos a elaboração do relatório.
 
 Enquanto você levanta e cataloga os trabalhos selecionados no screening, vamos popular o rascunho com os conteúdos que você já tem mais ou menos prontos.
 
+Este relatório seguirá o padrão PRISMA.
+
+- Itens PRISMA: 1, 2, 3, 4, 6, 7, 8, 9, 11, 17, 18, 20, 25 e 26.
+- Descrição e exemplos interpretativos dos itens no "PRISMA Elaboration & Explanation"
+- Fluxo de inclusão e exclusão PRISMA
+
+Todo o material acima pode ser obtido no site do PRISMA statement.
+
 == Seções a criar ==
 
 - Capa
