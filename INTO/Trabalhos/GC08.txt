@@ -28,12 +28,13 @@ Todo o material acima pode ser obtido no site do PRISMA statement.
 - Conclusão
 - Referências
 
-Adapte o conteúdo do CONTEXTO do protocolo para a INTRODUÇÃO do relatório.
-Atenção ao tempo verbal - agora você está relatando o que foi feito.
-Faça o mesmo com a seção MÉTODOS.
-
 Na capa, o TÍTULO deve identificar que é uma revisão sistemática.
 Se o tamanho do título permitir, é desejável especificar que este estudo foi feito em resumos (para tornar claro ao leitor que não é uma revisão sistemática "completa").
+
+Adapte o conteúdo do CONTEXTO do protocolo para a INTRODUÇÃO do relatório.
+Atenção ao tempo verbal - agora você está relatando o que foi feito.
+
+Faça o mesmo com a seção MÉTODOS.
 
 Além da INTRODUÇÃO e MÉTODOS, crie também uma seção REFERÊNCIAS.
 Inclua nesta lista os trabalhos citados na INTRODUÇÃO e MÉTODOS.
