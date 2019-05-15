@@ -30,8 +30,8 @@ A digulgação do material para os alunos é feita pelo endereço: https://sites
 [PICO]: Aulas/MC-Prob_Hip_Var_4em1.pdf?raw=true
 [Planejamento]: Aulas/MC-Planejamento_4em1.pdf?raw=true
 [EDA]: Aulas/MC-EDA_4em1.pdf?raw=true
-[Estrutura I]: Aulas/MC-ProjetoI_4em1.pdf?raw=true
-[Estrutura II]: Aulas/MC-ProjetoII_4em1.pdf?raw=true
+[Estrutura I]: Aulas/MC-EstruturaI_4em1.pdf?raw=true
+[Estrutura II]: Aulas/MC-EstruturaII_4em1.pdf?raw=true
 [Referências]: Aulas/MC-Referencias_4em1.pdf?raw=true
 [Busca]: Aulas/MC-Busca_4em1.pdf?raw=true
 [Escrita]: Aulas/MC-Escrita_4em1.pdf?raw=true
