@@ -4,6 +4,9 @@ Título: 09 - Relatório: Resultados
 
 Elaborar a seção de resultados do estudo.
 
+Na ultima tarefa você criou as seções que definem a estrutura do relatório.
+Esta semana voce começará a preencher a seção RESULTADOS.
+
 == Resultados ==
 
 - Incluir um fluxograma PRISMA com os estudos incluídos, excluídos e a amostra final obtida.
