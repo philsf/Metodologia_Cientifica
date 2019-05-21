@@ -1,6 +1,10 @@
 Título: 09 - Relatório: Resultados
 
+== Objetivo da atividade ==
+
 Elaborar a seção de resultados do estudo.
+
+== Resultados ==
 
 - Incluir um fluxograma PRISMA com os estudos incluídos, excluídos e a amostra final obtida.
 - Apresentar o N total de participantes dos estudos, bem como o menor N e o maior N observado.
