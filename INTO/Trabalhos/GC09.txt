@@ -1,6 +1,24 @@
 Título: 09 - Relatório: Resultados
 
+== Objetivo da atividade ==
+
 Elaborar a seção de resultados do estudo.
 
-- Incluir um fluxograma PRISMA com os estudos incluídos, excluídos e a amostra final obtida.
-- Apresentar o N total de participantes dos estudos, bem como o menor N e o maior N observado.
+Na ultima tarefa você criou as seções que definem a estrutura do relatório.
+Esta semana você começará a preencher a seção RESULTADOS.
+
+Itens PRISMA relevantes para esta atividade:
+
+- 17, 18 e 20
+- Fluxograma de estudos incluídos/excluídos
+
+== Resultados ==
+
+Crie um rascunho inicial descrevendo as quantidades de artigos obtidos do screening inicial, a quantidade de artigos elegíveis para seleção e o numero de artigos incluídos e excluídos.
+
+- Preencha o fluxograma PRISMA com estes números.
+
+Dependendo dos tipos estudos que você definiu como elegíveis no protocolo, os sujeitos/objetos podem ser participantes (e.g. ensaios clínicos), ou amostras (biológicas, químicas, etc).
+Cada estudo tem o seu N de sujeitos/objetos.
+
+- Apresente o N total de sujeitos/objetos dos estudos (a soma de todos os N), bem como o menor N e o maior N observado.
