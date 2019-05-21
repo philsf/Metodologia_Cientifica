@@ -10,8 +10,11 @@ Esta semana voce começará a preencher a seção RESULTADOS.
 Itens PRISMA relevantes para esta atividade:
 
 - 17, 18 e 20
+- Fluxograma de estudos incluídos/excluídos
 
 == Resultados ==
 
-- Incluir um fluxograma PRISMA com os estudos incluídos, excluídos e a amostra final obtida.
+Crie um rascunho inicial descrevendo as quantidades de artigos obtidos do screening inicial, a quantidade de artigos elegíveis para seleção e o numero de artigos incluídos e excluídos.
+Preencha o fluxograma PRISMA com estes números.
+
 - Apresentar o N total de participantes dos estudos, bem como o menor N e o maior N observado.
