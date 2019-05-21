@@ -17,4 +17,6 @@ Itens PRISMA relevantes para esta atividade:
 Crie um rascunho inicial descrevendo as quantidades de artigos obtidos do screening inicial, a quantidade de artigos elegíveis para seleção e o numero de artigos incluídos e excluídos.
 Preencha o fluxograma PRISMA com estes números.
 
-- Apresentar o N total de participantes dos estudos, bem como o menor N e o maior N observado.
+Dependendo dos tipos estudos que você definiu como elegíveis no protocolo, os sujeitos/objetos podem ser participantes (e.g. ensaios clínicos), ou amostras (biológicas, químicas, etc).
+Cada estudo tem o seu N de sujeitos/objetos.
+Apresente o N total de sujeitos/objetos dos estudos (a soma de todos os N), bem como o menor N e o maior N observado.
