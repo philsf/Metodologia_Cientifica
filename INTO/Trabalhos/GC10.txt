@@ -4,6 +4,9 @@ Título: 10 - Relatório: discussão + padronização da formatação + sumário
 
 == Discussão ==
 
+Interprete os resultados de acordo com as referências que embasam o CONTEXTO do seu relatório.
+Considere a relevância do problema de pesquisa (tarefa 02), e as limitações de se fazer uma revisão sistemática apenas nos resumos (tarefa 06).
+
 == Formatação ==
 
 - Formatar o relatório observando as normas ABNT (livro texto)
