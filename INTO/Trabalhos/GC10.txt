@@ -1,4 +1,10 @@
 Título: 10 - Relatório: discussão + padronização da formatação + sumários
 
+== Objetivo da atividade
+
+== Discussão ==
+
+== Formatação ==
+
 - Formatar o relatório observando as normas ABNT (livro texto)
 - Incluir um sumário, usando os estilos de formatação das seções.
