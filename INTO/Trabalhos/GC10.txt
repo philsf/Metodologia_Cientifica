@@ -3,7 +3,11 @@ Título: 10 - Relatório: discussão + padronização da formatação + sumário
 == Objetivos da atividade ==
 
 Criar um documento padronizado para o relatório (se já não tiver iniciado em tarefas anteriores).
-Incluir o rascunho da DISCUSSÃO no relatório, e padronizar a formatação dos estilos de seções.
+Incluir o rascunho da DISCUSSÃO no relatório de acordo com o guia PRISMA, e padronizar a formatação dos estilos de seções.
+
+Itens PRISMA relevantes para a DISCUSSÃO:
+
+- 25 e 26.
 
 == Discussão ==
 
@@ -26,7 +30,7 @@ Seções primárias e secundárias a considerar na formatação:
     - Dados/resultados que serão coletados nos resumos
 - Resultados
 - Discussão
-- Conclusão (ainda em branco)
+- Conclusão
 - Referências
 
 Ao final da padronização dos estilos do documento, inclua um sumário.
