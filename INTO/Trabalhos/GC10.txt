@@ -9,5 +9,21 @@ Considere a relevância do problema de pesquisa (tarefa 02), e as limitações d
 
 == Formatação ==
 
-- Formatar o relatório observando as normas ABNT (livro texto)
-- Incluir um sumário, usando os estilos de formatação das seções.
+Formatar as seções primárias e secundárias do relatório observando as normas ABNT (você pode consultar livro texto).
+
+- Seções primárias e secundárias a considerar na formatação
+    - Contexto
+        - Objetivo
+    - Métodos
+        - Desenho do estudo
+        - Desfecho primário (opcionalmente, desfechos secundários)
+        - Critérios de inclusão
+        - Critérios de exclusão
+        - Dados/resultados que serão coletados nos resumos
+    - Resultados
+    - Discussão
+    - Conclusão (ainda em branco)
+    - Referências
+
+Ao final da padronização dos estilos do documento, inclua um sumário.
+Lembre-se que o sumário só funcionará usando os estilos de formatação das seções.
