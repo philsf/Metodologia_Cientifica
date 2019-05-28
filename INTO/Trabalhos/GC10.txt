@@ -1,6 +1,9 @@
 Título: 10 - Relatório: discussão + padronização da formatação + sumários
 
-== Objetivo da atividade
+== Objetivos da atividade ==
+
+Criar um documento padronizado para o relatório (se já não tiver iniciado em tarefas anteriores).
+Incluir o rascunho da DISCUSSÃO no relatório, e padronizar a formatação dos estilos de seções.
 
 == Discussão ==
 
