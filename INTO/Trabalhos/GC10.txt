@@ -11,7 +11,7 @@ Itens PRISMA relevantes para a DISCUSSÃO:
 
 == Discussão ==
 
-Interprete os resultados de acordo com as referências que embasam o CONTEXTO do seu relatório.
+Interprete os resultados de acordo com as referências que embasam a INTRODUÇÃO do seu relatório.
 Considere a relevância do problema de pesquisa (tarefa 02), e as limitações de se fazer uma revisão sistemática apenas nos resumos (tarefa 06).
 
 == Formatação ==
@@ -20,7 +20,7 @@ Formatar as seções primárias e secundárias do relatório observando as norma
 
 Seções primárias e secundárias a considerar na formatação:
 
-- Contexto
+- Introdução
     - Objetivo
 - Métodos
     - Desenho do estudo
