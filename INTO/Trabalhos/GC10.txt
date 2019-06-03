@@ -1,4 +1,37 @@
-Título: 10 - Relatório: formatação + sumários
+Título: 10 - Relatório: discussão + padronização da formatação + sumários
 
-- Formatar o relatório observando as normas ABNT (livro texto)
-- Incluir um sumário, usando os estilos de formatação das seções.
+== Objetivos da atividade ==
+
+Criar um documento padronizado para o relatório (se já não tiver iniciado em tarefas anteriores).
+Incluir o rascunho da DISCUSSÃO no relatório de acordo com o guia PRISMA, e padronizar a formatação dos estilos de seções.
+
+Itens PRISMA relevantes para a DISCUSSÃO:
+
+- 25 e 26.
+
+== Discussão ==
+
+Interprete os resultados de acordo com as referências que embasam a INTRODUÇÃO do seu relatório.
+Considere a relevância do problema de pesquisa (tarefa 02), e as limitações de se fazer uma revisão sistemática apenas nos resumos (tarefa 06).
+
+== Formatação ==
+
+Formatar as seções primárias e secundárias do relatório observando as normas ABNT (você pode consultar livro texto).
+
+Seções primárias e secundárias a considerar na formatação:
+
+- Introdução
+    - Objetivo
+- Métodos
+    - Desenho do estudo
+    - Desfecho primário (opcionalmente, desfechos secundários)
+    - Critérios de inclusão
+    - Critérios de exclusão
+    - Dados/resultados que serão coletados nos resumos
+- Resultados
+- Discussão
+- Conclusão
+- Referências
+
+Ao final da padronização dos estilos do documento, inclua um sumário.
+Lembre-se que o sumário só funcionará usando os estilos de formatação das seções.
