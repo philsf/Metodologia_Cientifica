@@ -179,32 +179,42 @@
 \end{frame}
 
 \begin{frame}{Paradigmas de Análises de Dados}
-Estudos quantitativos exigem coleta e análise de dados
+  \footnotesize
+  Estudos quantitativos requerem coleta e análise de dados
+  \bigskip
+  \bigskip
   \begin{itemize}
-  \item EDA -- Análise Exploratória de Dados
+  \item \alert<2>{EDA -- Análise Exploratória de Dados}
+  \bigskip
   \item CDA -- Análise Confirmatória de Dados
   \end{itemize}
 \end{frame}
 
 \begin{frame}{Análise Exploratória de Dados}
   \begin{itemize}
+    \footnotesize
   \item<1-> Formalizado por John W. Tukey nos anos 1970
+  \bigskip
   \item<1-> Objetivo: formular perguntas com base nos dados disponíveis
+  \bigskip
   \item<2-> Perguntas que podem ser respondidas pela análise dos dados
   \end{itemize}
 \end{frame}
 
 \begin{frame}{Análise Exploratória de Dados}
   \begin{block}{O que é}
-    \footnotesize
-    EDA é uma filosofia/approach para
+    \scriptsize
+    Uma filosofia/approach para
 
     \bigskip
     \begin{itemize}
-      \scriptsize
-    \item maximizar a compreensão/insight sobre um dataset
-    \item descobrir estruturas
+      \footnotesize
+    \item insight sobre um dataset
+      \medskip
+    \item descobrir estruturas/padrões
+      \medskip
     \item identificar variáveis importantes
+      \medskip
     \item detectar outliers e anomalias
     \end{itemize}
   \end{block}
@@ -249,20 +259,29 @@ Estudos quantitativos exigem coleta e análise de dados
   \begin{center}
     \includegraphics[width=0.7\textwidth]{EDA/eda-tukey1}
   \end{center}
+  \bigskip
   \begin{enumerate}
+    \footnotesize
   \item Como as perguntas são geradas?
+    \bigskip
   \item Como os desenhos (experimentais) são guiados?
+    \bigskip
   \item Como a coleta de dados é monitorada?
   \end{enumerate}
 \end{frame}
 
 \begin{frame}{Questões sobre o paradigma confirmatório}
+  \scriptsize
   Respostas: Geralmente por \ldots
+  \bigskip
   \begin{enumerate}
-  \item  {\em insights} teóricos e a exploração de dados
+    \footnotesize
+  \item {\em insights} teóricos e a exploração de dados
     anteriores (e.g., pesquisa bibliográfica)
+    \bigskip
   \item informação qualitativa disponível obtida da exploração de
     dados anteriores
+    \bigskip
   \item exploração dos dados, conforme são obtidos, buscando
     comportamento ``inesperado''
   \end{enumerate}
@@ -281,9 +300,11 @@ Estudos quantitativos exigem coleta e análise de dados
   \begin{center}
     \includegraphics[width=0.7\textwidth]{EDA/eda-tukey2}
   \end{center}
-
-Tukey sugere que:
+  \scriptsize
+  Tukey sugere que:
+  \bigskip
   \begin{itemize}
+    \footnotesize
   \item Antes de termos uma pergunta, temos uma ideia (a ser
     formalizada)
   \item Pergunta formal depende dos dados disponíveis
@@ -294,14 +315,18 @@ Tukey sugere que:
 \begin{frame}
   \begin{exampleblock}{Exemplo}
     \begin{itemize}
+      \scriptsize
     \item<1-> Ideia: uma certa droga ajuda em uma doença
     \item<2-> Queremos testar/confirmar isso\ldots
     \item<3-> \ldots com consistência estatística na resposta
     \end{itemize}
   \end{exampleblock}
+  \bigskip
   \begin{itemize}
   \item<1-> Ideia preliminar informal, vaga
+    \bigskip
   \item<1-> Geralmente em termos de linguagem coloquial
+    \bigskip
   \item<3-> Não pode ser avaliada com suporte estatístico
   \end{itemize}
 \end{frame}
@@ -331,18 +356,29 @@ Desejo: pergunta geral, de amplo espectro e implicações profundas
 
 \begin{frame}{Formulação da pergunta}
   \begin{itemize}
+    \footnotesize
   \item o que pode concretamente ser perguntado
+    \bigskip
   \item que desenhos são viáveis
+    \bigskip
   \item chance de um certo design resultar em resposta útil
-  \item ``Como eu estudo o que está acontecendo aqui?''
   \end{itemize}
+  \bigskip
+  \pause
+  \begin{block}{}
+    { ``Como eu estudo o que está acontecendo aqui?''}
+  \end{block}
 \end{frame}
 
 \begin{frame}{Por onde começar?}
   \begin{itemize}
+    \footnotesize
   \item tabelas
+    \bigskip
   \item gráficos dos dados brutos
+    \bigskip
   \item estatísticas descritivas simples
+    \bigskip
   \item procurar padrões
   \end{itemize}
 \end{frame}
@@ -420,11 +456,17 @@ Desejo: pergunta geral, de amplo espectro e implicações profundas
 \subsubsection{Gráfico de Dispersão}
 
 \begin{frame}{Gráficos de dispersão}
-Gráficos de dispersão (ou scatter-plots):
+  % \scriptsize
+  % Gráficos de dispersão (ou scatter-plots):
+  % \bigskip
   \begin{itemize}
+    \footnotesize
   \item visualizar os dados pontuais diretamente
+    \bigskip
   \item identificar possíveis padrões ou tendências
+    \bigskip
   \item identificar visualmente possíveis outliers
+    \bigskip
   \item desenhar possíveis relações (modelos) sobre os dados
   \end{itemize}
 \end{frame}
@@ -473,8 +515,11 @@ Gráficos de dispersão (ou scatter-plots):
 
 \begin{frame}{Histograma}
   \begin{itemize}
+    \footnotesize
   \item Gráfico de barras com frequências dos dados
+    \bigskip
   \item visualização prática da distribuição dos dados
+    \bigskip
   \item identificar simetria, tendência central, dispersão, etc
   \end{itemize}
 \end{frame}
@@ -500,11 +545,15 @@ Gráficos de dispersão (ou scatter-plots):
 
 \begin{frame}{Boxplot}
   \begin{itemize}
+    \footnotesize
   \item caixa que contém 50\% dos dados\ldots
+    \bigskip
   \item \ldots e segmentos verticais que englobam a maior parte dos
     dados
+    \bigskip
   \item elementos fora deste intervalo devem ser investigados como
     possíveis outliers
+    \bigskip
   \item Ideal para grandes quantidades de dados
   \end{itemize}
 \end{frame}
