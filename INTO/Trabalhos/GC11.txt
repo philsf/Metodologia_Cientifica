@@ -7,4 +7,4 @@ Elaborar um resumo estruturado do estudo.
 == RESUMO ==
 
 - Itens PRISMA: 2.
-- Descrição e exemplos interpretativos dos itens no "PRISMA Elaboration & Explanation"
+- Descrição e exemplos interpretativos dos itens no "PRISMA Elaboration & Explanation".
