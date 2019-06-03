@@ -1,9 +1,10 @@
 Título: 11 - Relatório: resumo
 
-Elaborar um resumo do estudo.
+== Objetivo da atividade ==
 
-- Incluir
-  - Introdução e Objetivos (desfecho primário e, se houver, secundários)
-  - Métodos
-  - Resultados
-  - Conclusão
+Elaborar um resumo estruturado do estudo.
+
+== RESUMO ==
+
+- Itens PRISMA: 2.
+- Descrição e exemplos interpretativos dos itens no "PRISMA Elaboration & Explanation".
