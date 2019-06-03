@@ -1,6 +1,10 @@
 Título: 11 - Relatório: resumo
 
+== Objetivo da atividade ==
+
 Elaborar um resumo do estudo.
+
+== RESUMO ==
 
 - Incluir
   - Introdução e Objetivos (desfecho primário e, se houver, secundários)
