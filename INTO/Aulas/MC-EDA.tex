@@ -617,10 +617,11 @@
     \begin{column}{.5\textwidth}
       \begin{itemize}
         \tiny
-      \item<2,3> Relação linear, alguma dispersão
-      \item<3> Não há justificativa para um modelo mais complexo (quadrático, etc...)
-      \item<4> Não há outliers
-      \item<5> Distância vertical à reta (Y) semelhante ao longo da faixa (X)
+      \item<2-4> Relação ``claramente'' linear...
+      \item<2-4> ... alguma dispersão
+      \item<4> Não há justificativa para um modelo mais complexo (quadrático, etc...)
+      \item<5> Não há outliers
+      \item<6> Distância vertical à reta (Y) semelhante ao longo da faixa (X)\footnote[frame]{\tiny Não é necessário aplicar ponderações ou transformações}
       \end{itemize}
     \end{column}
     \begin{column}{.5\textwidth}
@@ -631,36 +632,55 @@
   \end{columns}
 \end{frame}
 
-\begin{frame}{Relação não linear}
-  \begin{center}
-    \includegraphics[height=0.7\textheight]{EDA/eda-dispersao2}
-  \end{center}
-
-  \vfill
-  \scriptsize
-  \hfill \href{https://doi.org/10.1002/0471264385.wei0202}
-  {Behrens, Yu (2003)}
+\begin{frame}
+  \begin{columns}
+    \begin{column}{.5\textwidth}
+      \begin{itemize}
+        \tiny
+      \item<2> Relação claramente não é linear
+      \item<3> Relação ``claramente'' quadrática
+      \end{itemize}
+    \end{column}
+    \begin{column}{.5\textwidth}
+      \begin{center}
+        \includegraphics[width=\textwidth]{EDA/eda-dispersao2}
+      \end{center}
+    \end{column}
+  \end{columns}
 \end{frame}
 
-\begin{frame}{Anomalias}
-  \begin{center}
-    \includegraphics[height=0.7\textheight]{EDA/eda-dispersao3}
-  \end{center}
-
-  \vfill
-  \scriptsize
-  \hfill Fonte: Behrens, Yu (2003)
+\begin{frame}
+  \begin{columns}
+    \begin{column}{.5\textwidth}
+      \begin{itemize}
+        \tiny
+      \item<2> ``Claramente'' possui um outlier
+      \end{itemize}
+    \end{column}
+    \begin{column}{.5\textwidth}
+      \begin{center}
+        \includegraphics[width=\textwidth]{EDA/eda-dispersao3}
+      \end{center}
+    \end{column}
+  \end{columns}
 \end{frame}
 
-\begin{frame}{??}
-  \begin{center}
-    \includegraphics[height=0.7\textheight]{EDA/eda-dispersao4}
-  \end{center}
-
-  \vfill
-  \scriptsize
-  \hfill \href{https://doi.org/10.1002/0471264385.wei0202}
-  {Behrens, Yu (2003)}
+\begin{frame}
+  \begin{columns}
+    \begin{column}{.5\textwidth}
+      \begin{itemize}
+        \tiny
+      \item<2> ``Claramente'' vítima de um desenho experimental infeliz
+      \item<3,4> Um único ponto afastado do cluster de dados
+      \item<4> ``cauda abanando o cachorro''
+      \end{itemize}
+    \end{column}
+    \begin{column}{.5\textwidth}
+      \begin{center}
+        \includegraphics[width=\textwidth]{EDA/eda-dispersao4}
+      \end{center}
+    \end{column}
+  \end{columns}
 \end{frame}
 
 \subsection{Exercício}
