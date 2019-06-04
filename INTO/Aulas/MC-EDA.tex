@@ -43,10 +43,10 @@
 
 
 \title%[] % (optional, use only with long paper titles)
-{Análise Exploratória de Dados}
+{Tópicos em resultados preliminares}
 
 \subtitle
-{Formulação de perguntas de dados preliminares} % (optional)
+{Análise Exploratória de Dados} % (optional)
 
 \author%[] % (optional, use only with lots of authors)
 {Felipe Figueiredo}% \and S.~Another\inst{2}}
@@ -221,11 +221,12 @@
 
   \vfill
   \scriptsize
-  \hfill Fonte: NIST Handbook (1998)
+  \hfill \href{https://www.itl.nist.gov/div898/handbook/eda/section1/eda16.htm}
+  {NIST Handbook (1998)}
 \end{frame}
 
 \begin{frame}{Análise Exploratória de Dados}
-  \begin{block}{Tukey, 1980}
+  \begin{block}{Do resumo...}
     \footnotesize {\em ``Ideas come from previous exploration more
       often than from lightning strokes. Important questions can
       demand the most careful planning for confirmatory
@@ -236,54 +237,122 @@
 
   \vfill
   \scriptsize
-  \hfill Tukey (1980) -- We Need Both Exploratory and Confirmatory
+  \hfill Tukey, 1980
 \end{frame}
 
-\begin{frame}{Análise Exploratória de Dados}
-  \begin{block}{Para Tukey:}
-  \begin{itemize}
-    \footnotesize
-  \item Não basta fazer a análise confirmatória, nem a exploratória:
-    \alert{ambas} são necessárias
+% \begin{frame}{Análise Exploratória de Dados}
+%   \begin{block}{Para Tukey:}
+%     \begin{itemize}
+%       \footnotesize
+%     \item Não basta fazer a análise confirmatória, nem a exploratória:
+%       \alert{ambas} são necessárias
+%       \bigskip
+%     \item Paradigma: pergunta $\rightarrow$ resposta é inadequado
+%       \bigskip
+%     \item ``Encontrar a pergunta é por vezes mais importante que
+%       encontrar a resposta''
+%     \end{itemize}
+%   \end{block}
+
+%   \vfill
+%   \tiny
+%   \hfill Tukey, 1980
+% \end{frame}
+
+\begin{frame}{Mapa}
+  \begin{enumerate}
+    \scriptsize
+  \item Um paradigma incompleto
     \bigskip
-  \item Paradigma: pergunta $\rightarrow$ resposta é inadequado
+  \item Origem das ideias
     \bigskip
-  \item ``Encontrar a pergunta é por vezes mais importante que
-    encontrar a resposta''
-  \end{itemize}
-\end{block}
+  \item Perguntas importantes
+    \bigskip
+  \item A investigação abrangente
+    \bigskip
+  \item Uma máxima
+    \bigskip
+  \item Análise confirmatória
+  \end{enumerate}
+
+  \vfill
+  \scriptsize
+  \hfill Tukey, 1980
 \end{frame}
 
-\begin{frame}{Paradigma linear}
+\begin{frame}{Paradigma linear -- incompleto}
   \begin{center}
     \includegraphics[width=0.7\textwidth]{EDA/eda-tukey1}
   \end{center}
   \bigskip
-  \begin{enumerate}
-    \footnotesize
-  \item Como as perguntas são geradas?
-    \bigskip
-  \item Como os desenhos (experimentais) são guiados?
-    \bigskip
-  \item Como a coleta de dados é monitorada?
-  \end{enumerate}
+  \begin{block}{\scriptsize Este paradigma simplista presume que...}
+    \begin{itemize}
+      \footnotesize
+    \item Sabemos a pergunta ``correta'' no início
+      \bigskip
+    \item Ignora questões importantes sobre o processo investigativo
+      \medskip
+      \begin{itemize}
+        \tiny
+      \item<2> Como as perguntas são geradas?
+        \medskip
+      \item<2> Como os desenhos (experimentais) são guiados?
+        \medskip
+      \item<2> Como a coleta de dados é monitorada?
+      \end{itemize}
+    \end{itemize}
+  \end{block}
+
+  \vfill
+  \scriptsize
+  \hfill Tukey, 1980
 \end{frame}
 
-\begin{frame}{Questões sobre o paradigma confirmatório}
-  \scriptsize
-  Respostas: Geralmente por \ldots
+\begin{frame}{Paradigma linear -- incompleto}
+  \begin{center}
+    \includegraphics[width=0.7\textwidth]{EDA/eda-tukey1}
+  \end{center}
   \bigskip
-  \begin{enumerate}
+  \begin{block}{Como as perguntas são geradas?}
     \footnotesize
-  \item {\em insights} teóricos e a exploração de dados
-    anteriores (e.g., pesquisa bibliográfica)
-    \bigskip
-  \item informação qualitativa disponível obtida da exploração de
-    dados anteriores
-    \bigskip
-  \item exploração dos dados, conforme são obtidos, buscando
+    Geralmente por {\em insights} teóricos e a exploração de dados anteriores (e.g., pesquisa bibliográfica)
+  \end{block}
+
+  \vfill
+  \scriptsize
+  \hfill Tukey, 1980
+\end{frame}
+
+\begin{frame}{Paradigma linear -- incompleto}
+  \begin{center}
+    \includegraphics[width=0.7\textwidth]{EDA/eda-tukey1}
+  \end{center}
+  \bigskip
+  \begin{block}{Como os desenhos (experimentais) são guiados?}
+    \footnotesize
+    Geralmente por informação qualitativa disponível
+    obtida da exploração de dados anteriores
+\end{block}
+
+  \vfill
+  \scriptsize
+  \hfill Tukey, 1980
+\end{frame}
+
+\begin{frame}{Paradigma linear -- incompleto}
+  \begin{center}
+    \includegraphics[width=0.7\textwidth]{EDA/eda-tukey1}
+  \end{center}
+  \bigskip
+  \begin{block}{Como a coleta de dados é monitorada?}
+    \footnotesize
+    Geralmente pela exploração dos dados, conforme são obtidos, buscando
     comportamento ``inesperado''
-  \end{enumerate}
+  \end{block}
+
+  \vfill
+  \scriptsize
+  \hfill Tukey, 1980
 \end{frame}
 
 \begin{frame}{Explorar\ldots}
@@ -296,9 +365,13 @@
   \item Busca de pistas, ideias e eventualmente conclusões
     preliminares ({\em hipóteses}!)
   \end{itemize}
+
+  \vfill
+  \scriptsize
+  \hfill Tukey, 1980
 \end{frame}
 
-\begin{frame}{Paradigma alternativo}
+\begin{frame}{A origem das ideias}
   \begin{center}
     \includegraphics[width=0.7\textwidth]{EDA/eda-tukey2}
   \end{center}
@@ -308,15 +381,19 @@
   \begin{itemize}
     \footnotesize
   \item Antes de termos uma pergunta, temos uma ideia (a ser
-    formalizada)
+    formalizada)\footnote{\scriptsize Assim como sua ``proposta de pergunta 1/2''}
     \bigskip
   \item Pergunta formal depende dos dados disponíveis
     \bigskip
   \item Questão pragmática, independe do desejo ou vontade
   \end{itemize}
+
+  \vfill
+  \scriptsize
+  \hfill Tukey, 1980
 \end{frame}
 
-\begin{frame}
+\begin{frame}{A origem das ideias}
   \begin{exampleblock}{Exemplo}
     \begin{itemize}
       \scriptsize
@@ -327,15 +404,19 @@
   \end{exampleblock}
   \bigskip
   \begin{itemize}
-  \item<1-> Ideia preliminar informal, vaga\footnote{Assim foi sua ``proposta de pergunta 1/2''}
+  \item<1-> Ideia preliminar informal, vaga
     \bigskip
   \item<1-> Geralmente em termos de linguagem coloquial
     \bigskip
   \item<3-> Não pode ser avaliada com suporte estatístico
   \end{itemize}
+
+  \vfill
+  \scriptsize
+  \hfill Tukey, 1980
 \end{frame}
 
-\begin{frame}
+\begin{frame}{A origem das ideias}
   \scriptsize
   Desejo: pergunta geral, de amplo espectro e implicações profundas
   \bigskip
@@ -351,9 +432,13 @@
     \bigskip
   \item \ldots nenhum design pode isolar essas pessoas para um experimento
   \end{itemize}
+
+  \vfill
+  \scriptsize
+  \hfill Tukey, 1980
 \end{frame}
 
-\begin{frame}{Exemplo}
+\begin{frame}{A origem das ideias}
   \scriptsize
   O que \alert{pode} ser perguntado está limitado por:
   \bigskip
@@ -366,11 +451,16 @@
   \item ausência de outras condições potencialmente fatais
     \bigskip
   \item tipos de pacientes que podem ser encontrados/observados
+    \bigskip
   \item etc.
   \end{itemize}
+
+  \vfill
+  \scriptsize
+  \hfill Tukey, 1980
 \end{frame}
 
-\begin{frame}{Formulação da pergunta}
+\begin{frame}{A origem das ideias}
   \begin{itemize}
     \footnotesize
   \item o que pode concretamente ser perguntado
@@ -380,10 +470,13 @@
   \item chance de um certo design resultar em resposta útil
   \end{itemize}
   \bigskip
-  \pause
   \begin{block}{}
     { ``Como eu estudo o que está acontecendo aqui?''}
   \end{block}
+
+  \vfill
+  \scriptsize
+  \hfill Tukey, 1980
 \end{frame}
 
 \begin{frame}{Por onde começar?}
@@ -399,27 +492,19 @@
   \end{itemize}
 \end{frame}
 
-\subsection{Exercício}
-
-\begin{frame}{\scriptsize Exercício 1: Que pergunta este gráfico lhe motiva?}
-  \begin{center}
-    \includegraphics[height=.9\textheight]{EDA/EDA-corr1}
-  \end{center}
-\end{frame}
-
-\begin{frame}{\scriptsize Exercício 2: O Gênero parece influenciar?}
-  \begin{center}
-    \includegraphics[height=.9\textheight]{EDA/EDA-corr2}
-  \end{center}
-\end{frame}
-
-\begin{frame}{\scriptsize Exercício 3: E a idade?}
-  \begin{center}
-    \includegraphics[height=.9\textheight]{EDA/EDA-corr3}
-  \end{center}
-\end{frame}
-
 \subsection{Tabelas}
+
+\begin{frame}
+  \begin{exampleblock}{Exemplo}
+    \begin{center}
+      \includegraphics[width=.9\textwidth]{EDA/eda-tabela}
+    \end{center}
+  \end{exampleblock}
+
+  \vfill
+  \tiny
+  \hfill \href{https://doi.org/10.1016/j.athoracsur.2010.09.019}{Lamelas, et al; 2011}
+\end{frame}
 
 \begin{frame}{Tabelas}
   \begin{exampleblock}{Exemplo}
@@ -469,7 +554,119 @@
 
 \subsection{Figuras}
 
-\subsubsection{Gráfico de Dispersão}
+% \subsubsection{Histogramas}
+
+\begin{frame}{Histograma}
+  \begin{itemize}
+    \footnotesize
+  \item Gráfico de barras com frequências dos dados
+    \bigskip
+  \item visualização prática da distribuição dos dados
+    \bigskip
+  \item identificar simetria, tendência central, dispersão, etc
+  \end{itemize}
+\end{frame}
+
+\begin{frame}
+  \begin{exampleblock}{Exemplo}
+    \begin{center}
+      \includegraphics[height=0.7\textheight]{EDA/eda-histograma1}
+    \end{center}
+  \end{exampleblock}
+
+  \vfill
+  \scriptsize
+  \hfill \href{https://doi.org/10.1002/0471264385.wei0202}
+  {Behrens, Yu (2003)}
+\end{frame}
+
+\begin{frame}
+  \begin{columns}
+    \begin{column}{.5\textwidth}
+      \begin{itemize}
+        \tiny
+      \item<2> Mensurações mais frequentes no centro
+      \item<3,4> Mensurações altas/baixas menos frequentes...
+      \item<4> ... com frequências semelhantes (simetria)
+      \item<5> Ideia da variabilidade das mensurações (``largura'')
+      \end{itemize}
+    \end{column}
+    \begin{column}{.5\textwidth}
+      \begin{center}
+        \includegraphics[width=1.35\textwidth]{EDA/eda-histograma1}
+      \end{center}
+    \end{column}
+  \end{columns}
+\end{frame}
+
+\begin{frame}
+  \begin{exampleblock}{\scriptsize Distribuições de dados podem ter várias formas}
+    \begin{center}
+      \includegraphics[width=1\textwidth]{EDA/eda-histograma2}
+    \end{center}
+  \end{exampleblock}
+\end{frame}
+
+% \subsubsection{Boxplot}
+
+\begin{frame}{Boxplot}
+  \begin{itemize}
+    \footnotesize
+  \item Mensurações feitas em dois ou mais grupos\footnote{\tiny e.g., exposição/tratamento 1, tratamento 2, controle...}
+    \bigskip
+  \item caixa que contém 50\% dos dados\ldots
+  \item \ldots e segmentos verticais que englobam a maior parte dos
+    dados
+    \bigskip
+  \item mensurações fora dos limites $\Rightarrow$ investigar
+    possíveis outliers\footnote{\tiny erros de mensuração, imputação, viés de seleção/amostragem, observações raras...?}
+    \bigskip
+  \item Ideal para grandes quantidades de dados
+  \end{itemize}
+\end{frame}
+
+\begin{frame}{Dotplot}
+  \begin{exampleblock}{Exemplo}
+    \begin{center}
+      \includegraphics[height=0.7\textheight]{EDA/eda-boxplot1}
+    \end{center}
+  \end{exampleblock}
+
+  \vfill
+  \scriptsize
+  \hfill \href{https://doi.org/10.1002/0471264385.wei0202}
+  {Behrens, Yu (2003)}
+\end{frame}
+
+\begin{frame}{Boxplot}
+  \begin{exampleblock}{Exemplo}
+    \begin{center}
+      \includegraphics[height=0.7\textheight]{EDA/eda-boxplot2}
+    \end{center}
+  \end{exampleblock}
+
+  \vfill
+  \scriptsize
+  \hfill \href{https://doi.org/10.1002/0471264385.wei0202}
+  {Behrens, Yu (2003)}
+\end{frame}
+
+\begin{frame}
+  \begin{columns}
+    \begin{column}{.5\textwidth}
+      \begin{center}
+        \includegraphics[width=\textwidth]{EDA/eda-boxplot2}
+      \end{center}
+    \end{column}
+    \begin{column}{.5\textwidth}
+      \begin{center}
+        \includegraphics[width=\textwidth]{EDA/eda-boxplot1}
+      \end{center}
+    \end{column}
+  \end{columns}
+\end{frame}
+
+% \subsubsection{Gráfico de Dispersão}
 
 \begin{frame}{Gráficos de dispersão}
   % \scriptsize
@@ -487,128 +684,212 @@
   \end{itemize}
 \end{frame}
 
-\begin{frame}{Relação linear}
-  \begin{center}
-    \includegraphics[height=0.7\textheight]{EDA/eda-dispersao1}
-  \end{center}
+\begin{frame}
+  \begin{block}{}
+    \begin{center}
+      A álgebra mente...
+
+      \bigskip
+      ... portanto figuras são necessárias
+    \end{center}
+  \end{block}
 
   \vfill
-  \scriptsize
-  \hfill Fonte: Behrens, Yu (2003)
+  \tiny
+  \hfill \href{https://doi.org/10.1002/0471264385.wei0202}
+  {Behrens, Yu (2003)}
 \end{frame}
 
-\begin{frame}{Relação não linear}
-  \begin{center}
-    \includegraphics[height=0.7\textheight]{EDA/eda-dispersao2}
-  \end{center}
+\begin{frame}
+  \begin{exampleblock}{\scriptsize Datasets didáticos de Anscombe, 1973}
+    \begin{center}
+      \includegraphics[width=.25\textwidth]{EDA/eda-dispersao1}
+      \includegraphics[width=.25\textwidth]{EDA/eda-dispersao2}
+
+      \includegraphics[width=.25\textwidth]{EDA/eda-dispersao3}
+      \includegraphics[width=.25\textwidth]{EDA/eda-dispersao4}
+    \end{center}
+  \end{exampleblock}
 
   \vfill
-  \scriptsize
-  \hfill Fonte: Behrens, Yu (2003)
+  \tiny
+  Quatro datasets com perfis
+
+  completamente diferentes $\Rightarrow$ mesma reta de melhor ajuste
+
+  \hfill \href{https://doi.org/10.1002/0471264385.wei0202}
+  {Behrens, Yu (2003)}
+
+  \hfill \href{https://www.itl.nist.gov/div898/handbook/eda/section1/eda16.htm}
+  {NIST Handbook (1998)}
 \end{frame}
 
-\begin{frame}{Anomalias}
+\begin{frame}{}
+  \begin{columns}
+    \begin{column}{.5\textwidth}
+      \begin{itemize}
+        \tiny
+      \item<2-4> Relação ``claramente'' linear...
+      \item<2-4> ... alguma dispersão
+        \begin{itemize}
+          \tiny
+        \item<4> Não há justificativa para um modelo mais
+          complexo (quadrático, etc...)
+      \end{itemize}
+      \item<5> Não há outliers
+      \item<6,7> Distância vertical à reta (Y) semelhante ao longo da faixa (X)
+        \begin{itemize}
+          \tiny
+        \item<7> Não é necessário aplicar ponderações ou transformações
+        \end{itemize}
+      \end{itemize}
+    \end{column}
+    \begin{column}{.5\textwidth}
+      \begin{center}
+        \includegraphics[width=\textwidth]{EDA/eda-dispersao1}
+      \end{center}
+    \end{column}
+  \end{columns}
+\end{frame}
+
+\begin{frame}
+  \begin{columns}
+    \begin{column}{.5\textwidth}
+      \begin{itemize}
+        \tiny
+      \item<2> Relação claramente não é linear
+      \item<3> Relação ``claramente'' quadrática
+      \end{itemize}
+    \end{column}
+    \begin{column}{.5\textwidth}
+      \begin{center}
+        \includegraphics[width=\textwidth]{EDA/eda-dispersao2}
+      \end{center}
+    \end{column}
+  \end{columns}
+\end{frame}
+
+\begin{frame}
+  \begin{columns}
+    \begin{column}{.5\textwidth}
+      \begin{itemize}
+        \tiny
+      \item<2> ``Claramente'' possui um outlier
+      \item<3> ... que ``puxa'' a reta para cima
+      \end{itemize}
+    \end{column}
+    \begin{column}{.5\textwidth}
+      \begin{center}
+        \includegraphics[width=\textwidth]{EDA/eda-dispersao3}
+      \end{center}
+    \end{column}
+  \end{columns}
+\end{frame}
+
+\begin{frame}
+  \begin{columns}
+    \begin{column}{.5\textwidth}
+      \begin{itemize}
+        \tiny
+      \item<2> CLARAMENTE vítima de um desenho experimental infeliz\footnote{Não assistiu a aula de Planejamento/Protocolo}
+      \item<3,4> Um único ponto afastado do cluster de dados
+      \item<4> ``cauda abanando o cachorro''
+      \end{itemize}
+    \end{column}
+    \begin{column}{.5\textwidth}
+      \begin{center}
+        \includegraphics[width=\textwidth]{EDA/eda-dispersao4}
+      \end{center}
+    \end{column}
+  \end{columns}
+\end{frame}
+
+\subsection{Exercício}
+
+\begin{frame}
   \begin{center}
-    \includegraphics[height=0.7\textheight]{EDA/eda-dispersao3}
+    \includegraphics[width=\textwidth]{EDA/eda-exercicio1}
   \end{center}
-
-  \vfill
-  \scriptsize
-  \hfill Fonte: Behrens, Yu (2003)
-\end{frame}
-
-\begin{frame}{??}
-  \begin{center}
-    \includegraphics[height=0.7\textheight]{EDA/eda-dispersao4}
-  \end{center}
-
-  \vfill
-  \scriptsize
-  \hfill Fonte: Behrens, Yu (2003)
-\end{frame}
-
-\subsubsection{Histogramas}
-
-\begin{frame}{Histograma}
-  \begin{itemize}
-    \footnotesize
-  \item Gráfico de barras com frequências dos dados
-    \bigskip
-  \item visualização prática da distribuição dos dados
-    \bigskip
-  \item identificar simetria, tendência central, dispersão, etc
-  \end{itemize}
 \end{frame}
 
 \begin{frame}
   \begin{center}
-    \includegraphics[height=0.7\textheight]{EDA/eda-histograma1}
+    \includegraphics[width=\textwidth]{EDA/eda-exercicio2}
   \end{center}
-
-  \vfill
-  \scriptsize
-  \hfill Fonte: Behrens, Yu (2003)
 \end{frame}
 
-% \begin{frame}
-%   \begin{center}
-%     \includegraphics[width=1\textwidth]{EDA/eda-histograma2}
-%   \end{center}
-%   Fonte: Behrens, Yu (2003)
-% \end{frame}
-
-\subsubsection{Boxplot}
-
-\begin{frame}{Boxplot}
-  \begin{itemize}
-    \footnotesize
-  \item caixa que contém 50\% dos dados\ldots
-    \bigskip
-  \item \ldots e segmentos verticais que englobam a maior parte dos
-    dados
-    \bigskip
-  \item elementos fora deste intervalo devem ser investigados como
-    possíveis outliers
-    \bigskip
-  \item Ideal para grandes quantidades de dados
-  \end{itemize}
-\end{frame}
-
-\begin{frame}{}
+\begin{frame}
   \begin{center}
-    \includegraphics[height=0.7\textheight]{EDA/eda-boxplot1}
+    \includegraphics[height=.9\textheight]{EDA/eda-exercicio3}
   \end{center}
-
-  \vfill
-  \scriptsize
-  \hfill Fonte: Behrens, Yu (2003)
 \end{frame}
 
-\begin{frame}{O boxplot}
+\begin{frame}{\scriptsize Que pergunta este gráfico lhe motiva?}
   \begin{center}
-    \includegraphics[height=0.7\textheight]{EDA/eda-boxplot2}
+    \includegraphics[height=.8\textheight]{EDA/EDA-corr1}
   \end{center}
 
   \vfill
+  \tiny
+  \hfill dados simulados com base no artigo
+\end{frame}
+
+\begin{frame}{\scriptsize O Gênero parece influenciar?}
+  \begin{center}
+    \includegraphics[height=.8\textheight]{EDA/EDA-corr2}
+  \end{center}
+
+  \vfill
+  \tiny
+  \hfill dados simulados com base no artigo
+\end{frame}
+
+\begin{frame}{\scriptsize E a idade?}
+  \begin{center}
+    \includegraphics[height=.8\textheight]{EDA/EDA-corr3}
+  \end{center}
+
+  \vfill
+  \tiny
+  \hfill dados simulados com base no artigo
+\end{frame}
+
+\subsection{Resumo}
+
+\begin{frame}{Resumo}
+  \begin{enumerate}
+    \scriptsize
+  \item Não há escolha entre exploratória OU confirmatória -- ambas são importantes
+    \bigskip
+  \item É preciso pensar em ciência no sentido amplo, e não no paradigma linear
+    \bigskip
+  \item Para uma confirmação adequada, precisamos de um desenho cuidadosamente randomizado
+    \bigskip
+  \item Pensar em exploratória como uma atitude, não apenas como um conjunto de técnicas -- e usá-la antes da confirmatória
+  \end{enumerate}
+
+  \vfill
   \scriptsize
-  \hfill Fonte: Behrens, Yu (2003)
+  \hfill Tukey, 1980
 \end{frame}
 
 \subsection{Referências}
 
 \begin{frame}{Referências}
   \begin{itemize}
-    \scriptsize
-  \item<1-> NIST Handbook (1998), Exploratory Data Analysis, cap 1 --
-
-    {\tiny \url{http://www.itl.nist.gov/div898/handbook/eda/section1/eda1.htm}}
-    (Acessado em 10/09/2015)
-  \item<1-> Tukey (1980), We need both exploratory and confirmatory,
+    \tiny
+  \item Tukey (1980), We need both exploratory and confirmatory,
 
     {\tiny \url{http://www-ece.rice.edu/~fk1/classes/ELEC697/TukeyEDA.pdf}}
+
     (Acessado em 10/09/2015)
-  \item<1-> Behrens, Yu (2003), Exploratory Data Analysis, cap 2 -
-    Research Methods in Psychology
+  \item NIST Handbook (1998), Exploratory Data Analysis, cap 1 --
+
+    {\tiny \url{http://www.itl.nist.gov/div898/handbook/eda/section1/eda1.htm}}
+
+    (Acessado em 10/09/2015)
+  \item \href{https://doi.org/10.1002/0471264385.wei0202}
+  {Behrens, Yu (2003), Exploratory Data Analysis, cap 2 -- Research Methods in Psychology}
   \end{itemize}
 \end{frame}
 
@@ -618,8 +899,15 @@
 
 \begin{frame}{Aprofundamento}
   \begin{block}{Leitura obrigatória}
+    Não há.
   \end{block}
   \begin{block}{Leitura recomendada}
+    \tiny
+    Tukey (1980), We need both exploratory and confirmatory,
+
+    {\tiny \url{http://www-ece.rice.edu/~fk1/classes/ELEC697/TukeyEDA.pdf}}
+
+    (Acessado em 10/09/2015)
   \end{block}
 \end{frame}
 
