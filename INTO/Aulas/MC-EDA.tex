@@ -165,83 +165,122 @@
 
 \subsection{EDA}
 
-\begin{frame}{Evidências}
-  ``{\em It is a capital mistake to theorize before one has
-    data. Insensibly one begins to twist facts to suit theories,
-    instead of theories to suit facts.}'' Sherlock Holmes
+\begin{frame}
+  \begin{block}{Evidências}
+    \footnotesize
+    ``{\em
+      It is a capital mistake to theorize before one has data.
+      Insensibly one begins to twist facts to suit theories, instead
+      of theories to suit facts.}''
+
+  \bigskip
+  \hfill \tiny Sherlock Holmes
+  \end{block}
 \end{frame}
 
 \begin{frame}{Paradigmas de Análises de Dados}
-Estudos quantitativos exigem coleta e análise de dados
+  \footnotesize
+  Estudos quantitativos requerem coleta e análise de dados
+  \bigskip
+  \bigskip
   \begin{itemize}
-  \item EDA -- Análise Exploratória de Dados
+  \item \alert<2>{EDA -- Análise Exploratória de Dados}
+  \bigskip
   \item CDA -- Análise Confirmatória de Dados
   \end{itemize}
 \end{frame}
 
 \begin{frame}{Análise Exploratória de Dados}
   \begin{itemize}
+    \footnotesize
   \item<1-> Formalizado por John W. Tukey nos anos 1970
+  \bigskip
   \item<1-> Objetivo: formular perguntas com base nos dados disponíveis
+  \bigskip
   \item<2-> Perguntas que podem ser respondidas pela análise dos dados
   \end{itemize}
 \end{frame}
 
 \begin{frame}{Análise Exploratória de Dados}
   \begin{block}{O que é}
-    EDA é uma filosofia/approach para
+    \scriptsize
+    Uma filosofia/approach para
+
+    \bigskip
     \begin{itemize}
-    \item maximizar a compreensão/insight sobre um dataset
-    \item descobrir estruturas
+      \footnotesize
+    \item insight sobre um dataset
+      \medskip
+    \item descobrir estruturas/padrões
+      \medskip
     \item identificar variáveis importantes
+      \medskip
     \item detectar outliers e anomalias
     \end{itemize}
   \end{block}
-  Fonte: NIST Handbook (1998)
+
+  \vfill
+  \scriptsize
+  \hfill Fonte: NIST Handbook (1998)
 \end{frame}
 
 \begin{frame}{Análise Exploratória de Dados}
   \begin{block}{Tukey, 1980}
-    {\em ``Ideas come from previous exploration more often than from
-      lightning strokes. Important questions can demand the most
-      careful planning for confirmatory analysis. (\ldots) Finding the
-      question is often more important than finding the
-      answer. Exploratory data analysis is an atitude, (\ldots) NOT a
-      bundle of techniques (\ldots).''}
+    \footnotesize {\em ``Ideas come from previous exploration more
+      often than from lightning strokes. Important questions can
+      demand the most careful planning for confirmatory
+      analysis. (\ldots) \alert<2>{Finding the question is often more
+        important than finding the answer.} Exploratory data analysis
+      is an atitude, (\ldots) NOT a bundle of techniques (\ldots).''}
   \end{block}
 
-Tukey (1980) - We Need Both Exploratory and Confirmatory
+  \vfill
+  \scriptsize
+  \hfill Tukey (1980) -- We Need Both Exploratory and Confirmatory
 \end{frame}
 
 \begin{frame}{Análise Exploratória de Dados}
-  Para Tukey:
+  \begin{block}{Para Tukey:}
   \begin{itemize}
+    \footnotesize
   \item Não basta fazer a análise confirmatória, nem a exploratória:
     \alert{ambas} são necessárias
+    \bigskip
   \item Paradigma: pergunta $\rightarrow$ resposta é inadequado
+    \bigskip
   \item ``Encontrar a pergunta é por vezes mais importante que
     encontrar a resposta''
   \end{itemize}
+\end{block}
 \end{frame}
 
 \begin{frame}{Paradigma linear}
   \begin{center}
     \includegraphics[width=0.7\textwidth]{EDA/eda-tukey1}
   \end{center}
+  \bigskip
   \begin{enumerate}
+    \footnotesize
   \item Como as perguntas são geradas?
+    \bigskip
   \item Como os desenhos (experimentais) são guiados?
+    \bigskip
   \item Como a coleta de dados é monitorada?
   \end{enumerate}
 \end{frame}
 
 \begin{frame}{Questões sobre o paradigma confirmatório}
+  \scriptsize
   Respostas: Geralmente por \ldots
+  \bigskip
   \begin{enumerate}
-  \item  {\em insights} teóricos e a exploração de dados
+    \footnotesize
+  \item {\em insights} teóricos e a exploração de dados
     anteriores (e.g., pesquisa bibliográfica)
+    \bigskip
   \item informação qualitativa disponível obtida da exploração de
     dados anteriores
+    \bigskip
   \item exploração dos dados, conforme são obtidos, buscando
     comportamento ``inesperado''
   \end{enumerate}
@@ -249,8 +288,11 @@ Tukey (1980) - We Need Both Exploratory and Confirmatory
 
 \begin{frame}{Explorar\ldots}
   \begin{itemize}
+    \footnotesize
   \item A chave então é explorar os dados
+    \bigskip
   \item Explorar antes, durante e depois da análise confirmatória
+    \bigskip
   \item Busca de pistas, ideias e eventualmente conclusões
     preliminares ({\em hipóteses}!)
   \end{itemize}
@@ -260,49 +302,69 @@ Tukey (1980) - We Need Both Exploratory and Confirmatory
   \begin{center}
     \includegraphics[width=0.7\textwidth]{EDA/eda-tukey2}
   \end{center}
-
-Tukey sugere que:
+  \scriptsize
+  Tukey sugere que:
+  \bigskip
   \begin{itemize}
+    \footnotesize
   \item Antes de termos uma pergunta, temos uma ideia (a ser
     formalizada)
+    \bigskip
   \item Pergunta formal depende dos dados disponíveis
+    \bigskip
   \item Questão pragmática, independe do desejo ou vontade
   \end{itemize}
 \end{frame}
 
-\begin{frame}{Exemplo}
-  \begin{example}
+\begin{frame}
+  \begin{exampleblock}{Exemplo}
     \begin{itemize}
-    \item Ideia: uma certa droga ajuda em uma doença
+      \scriptsize
+    \item<1-> Ideia: uma certa droga ajuda em uma doença
     \item<2-> Queremos testar/confirmar isso\ldots
     \item<3-> \ldots com consistência estatística na resposta
     \end{itemize}
-  \end{example}
+  \end{exampleblock}
+  \bigskip
   \begin{itemize}
-  \item Ideia preliminar informal, vaga
-  \item Geralmente em termos de linguagem coloquial
-  \item Não pode ser avaliada com suporte estatístico
+  \item<1-> Ideia preliminar informal, vaga\footnote{Assim foi sua ``proposta de pergunta 1/2''}
+    \bigskip
+  \item<1-> Geralmente em termos de linguagem coloquial
+    \bigskip
+  \item<3-> Não pode ser avaliada com suporte estatístico
+  \end{itemize}
+\end{frame}
+
+\begin{frame}
+  \scriptsize
+  Desejo: pergunta geral, de amplo espectro e implicações profundas
+  \bigskip
+  \begin{exampleblock}{Exemplo}
+    \scriptsize
+    ``Dos pacientes que morreriam em até três anos desta doença, que
+    proporção poderia ser salva por este tratamento?''
+  \end{exampleblock}
+  \bigskip
+  \begin{itemize}
+    \footnotesize
+  \item Dificuldade técnica\footnote{Neste exemplo, questão ética}\ldots
+    \bigskip
+  \item \ldots nenhum design pode isolar essas pessoas para um experimento
   \end{itemize}
 \end{frame}
 
 \begin{frame}{Exemplo}
-Desejo: pergunta geral, de amplo espectro e implicações profundas
-\begin{example}
-  ``Dos pacientes que morreriam em até três anos desta doença, que
-  fração poderia ser salva por este tratamento?''
-\end{example}
-\begin{itemize}
-\item Dificuldade técnica\ldots
-\item \ldots nenhum design pode isolar essas pessoas para um experimento
-\end{itemize}
-\end{frame}
-
-\begin{frame}{Exemplo}
+  \scriptsize
   O que \alert{pode} ser perguntado está limitado por:
+  \bigskip
   \begin{itemize}
+    \footnotesize
   \item Idade e sexo dos pacientes
+    \bigskip
   \item conjunto mínimo de sintomas
+    \bigskip
   \item ausência de outras condições potencialmente fatais
+    \bigskip
   \item tipos de pacientes que podem ser encontrados/observados
   \item etc.
   \end{itemize}
@@ -310,37 +372,48 @@ Desejo: pergunta geral, de amplo espectro e implicações profundas
 
 \begin{frame}{Formulação da pergunta}
   \begin{itemize}
+    \footnotesize
   \item o que pode concretamente ser perguntado
+    \bigskip
   \item que desenhos são viáveis
+    \bigskip
   \item chance de um certo design resultar em resposta útil
-  \item ``Como eu estudo o que está acontecendo aqui?''
   \end{itemize}
+  \bigskip
+  \pause
+  \begin{block}{}
+    { ``Como eu estudo o que está acontecendo aqui?''}
+  \end{block}
 \end{frame}
 
 \begin{frame}{Por onde começar?}
   \begin{itemize}
+    \footnotesize
   \item tabelas
+    \bigskip
   \item gráficos dos dados brutos
+    \bigskip
   \item estatísticas descritivas simples
+    \bigskip
   \item procurar padrões
   \end{itemize}
 \end{frame}
 
 \subsection{Exercício}
 
-\begin{frame}{Exercício 1: Que pergunta este gráfico lhe motiva?}
+\begin{frame}{\scriptsize Exercício 1: Que pergunta este gráfico lhe motiva?}
   \begin{center}
     \includegraphics[height=.9\textheight]{EDA/EDA-corr1}
   \end{center}
 \end{frame}
 
-\begin{frame}{Exercício 2: O Gênero parece influenciar?}
+\begin{frame}{\scriptsize Exercício 2: O Gênero parece influenciar?}
   \begin{center}
     \includegraphics[height=.9\textheight]{EDA/EDA-corr2}
   \end{center}
 \end{frame}
 
-\begin{frame}{Exercício 3: E a idade?}
+\begin{frame}{\scriptsize Exercício 3: E a idade?}
   \begin{center}
     \includegraphics[height=.9\textheight]{EDA/EDA-corr3}
   \end{center}
@@ -349,11 +422,12 @@ Desejo: pergunta geral, de amplo espectro e implicações profundas
 \subsection{Tabelas}
 
 \begin{frame}{Tabelas}
-  \begin{example}
+  \begin{exampleblock}{Exemplo}
+    \scriptsize
     Pacientes que tem uma enfermidade grave, podem ser submetidos a um tratamento cirúrgico.
 
-\bigskip
-
+    \bigskip
+    \begin{center}
     \begin{tabular}{l|cc|c}
       &Óbito & não óbito & Total\\
       \hline
@@ -362,9 +436,12 @@ Desejo: pergunta geral, de amplo espectro e implicações profundas
       \hline
       Total & 5 & 6 & 11
     \end{tabular}
-  \end{example}
+    \end{center}
+  \end{exampleblock}
 
+  \bigskip
   \begin{block}{Exercício}
+    % \footnotesize
     Formule uma pergunta sobre este contexto.
   \end{block}
 \end{frame}
@@ -390,14 +467,22 @@ Desejo: pergunta geral, de amplo espectro e implicações profundas
 % % }
 % \end{frame}
 
-\subsection{Gráfico de Dispersão}
+\subsection{Figuras}
+
+\subsubsection{Gráfico de Dispersão}
 
 \begin{frame}{Gráficos de dispersão}
-Gráficos de dispersão (ou scatter-plots):
+  % \scriptsize
+  % Gráficos de dispersão (ou scatter-plots):
+  % \bigskip
   \begin{itemize}
+    \footnotesize
   \item visualizar os dados pontuais diretamente
+    \bigskip
   \item identificar possíveis padrões ou tendências
+    \bigskip
   \item identificar visualmente possíveis outliers
+    \bigskip
   \item desenhar possíveis relações (modelos) sobre os dados
   \end{itemize}
 \end{frame}
@@ -406,36 +491,51 @@ Gráficos de dispersão (ou scatter-plots):
   \begin{center}
     \includegraphics[height=0.7\textheight]{EDA/eda-dispersao1}
   \end{center}
-  Fonte: Behrens, Yu (2003)
+
+  \vfill
+  \scriptsize
+  \hfill Fonte: Behrens, Yu (2003)
 \end{frame}
 
 \begin{frame}{Relação não linear}
   \begin{center}
     \includegraphics[height=0.7\textheight]{EDA/eda-dispersao2}
   \end{center}
-  Fonte: Behrens, Yu (2003)
+
+  \vfill
+  \scriptsize
+  \hfill Fonte: Behrens, Yu (2003)
 \end{frame}
 
 \begin{frame}{Anomalias}
   \begin{center}
     \includegraphics[height=0.7\textheight]{EDA/eda-dispersao3}
   \end{center}
-  Fonte: Behrens, Yu (2003)
+
+  \vfill
+  \scriptsize
+  \hfill Fonte: Behrens, Yu (2003)
 \end{frame}
 
 \begin{frame}{??}
   \begin{center}
     \includegraphics[height=0.7\textheight]{EDA/eda-dispersao4}
   \end{center}
-  Fonte: Behrens, Yu (2003)
+
+  \vfill
+  \scriptsize
+  \hfill Fonte: Behrens, Yu (2003)
 \end{frame}
 
-\subsection{Histogramas}
+\subsubsection{Histogramas}
 
 \begin{frame}{Histograma}
   \begin{itemize}
+    \footnotesize
   \item Gráfico de barras com frequências dos dados
+    \bigskip
   \item visualização prática da distribuição dos dados
+    \bigskip
   \item identificar simetria, tendência central, dispersão, etc
   \end{itemize}
 \end{frame}
@@ -444,7 +544,10 @@ Gráficos de dispersão (ou scatter-plots):
   \begin{center}
     \includegraphics[height=0.7\textheight]{EDA/eda-histograma1}
   \end{center}
-  Fonte: Behrens, Yu (2003)
+
+  \vfill
+  \scriptsize
+  \hfill Fonte: Behrens, Yu (2003)
 \end{frame}
 
 % \begin{frame}
@@ -454,15 +557,19 @@ Gráficos de dispersão (ou scatter-plots):
 %   Fonte: Behrens, Yu (2003)
 % \end{frame}
 
-\subsection{Boxplot}
+\subsubsection{Boxplot}
 
 \begin{frame}{Boxplot}
   \begin{itemize}
+    \footnotesize
   \item caixa que contém 50\% dos dados\ldots
+    \bigskip
   \item \ldots e segmentos verticais que englobam a maior parte dos
     dados
+    \bigskip
   \item elementos fora deste intervalo devem ser investigados como
     possíveis outliers
+    \bigskip
   \item Ideal para grandes quantidades de dados
   \end{itemize}
 \end{frame}
@@ -471,25 +578,34 @@ Gráficos de dispersão (ou scatter-plots):
   \begin{center}
     \includegraphics[height=0.7\textheight]{EDA/eda-boxplot1}
   \end{center}
-  Fonte: Behrens, Yu (2003)
+
+  \vfill
+  \scriptsize
+  \hfill Fonte: Behrens, Yu (2003)
 \end{frame}
 
 \begin{frame}{O boxplot}
   \begin{center}
     \includegraphics[height=0.7\textheight]{EDA/eda-boxplot2}
   \end{center}
-  Fonte: Behrens, Yu (2003)
+
+  \vfill
+  \scriptsize
+  \hfill Fonte: Behrens, Yu (2003)
 \end{frame}
 
 \subsection{Referências}
 
 \begin{frame}{Referências}
   \begin{itemize}
-  \item<1-> NIST Handbook (1998), Exploratory Data Analysis, cap 1 -
-    \url{http://www.itl.nist.gov/div898/handbook/eda/section1/eda1.htm}
+    \scriptsize
+  \item<1-> NIST Handbook (1998), Exploratory Data Analysis, cap 1 --
+
+    {\tiny \url{http://www.itl.nist.gov/div898/handbook/eda/section1/eda1.htm}}
     (Acessado em 10/09/2015)
   \item<1-> Tukey (1980), We need both exploratory and confirmatory,
-    \url{http://www-ece.rice.edu/~fk1/classes/ELEC697/TukeyEDA.pdf}
+
+    {\tiny \url{http://www-ece.rice.edu/~fk1/classes/ELEC697/TukeyEDA.pdf}}
     (Acessado em 10/09/2015)
   \item<1-> Behrens, Yu (2003), Exploratory Data Analysis, cap 2 -
     Research Methods in Psychology
