@@ -18,8 +18,8 @@ Este arquivo deve ser um ANEXO do relatório.
 == Relatório final ==
 
 O conteúdo do relatório já está pronto, mas sempre pode ser melhorado.
-Agora que você já tem uma semana desde a criação das últimas seções de conteúdo, você pode aproveitar estar última oportunidade para incorporarmelhorá-lo:
-você pode por exemplo eformular algumas frases para maior clareza,
+Agora que você já tem uma semana desde a criação das últimas seções de conteúdo, você pode aproveitar estar última oportunidade para incorporar melhorá-lo:
+você pode por exemplo reformular algumas frases para maior clareza,
 corrigir pequenos detalhes de formatação
 e fazer outras melhorias que julgar necessário.
 
