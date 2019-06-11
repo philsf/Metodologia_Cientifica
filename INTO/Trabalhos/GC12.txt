@@ -10,6 +10,11 @@ Elaborar uma apresentação abrangente do estudo. A apresentação deve ser plan
 
 Deve conter a mesma estrutura do trabalho produzido (contexto, métodos, resultados, discussão e conclusão).
 
+== Checklist PRISMA ==
+
+Preencher o CHECKLIST PRISMA identificando em que página cada item utilizado é apresentado no seu documento.
+Este arquivo deve ser um ANEXO do relatório.
+
 == Relatório final ==
 
 O conteúdo do relatório já está pronto, mas sempre pode ser melhorado.
@@ -26,13 +31,9 @@ Não se esqueça do seguintes items:
 - Atualizar todos os sumários e listas
 - Data do documento: dia da última modificação feita no mesmo antes da postagem.
 
-Além disto, você deve:
-
-- Preencher o CHECKLIST PRISMA identificando em que página cada item utilizado é apresentado no seu documento.
-Este arquivo deve ser um ANEXO do relatório.
-
 == Arquivos necessários para a conclusão desta tarefa ==
 
 - Protocolo do estudo (apenas a última versão) (em DOC ou PDF)
 - Relatório do estudo (em DOC ou PDF)
 - Apresentação (em PPT ou PDF)
+
