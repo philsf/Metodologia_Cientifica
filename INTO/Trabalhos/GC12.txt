@@ -23,7 +23,7 @@ você pode por exemplo eformular algumas frases para maior clareza,
 corrigir pequenos detalhes de formatação
 e fazer outras melhorias que julgar necessário.
 
-Não se esqueça do seguintes items:
+== Sugestões ==
 
 - Conferir adequabilidade do título
 - Incorporar todo o conteúdo gerado
