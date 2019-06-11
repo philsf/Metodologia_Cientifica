@@ -29,6 +29,7 @@ Não se esqueça do seguintes items:
 Além disto, você deve:
 
 - Preencher o CHECKLIST PRISMA identificando em que página cada item utilizado é apresentado no seu documento.
+Este arquivo deve ser um ANEXO do relatório.
 
 == Arquivos necessários para a conclusão desta tarefa ==
 
