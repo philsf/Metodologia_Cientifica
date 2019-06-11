@@ -1,8 +1,39 @@
 Título: 12 - Apresentação + relatório final
 
-- Elaborar uma apresentação abrangente do estudo (para 20min)
-- Fazer quaisquer alterações que julgar necessárias no relatório e finalizá-lo
-  - Conferir adequabilidade do título
-  - Incorporar todo o conteúdo gerado
-  - Corretor ortográfico
-  - Atualizar todos os sumários e listas
+== Objetivo da Atividade ==
+
+Elaborar uma apresentação dos resultados do estudo concluído, e finalizar o relatório do estudo.
+
+== Apresentação ==
+
+Elaborar uma apresentação abrangente do estudo. A apresentação deve ser planejada para o tempo de 20 minutos.
+
+Deve conter a mesma estrutura do trabalho produzido (contexto, métodos, resultados, discussão e conclusão).
+
+== Checklist PRISMA ==
+
+Preencher o CHECKLIST PRISMA identificando em que página cada item utilizado é apresentado no seu documento.
+Este arquivo deve ser um ANEXO do relatório.
+
+== Relatório final ==
+
+O conteúdo do relatório já está pronto, mas sempre pode ser melhorado.
+Agora que você já tem uma semana desde a criação das últimas seções de conteúdo, você pode aproveitar estar última oportunidade para incorporar melhorá-lo:
+você pode por exemplo reformular algumas frases para maior clareza,
+corrigir pequenos detalhes de formatação
+e fazer outras melhorias que julgar necessário.
+
+== Sugestões ==
+
+- Conferir adequabilidade do título
+- Incorporar todo o conteúdo gerado
+- Corretor ortográfico
+- Atualizar todos os sumários e listas
+- Data do documento: dia da última modificação feita no mesmo antes da postagem.
+
+== Arquivos necessários para a conclusão desta tarefa ==
+
+- Protocolo do estudo (apenas a última versão) (em DOC ou PDF)
+- Relatório do estudo (em DOC ou PDF)
+- Apresentação (em PPT ou PDF)
+
