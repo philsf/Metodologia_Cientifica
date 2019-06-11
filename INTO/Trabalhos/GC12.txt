@@ -6,9 +6,12 @@ Elaborar uma apresentação dos resultados do estudo concluído, e finalizar o r
 
 == Apresentação ==
 
+Elaborar uma apresentação abrangente do estudo. A apresentação deve ser planejada para o tempo de 20 minutos.
+
+Deve conter a mesma estrutura do trabalho produzido (contexto, métodos, resultados, discussão e conclusão).
+
 == Relatório final ==
 
-- Elaborar uma apresentação abrangente do estudo (para 20min)
 - Fazer quaisquer alterações que julgar necessárias no relatório e finalizá-lo
   - Conferir adequabilidade do título
   - Incorporar todo o conteúdo gerado
