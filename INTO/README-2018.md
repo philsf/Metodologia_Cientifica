@@ -21,19 +21,19 @@ A digulgação do material para os alunos é feita pelo endereço: https://sites
 
 <!-- 1. [Indicadores em Ciência][] (Hirsch 2005; Garfield 2006) -->
 
-[Reprodutibilidade de estudos, e indicadores na Ciência]: Aulas/MC-Intro_4em1.pdf?raw=true
-[Métodos científicos]: Aulas/MC-Metodos_4em1.pdf?raw=true
-[Revisão bibliográfica para a Introdução e Resumo]: Aulas/MC-Revisao_resumo_4em1.pdf?raw=true
-[Problema, Hipótese, variável]: Aulas/MC-Prob_Hip_Var_4em1.pdf?raw=true
-[Etapas da Pesquisa (Planejamento e eventuais fracassos)]: Aulas/MC-Etapas_4em1.pdf?raw=true
-[Tópicos em formulação de hipóteses]: Aulas/MC-EDA_4em1.pdf?raw=true
-[Estrutura do Projeto I - Conteúdo das seções]: Aulas/MC-ProjetoI_4em1.pdf?raw=true
-[Estrutura do Projeto II – Forma (tutorial de sumários no Word)]: Aulas/MC-ProjetoII_4em1.pdf?raw=true
-[Citações, Referências e Plágio (aula prática de Mendeley)]: Aulas/MC-Referencias_4em1.pdf?raw=true
-[Tópicos de busca bibliográfica (Google-fu, *et al*)]: Aulas/MC-Busca_4em1.pdf?raw=true
-[Tópicos de escrita científica]: Aulas/MC-Escrita_4em1.pdf?raw=true
-[Indicadores em Ciência]: Aulas/MC-Indicadores_4em1.pdf?raw=true
-[Tópicos em Estratégias de Apresentação]: Aulas/MC-Apresentacao.pptx?raw=true
+[Reprodutibilidade de estudos, e indicadores na Ciência]: https://github.com/philsf/Metodologia_Cientifica/blob/v2018.2-INTO/INTO/Aulas/MC-Intro_4em1.pdf?raw=true
+[Métodos científicos]: https://github.com/philsf/Metodologia_Cientifica/blob/v2018.2-INTO/INTO/Aulas/MC-Metodos_4em1.pdf?raw=true
+[Revisão bibliográfica para a Introdução e Resumo]: https://github.com/philsf/Metodologia_Cientifica/blob/v2018.2-INTO/INTO/Aulas/MC-Revisao_resumo_4em1.pdf?raw=true
+[Problema, Hipótese, variável]: https://github.com/philsf/Metodologia_Cientifica/blob/v2018.2-INTO/INTO/Aulas/MC-Prob_Hip_Var_4em1.pdf?raw=true
+[Etapas da Pesquisa (Planejamento e eventuais fracassos)]: https://github.com/philsf/Metodologia_Cientifica/blob/v2018.2-INTO/INTO/Aulas/MC-Etapas_4em1.pdf?raw=true
+[Tópicos em formulação de hipóteses]: https://github.com/philsf/Metodologia_Cientifica/blob/v2018.2-INTO/INTO/Aulas/MC-EDA_4em1.pdf?raw=true
+[Estrutura do Projeto I - Conteúdo das seções]: https://github.com/philsf/Metodologia_Cientifica/blob/v2018.2-INTO/INTO/Aulas/MC-ProjetoI_4em1.pdf?raw=true
+[Estrutura do Projeto II – Forma (tutorial de sumários no Word)]: https://github.com/philsf/Metodologia_Cientifica/blob/v2018.2-INTO/INTO/Aulas/MC-ProjetoII_4em1.pdf?raw=true
+[Citações, Referências e Plágio (aula prática de Mendeley)]: https://github.com/philsf/Metodologia_Cientifica/blob/v2018.2-INTO/INTO/Aulas/MC-Referencias_4em1.pdf?raw=true
+[Tópicos de busca bibliográfica (Google-fu, *et al*)]: https://github.com/philsf/Metodologia_Cientifica/blob/v2018.2-INTO/INTO/Aulas/MC-Busca_4em1.pdf?raw=true
+[Tópicos de escrita científica]: https://github.com/philsf/Metodologia_Cientifica/blob/v2018.2-INTO/INTO/Aulas/MC-Escrita_4em1.pdf?raw=true
+[Indicadores em Ciência]: https://github.com/philsf/Metodologia_Cientifica/blob/v2018.2-INTO/INTO/Aulas/MC-Indicadores_4em1.pdf?raw=true
+[Tópicos em Estratégias de Apresentação]: https://github.com/philsf/Metodologia_Cientifica/blob/v2018.2-INTO/INTO/Aulas/MC-Apresentacao.pptx?raw=true
 
 ## Bibliografia ##
 

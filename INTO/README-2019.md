@@ -24,19 +24,19 @@ A digulgação do material para os alunos é feita pelo endereço: https://sites
 
 <!-- 1. [Indicadores em Ciência][] (Hirsch 2005; Garfield 2006) -->
 
-[Intro]: Aulas/MC-Intro_4em1.pdf?raw=true
-[Métodos]: Aulas/MC-Metodos_4em1.pdf?raw=true
-[Revisão]: Aulas/MC-Revisao_resumo_4em1.pdf?raw=true
-[PICO]: Aulas/MC-Prob_Hip_Var_4em1.pdf?raw=true
-[Planejamento]: Aulas/MC-Planejamento_4em1.pdf?raw=true
-[EDA]: Aulas/MC-EDA_4em1.pdf?raw=true
-[Estrutura I]: Aulas/MC-EstruturaI_4em1.pdf?raw=true
-[Estrutura II]: Aulas/MC-EstruturaII_4em1.pdf?raw=true
-[Referências]: Aulas/MC-Referencias_4em1.pdf?raw=true
-[Busca]: Aulas/MC-Busca_4em1.pdf?raw=true
-[Escrita]: Aulas/MC-Escrita_4em1.pdf?raw=true
-[Indicadores em Ciência]: Aulas/MC-Indicadores_4em1.pdf?raw=true
-[Apresentação]: Aulas/MC-Apresentacao.pptx?raw=true
+[Intro]: https://github.com/philsf/Metodologia_Cientifica/blob/v2019.2-INTO/INTO/Aulas/MC-Intro_4em1.pdf?raw=true
+[Métodos]: https://github.com/philsf/Metodologia_Cientifica/blob/v2019.2-INTO/INTO/Aulas/MC-Metodos_4em1.pdf?raw=true
+[Revisão]: https://github.com/philsf/Metodologia_Cientifica/blob/v2019.2-INTO/INTO/Aulas/MC-Revisao_resumo_4em1.pdf?raw=true
+[PICO]: https://github.com/philsf/Metodologia_Cientifica/blob/v2019.2-INTO/INTO/Aulas/MC-Prob_Hip_Var_4em1.pdf?raw=true
+[Planejamento]: https://github.com/philsf/Metodologia_Cientifica/blob/v2019.2-INTO/INTO/Aulas/MC-Planejamento_4em1.pdf?raw=true
+[EDA]: https://github.com/philsf/Metodologia_Cientifica/blob/v2019.2-INTO/INTO/Aulas/MC-EDA_4em1.pdf?raw=true
+[Estrutura I]: https://github.com/philsf/Metodologia_Cientifica/blob/v2019.2-INTO/INTO/Aulas/MC-EstruturaI_4em1.pdf?raw=true
+[Estrutura II]: https://github.com/philsf/Metodologia_Cientifica/blob/v2019.2-INTO/INTO/Aulas/MC-EstruturaII_4em1.pdf?raw=true
+[Referências]: https://github.com/philsf/Metodologia_Cientifica/blob/v2019.2-INTO/INTO/Aulas/MC-Referencias_4em1.pdf?raw=true
+[Busca]: https://github.com/philsf/Metodologia_Cientifica/blob/v2019.2-INTO/INTO/Aulas/MC-Busca_4em1.pdf?raw=true
+[Escrita]: https://github.com/philsf/Metodologia_Cientifica/blob/v2019.2-INTO/INTO/Aulas/MC-Escrita_4em1.pdf?raw=true
+[Indicadores em Ciência]: https://github.com/philsf/Metodologia_Cientifica/blob/v2019.2-INTO/INTO/Aulas/MC-Indicadores_4em1.pdf?raw=true
+[Apresentação]: https://github.com/philsf/Metodologia_Cientifica/blob/v2019.2-INTO/INTO/Aulas/MC-Apresentacao.pptx?raw=true
 
 ## Avaliação ##
 
